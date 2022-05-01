@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u3252" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="16" FillTint="70">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Throughout 2021, CNCF underscored our commitment to making cloud native ubiquitous by hosting 16 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semibold Italic" PointSize="16" FillTint="100">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u32c0" Name="Hyperlink 115" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>graduated</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="16" FillTint="70">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content> projects, 26 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semibold Italic" PointSize="16" FillTint="100">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u32cd" Name="Hyperlink 116" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>incubating</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="16" FillTint="70">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content> and 78 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semibold Italic" PointSize="16" FillTint="100">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u32db" Name="Hyperlink 117" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>sandbox</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="16" FillTint="70">
+				<Properties>
+					<Leading type="unit">22</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content> projects, driven by more than 142,000 contributors representing 189 countries.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

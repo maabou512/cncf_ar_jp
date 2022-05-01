@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u431f" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="50.10938972790144" RuleAboveLineWeight="1.3919274924417064" RuleBelowLineWeight="1.3919274924417064" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="8.351564954650238" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="16.703129909300475" ParagraphBorderTopRightCornerRadius="16.703129909300475" ParagraphBorderBottomLeftCornerRadius="16.703129909300475" ParagraphBorderBottomRightCornerRadius="16.703129909300475" ParagraphShadingTopLeftCornerRadius="16.703129909300475" ParagraphShadingTopRightCornerRadius="16.703129909300475" ParagraphShadingBottomLeftCornerRadius="16.703129909300475" ParagraphShadingBottomRightCornerRadius="16.703129909300475" ParagraphBorderTopLineWeight="1.3919274924417064" ParagraphBorderBottomLineWeight="1.3919274924417064" ParagraphBorderLeftLineWeight="1.3919274924417064" ParagraphBorderRightLineWeight="1.3919274924417064" ParagraphDirection="LeftToRightDirection">
+			<Properties>
+				<SameParaStyleSpacing type="unit">-0.575909999999681</SameParaStyleSpacing>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Extra Bold" PointSize="20" StrokeWeight="1.3919274924417064" Tracking="80" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" MiterLimit="5.567709969766826" RubyFontSize="-1.3919274924417064" KentenFontSize="-1.3919274924417064">
+				<Properties>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>DIVERSITY, EQUITY AND Inclusivity</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u3aaf" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="74.23613293022434" RuleAboveLineWeight="2.0621148036173427" RuleBelowLineWeight="2.0621148036173427" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="12.372688821704056" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="24.745377643408112" ParagraphBorderTopRightCornerRadius="24.745377643408112" ParagraphBorderBottomLeftCornerRadius="24.745377643408112" ParagraphBorderBottomRightCornerRadius="24.745377643408112" ParagraphShadingTopLeftCornerRadius="24.745377643408112" ParagraphShadingTopRightCornerRadius="24.745377643408112" ParagraphShadingBottomLeftCornerRadius="24.745377643408112" ParagraphShadingBottomRightCornerRadius="24.745377643408112" ParagraphBorderTopLineWeight="2.0621148036173427" ParagraphBorderBottomLineWeight="2.0621148036173427" ParagraphBorderLeftLineWeight="2.0621148036173427" ParagraphBorderRightLineWeight="2.0621148036173427" ParagraphDirection="LeftToRightDirection">
+			<Properties>
+				<SameParaStyleSpacing type="unit">-0.8531999999995273</SameParaStyleSpacing>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Bold" PointSize="18" StrokeWeight="2.0621148036173427" Tracking="80" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" MiterLimit="8.24845921446937" RubyFontSize="-2.0621148036173427" KentenFontSize="-2.0621148036173427">
+				<Properties>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Phippy and Friends</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

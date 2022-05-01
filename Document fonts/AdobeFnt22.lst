@@ -1,0 +1,298 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+MenuName:Adobe Arabic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Arabic Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299680
+FileModTime:472375736
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/AdobeFnt22.lst
+FileLength:7075
+FileModTime:664452395
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-Bold
+FamilyName:Clarity City
+StyleName:Bold
+MenuName:Clarity City
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Bold
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23588
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Bold
+NameArray:0,Win,1,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-ExtraBold
+FamilyName:Clarity City
+StyleName:Extra Bold
+MenuName:Clarity City Extra Bold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Extra Bold
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23744
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Extra Bold
+NameArray:0,Win,1,Clarity City Extra Bold
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-Light
+FamilyName:Clarity City
+StyleName:Light
+MenuName:Clarity City Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Light
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23152
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Light
+NameArray:0,Win,1,Clarity City Light
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-LightItalic
+FamilyName:Clarity City
+StyleName:Light Italic
+MenuName:Clarity City Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Clarity City Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24828
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Light Italic
+NameArray:0,Win,1,Clarity City Light
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-Medium
+FamilyName:Clarity City
+StyleName:Medium
+MenuName:Clarity City Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Medium
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23380
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Medium
+NameArray:0,Win,1,Clarity City Medium
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-MediumItalic
+FamilyName:Clarity City
+StyleName:Medium Italic
+MenuName:Clarity City Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Clarity City Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25164
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Medium Italic
+NameArray:0,Win,1,Clarity City Medium
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-Regular
+FamilyName:Clarity City
+StyleName:Regular
+MenuName:Clarity City
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Regular
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22724
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Regular
+NameArray:0,Win,1,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-SemiBold
+FamilyName:Clarity City
+StyleName:Semi Bold
+MenuName:Clarity City Semi Bold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Semi Bold
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23456
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Semi Bold
+NameArray:0,Win,1,Clarity City Semi Bold
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ClarityCity-Thin
+FamilyName:Clarity City
+StyleName:Thin
+MenuName:Clarity City Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Clarity City Thin
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/ClarityCity-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22456
+FileModTime:626828286
+NameArray:0,Mac,4,Clarity City Thin
+NameArray:0,Win,1,Clarity City Thin
+NameArray:0,Win,16,Clarity City
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifVariable-Italic
+FamilyName:Source Serif Variable
+StyleName:Italic
+MenuName:Source Serif Variable
+FamilyPrefix:SourceSerifItalic
+StyleBits:1
+WeightClass:389
+WidthClass:5
+AngleClass:1
+FullName:Source Serif Variable Italic
+WritingScript:Roman
+OutlineFileName:/Users/tahiriqbal/Documents/Work/CNCF/01 Annual Report /CNCF AR_01 Folder/Document fonts/SourceSerifVariable-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:296396
+FileModTime:655707042
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+

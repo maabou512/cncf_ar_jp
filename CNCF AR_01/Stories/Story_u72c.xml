@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u72c" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">56.69291338582678</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="7" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" BaselineShift="-0.5" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Rectangle Self="u765" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Text Green" StrokeWeight="0" MiterLimit="10" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 -41.811023622047244 -2151.6732283484566" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="41.811023622047244 2145.2952755925508" LeftDirection="41.811023622047244 2145.2952755925508" RightDirection="41.811023622047244 2145.2952755925508" />
+									<PathPointType Anchor="41.811023622047244 2150.964566931134" LeftDirection="41.811023622047244 2150.964566931134" RightDirection="41.811023622047244 2150.964566931134" />
+									<PathPointType Anchor="47.480314960629926 2150.964566931134" LeftDirection="47.480314960629926 2150.964566931134" RightDirection="47.480314960629926 2150.964566931134" />
+									<PathPointType Anchor="47.480314960629926 2145.2952755925508" LeftDirection="47.480314960629926 2145.2952755925508" RightDirection="47.480314960629926 2145.2952755925508" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Rectangle>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Text Green" FontStyle="Semi Bold" PointSize="7" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Projects</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="7" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 	</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="7" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" BaselineShift="-0.5" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Rectangle Self="u763" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/AR Purple" StrokeWeight="0" MiterLimit="10" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 -41.811023622047244 -2151.6732283484566" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="41.811023622047244 2145.2952755925508" LeftDirection="41.811023622047244 2145.2952755925508" RightDirection="41.811023622047244 2145.2952755925508" />
+									<PathPointType Anchor="41.811023622047244 2150.964566931134" LeftDirection="41.811023622047244 2150.964566931134" RightDirection="41.811023622047244 2150.964566931134" />
+									<PathPointType Anchor="47.480314960629926 2150.964566931134" LeftDirection="47.480314960629926 2150.964566931134" RightDirection="47.480314960629926 2150.964566931134" />
+									<PathPointType Anchor="47.480314960629926 2145.2952755925508" LeftDirection="47.480314960629926 2145.2952755925508" RightDirection="47.480314960629926 2145.2952755925508" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Rectangle>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="7" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>End Users</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

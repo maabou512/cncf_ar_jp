@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Graphic xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Color Self="Color/AR BLUE" Model="Process" Space="RGB" ColorValue="91 204 252" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="AR BLUE" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch7" />
+	<Color Self="Color/AR Purple" Model="Process" Space="RGB" ColorValue="73 36 204" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="AR Purple" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
+	<Color Self="Color/Cyan" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Hiddenreserved" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Cyan" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Egg Green" Model="Process" Space="RGB" ColorValue="140 237 200" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Egg Green" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uf2ColorGroupSwatch2" />
+	<Color Self="Color/Icon Green" Model="Process" Space="RGB" ColorValue="100 249 191" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Icon Green" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uf2ColorGroupSwatch3" />
+	<Color Self="Color/Light Mint" Model="Process" Space="RGB" ColorValue="176 251 222" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Light Mint" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uf2ColorGroupSwatch1" />
+	<Color Self="Color/Light Pink" Model="Process" Space="RGB" ColorValue="235 212 204" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Light Pink" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
+	<Color Self="Color/Links" Model="Process" Space="RGB" ColorValue="216 72 162" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Links" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch5" />
+	<Color Self="Color/Magenta" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Hiddenreserved" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Magenta" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
+	<Color Self="Color/Registration" Model="Registration" Space="CMYK" ColorValue="100 100 100 100" ColorOverride="Specialregistration" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Registration" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch1" />
+	<Color Self="Color/Text Green" Model="Process" Space="RGB" ColorValue="2 204 175" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Text Green" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uf2ColorGroupSwatch0" />
+	<Color Self="Color/Yellow" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Hiddenreserved" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Yellow" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/c90m0y100k0" Model="Process" Space="CMYK" ColorValue="89.99999761581421 0 100 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="c90m0y100k0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch10" />
+	<Color Self="Color/g0" Model="Process" Space="CMYK" ColorValue="0 0 0 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch8" />
+	<Color Self="Color/g0 2" Model="Process" Space="CMYK" ColorValue="0 0 0 62.5" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch13" />
+	<Color Self="Color/g0 copy" Model="Process" Space="CMYK" ColorValue="0 0 0 12.5" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch9" />
+	<Color Self="Color/g0 copy 2" Model="Process" Space="CMYK" ColorValue="0 0 0 25" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch14" />
+	<Color Self="Color/g0 copy 3" Model="Process" Space="CMYK" ColorValue="0 0 0 87.5" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 3" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch15" />
+	<Color Self="Color/g0 copy 4" Model="Process" Space="CMYK" ColorValue="0 0 0 37.5" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 4" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch16" />
+	<Color Self="Color/g0 copy 5" Model="Process" Space="CMYK" ColorValue="0 0 0 75" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 5" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch17" />
+	<Color Self="Color/g0 copy 6" Model="Process" Space="CMYK" ColorValue="0 0 0 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 6" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch18" />
+	<Color Self="Color/g0 copy 7" Model="Process" Space="CMYK" ColorValue="0 0 0 12.5" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="g0 copy 7" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch19" />
+	<Color Self="Color/r0g0b0" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r0g0b0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch11" />
+	<Color Self="Color/r176g251b222" Model="Process" Space="RGB" ColorValue="175.94999939203262 249.900004863739 221.85000121593475" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r176g251b222" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch12" />
+	<Color Self="Color/r183g183b183" Model="Process" Space="RGB" ColorValue="183.60000729560852 183.60000729560852 183.60000729560852" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r183g183b183" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchb" />
+	<Color Self="Color/r204g204b204" Model="Process" Space="RGB" ColorValue="204.00000303983688 204.00000303983688 204.00000303983688" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r204g204b204" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchf" />
+	<Color Self="Color/r51g51b51" Model="Process" Space="RGB" ColorValue="51.00000075995922 51.00000075995922 51.00000075995922" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r51g51b51" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatcha" />
+	<Color Self="Color/r74g35b204" Model="Process" Space="RGB" ColorValue="73.94999787211418 35.700000151991844 204.00000303983688" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r74g35b204" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatche" />
+	<Color Self="Color/r76g76b76" Model="Process" Space="RGB" ColorValue="76.50000303983688 76.50000303983688 76.50000303983688" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r76g76b76" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchc" />
+	<Color Self="Color/r92g44b255" Model="Process" Space="RGB" ColorValue="91.80000364780426 43.35000045597553 255" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="r92g44b255" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchd" />
+	<Color Self="Color/u96" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/u19af" Model="Process" Space="RGB" ColorValue="0 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<PastedSmoothShade Self="PastedSmoothShade/u97" ContentsVersion="0" ContentsType="ConstantShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 1 0 0" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<PastedSmoothShade Self="PastedSmoothShade/ueb" ContentsVersion="0" ContentsType="AxialShade" SpotColorList="" ContentsEncoding="Ascii64Encoding" ContentsMatrix="1 0 0 -1 0 14999.9814453125" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<Properties>
+			<Contents><![CDATA[wMyK8aAAAABAsWVGIAAAAEDWbRJAAAAAQPJl+4AAAABAl9czgAAAAMDfpaCAAAAAAAEAAQAAAAAA
+AAACAAAABAAAAAAAAAABAAAAAQAAAAAAAQAAAAAAAAAAP/AAAAAAAAAAAAAAAAEAAAAAAAAAAD/w
+AAAAAAAAAAAAAQAAAAEAAAAAAAAAAD/wAAAAAAAAAAAAAQAAAAAAAAAAP/AAAAAAAAAAAAAAAAIA
+AAAIAAAAAhMTAAAAAAAAAAEAAAABAAAAAAABAAAAAAAAAAA/8AAAAAAAAAAAAAAAAQAAAAAAAAAA
+P/AAAAAAAAAAAAABAAAAAQAAAAAAAAAAP/AAAAAAAAAAAAABAAAAAAAAAAA/8AAAAAAAAAAAAAAA
+AgAAAAgAAAACISEAAAAAAAAAAQAAAAEAAAAAAAEAAAAAAAAAAD/wAAAAAAAAAAAAAAABAAAAAAAA
+AAA/8AAAAAAAAAAAAAEAAAABAAAAAAAAAAA/8AAAAAAAAAAAAAEAAAAAAAAAAD/wAAAAAAAAAAAA
+AAACAAAACAAAAAIdHQAAAAAAAAABAAAAAQAAAAAAAQAAAAAAAAAAP/AAAAAAAAAAAAAAAAEAAAAA
+AAAAAD/wAAAAAAAAAAAAAQAAAAEAAAAAAAAAAD/wAAAAAAAAAAAAAQAAAAAAAAAAP/AAAAAAAAAA
+AAAAAAIAAAAIAAAAAgEBAAAABD/u1uJgAAAAAAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAA/8AAAAAAAAAAAAAIAAAAB]]></Contents>
+		</Properties>
+	</PastedSmoothShade>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch0" />
+	<Gradient Self="Gradient/u95" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="u95GradientStop0" StopColor="Color/u96" Location="0" />
+		<GradientStop Self="u95GradientStop1" StopColor="Color/Black" Location="100" Midpoint="50" />
+	</Gradient>
+	<Gradient Self="Gradient/ue9d" Type="Linear" Name="$ID/" ColorEditable="true" ColorRemovable="true" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n">
+		<GradientStop Self="ue9dGradientStop0" StopColor="Color/u96" Location="0.36363636363636365" />
+		<GradientStop Self="ue9dGradientStop1" StopColor="Color/Black" Location="100" Midpoint="28.129562043795612" />
+	</Gradient>
+	<StrokeStyle Self="StrokeStyle/$ID/Triple_Stroke" Name="$ID/Triple_Stroke" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThinThick" Name="$ID/ThickThinThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThickThin" Name="$ID/ThinThickThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThick" Name="$ID/ThickThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThickThin" Name="$ID/ThickThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThick" Name="$ID/ThinThick" />
+	<StrokeStyle Self="StrokeStyle/$ID/ThinThin" Name="$ID/ThinThin" />
+	<StrokeStyle Self="StrokeStyle/$ID/Japanese Dots" Name="$ID/Japanese Dots" />
+	<StrokeStyle Self="StrokeStyle/$ID/White Diamond" Name="$ID/White Diamond" />
+	<StrokeStyle Self="StrokeStyle/$ID/Left Slant Hash" Name="$ID/Left Slant Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Right Slant Hash" Name="$ID/Right Slant Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Straight Hash" Name="$ID/Straight Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Wavy" Name="$ID/Wavy" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dotted" Name="$ID/Canned Dotted" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dashed 3x2" Name="$ID/Canned Dashed 3x2" />
+	<StrokeStyle Self="StrokeStyle/$ID/Canned Dashed 4x4" Name="$ID/Canned Dashed 4x4" />
+	<StrokeStyle Self="StrokeStyle/$ID/Dashed" Name="$ID/Dashed" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+</idPkg:Graphic>

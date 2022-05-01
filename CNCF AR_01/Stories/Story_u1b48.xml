@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u1b48" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Bold" PointSize="26" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>29%</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" PointSize="26" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="11" StrokeWeight="4.738192590844011" Tracking="-20.000000000000007" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>YoY increase in press coverage to-date</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

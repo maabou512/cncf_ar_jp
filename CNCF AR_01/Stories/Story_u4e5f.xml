@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u4e5f" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light Italic" PointSize="14" StrokeWeight="4.738192590844011" Tracking="-10.000000000000002" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">19</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>The key focus was always on the learning rather than getting the work done. It was undoubtedly one of the most fruitful and learning experiences I have had and I wish to continue the contribution to community and project</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light Italic" PointSize="20" StrokeWeight="4.738192590844011" Tracking="30" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">23</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" DropCapCharacters="1" DropCapLines="2" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Black Italic" PointSize="10" BaselineShift="-1" KerningValue="100">
+				<Properties>
+					<Leading type="unit">25</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Polygon Self="u4e74" ContentType="Unassigned" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" TopLeftCornerRadius="0.167" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Black" FillTint="20" CornerRadius="0.167" StrokeTint="-1" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 -5.6826625091980025 -26.129004038885416" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Properties>
+						<PathGeometry>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="9.19254211197704 26.129004038885412" LeftDirection="9.19254211197704 26.129004038885412" RightDirection="14.206655830232805 22.507699785203403" />
+									<PathPointType Anchor="18.49650976038146 11.755209018487129" LeftDirection="18.49650976038146 17.54929794963692" RightDirection="18.49650976038146 7.743918043882517" />
+									<PathPointType Anchor="12.925271902086429 5.0140127684731" LeftDirection="16.379438736651775 5.0140127684731" RightDirection="9.41539141378298 5.0140127684731" />
+									<PathPointType Anchor="5.961224579217637 12.20091116419665" LeftDirection="5.961224579217637 8.356754066611064" RightDirection="5.961224579217637 15.376515043217953" />
+									<PathPointType Anchor="11.031051065687095 17.49358606694764" LeftDirection="8.189719368325886 17.49358606694764" RightDirection="9.805378134705588 19.332094135133282" />
+									<PathPointType Anchor="5.682662509198003 22.89768650612601" LeftDirection="7.911157298306253 21.39345150512487" RightDirection="5.682662509198003 22.89768650612601" />
+								</PathPointArray>
+							</GeometryPathType>
+							<GeometryPathType PathOpen="false">
+								<PathPointArray>
+									<PathPointType Anchor="25.90625568686214 26.129004038885412" LeftDirection="25.90625568686214 26.129004038885412" RightDirection="30.920369405117906 22.507699785203403" />
+									<PathPointType Anchor="35.21022156421774 11.755209018487129" LeftDirection="35.21022156421774 17.54929794963692" RightDirection="35.21022156421774 7.743918043882517" />
+									<PathPointType Anchor="29.638985476971527 5.0140127684731" LeftDirection="33.093152311536876 5.0140127684731" RightDirection="26.129104988668082 5.0140127684731" />
+									<PathPointType Anchor="22.674938154102737 12.20091116419665" LeftDirection="22.674938154102737 8.356754066611064" RightDirection="22.674938154102737 15.376515043217953" />
+									<PathPointType Anchor="27.74476375504778 17.49358606694764" LeftDirection="24.903432943210987 17.49358606694764" RightDirection="26.519091709590686 19.332094135133282" />
+									<PathPointType Anchor="22.396375198558694 22.89768650612601" LeftDirection="24.624869987666944 21.39345150512487" RightDirection="22.396375198558694 22.89768650612601" />
+								</PathPointArray>
+							</GeometryPathType>
+						</PathGeometry>
+					</Properties>
+					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
+						<Properties>
+							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+						</Properties>
+					</ObjectExportOption>
+					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+						<Properties>
+							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+						</Properties>
+					</TextWrapPreference>
+					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+				</Polygon>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light Italic" PointSize="8.5">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Mentee </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Black Italic" PointSize="10">
+				<Properties>
+					<Leading type="unit">25</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Nupur Agrawal </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Light Italic" PointSize="8.5">
+				<Properties>
+					<Leading type="unit">4</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Mentor </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Black Italic" PointSize="10">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Matthias Wahl, Anup Dhamala and Heinz Gies</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

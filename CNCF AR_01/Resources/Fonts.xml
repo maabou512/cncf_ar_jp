@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Fonts xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<FontFamily Self="di3f" Name="Adobe Arabic">
+		<Font Self="di3fFontnAdobe Arabic Regular" FontFamily="Adobe Arabic" Name="Adobe Arabic Regular" PostScriptName="AdobeArabic-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="4" FullName="Adobe Arabic Regular" FullNameNative="Adobe Arabic Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.007" TypekitID="$ID/" />
+		<Font Self="di3fFontnAdobe Arabic Italic" FontFamily="Adobe Arabic" Name="Adobe Arabic Italic" PostScriptName="AdobeArabic-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="4" FullName="Adobe Arabic Italic" FullNameNative="Adobe Arabic Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.007" TypekitID="$ID/" />
+		<Font Self="di3fFontnAdobe Arabic Bold" FontFamily="Adobe Arabic" Name="Adobe Arabic Bold" PostScriptName="AdobeArabic-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="4" FullName="Adobe Arabic Bold" FullNameNative="Adobe Arabic Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.007" TypekitID="$ID/" />
+		<Font Self="di3fFontnAdobe Arabic Bold Italic" FontFamily="Adobe Arabic" Name="Adobe Arabic Bold Italic" PostScriptName="AdobeArabic-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="4" FullName="Adobe Arabic Bold Italic" FullNameNative="Adobe Arabic Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.007" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di9e" Name="Myriad Pro">
+		<Font Self="di9eFontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di9f" Name="Minion Pro">
+		<Font Self="di9fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di9fFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" TypekitID="$ID/" />
+		<Font Self="di9fFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di9fFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di9fFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="TkD-6818-a315a4e62833af81443283ca5dcec72294591f14" />
+	</FontFamily>
+	<FontFamily Self="di114" Name="Clarity City">
+		<Font Self="di114FontnClarity City Thin" FontFamily="Clarity City" Name="Clarity City Thin" PostScriptName="ClarityCity-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Thin" FullNameNative="Clarity City Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Thin Italic" FontFamily="Clarity City" Name="Clarity City Thin Italic" PostScriptName="ClarityCity-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Thin Italic" FullNameNative="Clarity City Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Extra Light" FontFamily="Clarity City" Name="Clarity City Extra Light" PostScriptName="ClarityCity-ExtraLight" Status="Installed" FontStyleName="Extra Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Extra Light" FullNameNative="Clarity City Extra Light" FontStyleNameNative="Extra Light" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Extra Light Italic" FontFamily="Clarity City" Name="Clarity City Extra Light Italic" PostScriptName="ClarityCity-ExtraLightItalic" Status="Installed" FontStyleName="Extra Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Extra Light Italic" FullNameNative="Clarity City Extra Light Italic" FontStyleNameNative="Extra Light Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Light" FontFamily="Clarity City" Name="Clarity City Light" PostScriptName="ClarityCity-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Light" FullNameNative="Clarity City Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Light Italic" FontFamily="Clarity City" Name="Clarity City Light Italic" PostScriptName="ClarityCity-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Light Italic" FullNameNative="Clarity City Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Regular" FontFamily="Clarity City" Name="Clarity City Regular" PostScriptName="ClarityCity-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Regular" FullNameNative="Clarity City Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Regular Italic" FontFamily="Clarity City" Name="Clarity City Regular Italic" PostScriptName="ClarityCity-RegularItalic" Status="Installed" FontStyleName="Regular Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Regular Italic" FullNameNative="Clarity City Regular Italic" FontStyleNameNative="Regular Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Medium" FontFamily="Clarity City" Name="Clarity City Medium" PostScriptName="ClarityCity-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Medium" FullNameNative="Clarity City Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Medium Italic" FontFamily="Clarity City" Name="Clarity City Medium Italic" PostScriptName="ClarityCity-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Medium Italic" FullNameNative="Clarity City Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Semi Bold" FontFamily="Clarity City" Name="Clarity City Semi Bold" PostScriptName="ClarityCity-SemiBold" Status="Installed" FontStyleName="Semi Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Semi Bold" FullNameNative="Clarity City Semi Bold" FontStyleNameNative="Semi Bold" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Semi Bold Italic" FontFamily="Clarity City" Name="Clarity City Semi Bold Italic" PostScriptName="ClarityCity-SemiBoldItalic" Status="Installed" FontStyleName="Semi Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Semi Bold Italic" FullNameNative="Clarity City Semi Bold Italic" FontStyleNameNative="Semi Bold Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Bold" FontFamily="Clarity City" Name="Clarity City Bold" PostScriptName="ClarityCity-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Bold" FullNameNative="Clarity City Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Bold Italic" FontFamily="Clarity City" Name="Clarity City Bold Italic" PostScriptName="ClarityCity-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Bold Italic" FullNameNative="Clarity City Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Extra Bold" FontFamily="Clarity City" Name="Clarity City Extra Bold" PostScriptName="ClarityCity-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Extra Bold" FullNameNative="Clarity City Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Extra Bold Italic" FontFamily="Clarity City" Name="Clarity City Extra Bold Italic" PostScriptName="ClarityCity-ExtraBoldItalic" Status="Installed" FontStyleName="Extra Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Extra Bold Italic" FullNameNative="Clarity City Extra Bold Italic" FontStyleNameNative="Extra Bold Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Black" FontFamily="Clarity City" Name="Clarity City Black" PostScriptName="ClarityCity-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Black" FullNameNative="Clarity City Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+		<Font Self="di114FontnClarity City Black Italic" FontFamily="Clarity City" Name="Clarity City Black Italic" PostScriptName="ClarityCity-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Clarity City Black Italic" FullNameNative="Clarity City Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di2d3" Name="Source Serif Variable">
+		<Font Self="di2d3FontnSource Serif Variable Regular-389.344" FontFamily="Source Serif Variable" Name="Source Serif Variable Regular-389.344" PostScriptName="SourceSerifRoman_389.344wght" Status="Installed" FontStyleName="Regular-389.344" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Regular-389.344" FullNameNative="Source Serif Variable Regular-389.344" FontStyleNameNative="Regular-389.344" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="389.34">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable ExtraLight" FontFamily="Source Serif Variable" Name="Source Serif Variable ExtraLight" PostScriptName="SourceSerifRoman-ExtraLight" Status="Installed" FontStyleName="ExtraLight" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable ExtraLight" FullNameNative="Source Serif Variable ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="200">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Light" FontFamily="Source Serif Variable" Name="Source Serif Variable Light" PostScriptName="SourceSerifRoman-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Light" FullNameNative="Source Serif Variable Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="300">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Regular" FontFamily="Source Serif Variable" Name="Source Serif Variable Regular" PostScriptName="SourceSerifRoman-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Regular" FullNameNative="Source Serif Variable Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="400">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Semibold" FontFamily="Source Serif Variable" Name="Source Serif Variable Semibold" PostScriptName="SourceSerifRoman-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Semibold" FullNameNative="Source Serif Variable Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="600">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Bold" FontFamily="Source Serif Variable" Name="Source Serif Variable Bold" PostScriptName="SourceSerifRoman-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Bold" FullNameNative="Source Serif Variable Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="700">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Black" FontFamily="Source Serif Variable" Name="Source Serif Variable Black" PostScriptName="SourceSerifRoman-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Black" FullNameNative="Source Serif Variable Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="900">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Regular-389.344 Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Regular-389.344 Italic" PostScriptName="SourceSerifItalic_389.344wght" Status="Installed" FontStyleName="Regular-389.344 Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Regular-389.344 Italic" FullNameNative="Source Serif Variable Regular-389.344 Italic" FontStyleNameNative="Regular-389.344 Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="389.34">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable ExtraLight Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable ExtraLight Italic" PostScriptName="SourceSerifItalic-ExtraLightItalic" Status="Installed" FontStyleName="ExtraLight Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable ExtraLight Italic" FullNameNative="Source Serif Variable ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="200">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Light Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Light Italic" PostScriptName="SourceSerifItalic-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Light Italic" FullNameNative="Source Serif Variable Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="300">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Italic" PostScriptName="SourceSerifItalic-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Italic" FullNameNative="Source Serif Variable Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="412.73">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Semibold Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Semibold Italic" PostScriptName="SourceSerifItalic-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Semibold Italic" FullNameNative="Source Serif Variable Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="600">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Bold Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Bold Italic" PostScriptName="SourceSerifItalic-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Bold Italic" FullNameNative="Source Serif Variable Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="700">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di2d3FontnSource Serif Variable Black Italic" FontFamily="Source Serif Variable" Name="Source Serif Variable Black Italic" PostScriptName="SourceSerifItalic-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Serif Variable Black Italic" FullNameNative="Source Serif Variable Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 3.001;hotconv 1.0.111;makeotfexe 2.5.65597" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="900">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">200</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="uab" Name="$ID/kCompFontString_Base" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Adobe Arabic</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uac" Name="$ID/kCompFontString_StrongLTR" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzªµºÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏɐɑɒɓɔɕɖɗɘəɚɛɜɝɞɟɠɡɢɣɤɥɦɧɨɩɪɫɬɭɮɯɰɱɲɳɴɵɶɷɸɹɺɻɼɽɾɿʀʁʂʃʄʅʆʇʈʉʊʋʌʍʎʏʐʑʒʓʔʕʖʗʘʙʚʛʜʝʞʟʠʡʢʣʤʥʦʧʨʩʪʫʬʭʮʯʰʱʲʳʴʵʶʷʸʻʼʽʾʿˀˁːˑˠˡˢˣˤˮ͙͚͛͘͜ͰͱͲͳͶͷ͸͹ͺͻͼͽͿ΀΁΂΃ΆΈΉΊ΋Ό΍ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡ΢ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϏϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲϳϴϵϷϸϹϺϻϼϽϾϿЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҇ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎӏӐӑӒӓӔӕӖӗӘәӚӛӜӝӞӟӠӡӢӣӤӥӦӧӨөӪӫӬӭӮӯӰӱӲӳӴӵӶӷӸӹӺӻӼӽӾӿԀԁԂԃԄԅԆԇԈԉԊԋԌԍԎԏԐԑԒԓԔԕԖԗԘԙԚԛԜԝԞԟԠԡԢԣԤԥԦԧԨԩԪԫԬԭԮԯ԰ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ՗՘ՙ՚՛՜՝՞՟ՠաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆևֈ։֋֌֍֎֏֐׈׉׊׋׌׍׎׏׫׬׭׮ׯ׵׶׷׸׹׺׻׼׽׾׿؄؅؈؜؝ؠٟ܎݋݌޲޳޴޵޶޷޸޹޺޻޼޽޾޿߀߁߂߃߄߅߆߇߈߉ߊߋߌߍߎߏߐߑߒߓߔߕߖߗߘߙߚߛߜߝߞߟߠߡߢߣߤߥߦߧߨߩߪ߲߫߬߭߮߯߰߱߳ߴߵ߶߷߸߹ߺ߻߼߽߾߿ࠀࠁࠂࠃࠄࠅࠆࠇࠈࠉࠊࠋࠌࠍࠎࠏࠐࠑࠒࠓࠔࠕࠖࠗ࠘࠙ࠚࠛࠜࠝࠞࠟࠠࠡࠢࠣࠤࠥࠦࠧࠨࠩࠪࠫࠬ࠭࠮࠯࠰࠱࠲࠳࠴࠵࠶࠷࠸࠹࠺࠻࠼࠽࠾࠿ࡀࡁࡂࡃࡄࡅࡆࡇࡈࡉࡊࡋࡌࡍࡎࡏࡐࡑࡒࡓࡔࡕࡖࡗࡘ࡙࡚࡛࡜࡝࡞࡟ࡠࡡࡢࡣࡤࡥࡦࡧࡨࡩࡪ࡫࡬࡭࡮࡯ࡰࡱࡲࡳࡴࡵࡶࡷࡸࡹࡺࡻࡼࡽࡾࡿࢀࢁࢂࢃࢄࢅࢆࢇ࢈ࢉࢊࢋࢌࢍࢎ࢏࢐࢑࢒࢓࢔࢕࢖࢙࢚࢛ࢗ࢘࢜࢝࢞࢟ࢠࢡࢢࢣࢤࢥࢦࢧࢨࢩࢪࢫࢬࢭࢮࢯࢰࢱࢲࢳࢴࢵࢶࢷࢸࢹࢺࢻࢼࢽࢾࢿࣀࣁࣂࣃࣄࣅࣆࣇࣈࣉ࣏࣐࣑࣒࣓࣊࣋࣌࣍࣎ࣔࣕࣖࣗࣘࣙࣚࣛࣜࣝࣞࣟ࣠࣡࣢ࣰࣱࣲࣣࣦࣩ࣭࣮࣯ࣶࣹࣺࣤࣥࣧࣨ࣪࣫࣬ࣳࣴࣵࣷࣸࣻࣼࣽࣾࣿऀःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऻऽािीॉॊोौॎॏॐक़ख़ग़ज़ड़ढ़फ़य़ॠॡ।॥०१२३४५६७८९॰ॱॲॳॴॵॶॷॸॹॺॻॼॽॾॿঀংঃ঄অআইঈউঊঋঌ঍঎এঐ঑঒ওঔকখগঘঙচছজঝঞটঠডঢণতথদধন঩পফবভমযর঱ল঳঴঵শষসহ঺঻ঽািী৅৆েৈ৉৊োৌৎ৏৐৑৒৓৔৕৖ৗ৘৙৚৛ড়ঢ়৞য়ৠৡ৤৥০১২৩৪৫৬৭৮৯ৰৱ৴৵৶৷৸৹৺ৼ৽৾৿਀ਃ਄ਅਆਇਈਉਊ਋਌਍਎ਏਐ਑਒ਓਔਕਖਗਘਙਚਛਜਝਞਟਠਡਢਣਤਥਦਧਨ਩ਪਫਬਭਮਯਰ਱ਲਲ਼਴ਵਸ਼਷ਸਹ਺਻਽ਾਿੀ੃੄੅੆੉੊੎੏੐੒੓੔੕੖੗੘ਖ਼ਗ਼ਜ਼ੜ੝ਫ਼੟੠੡੢੣੤੥੦੧੨੩੪੫੬੭੮੯ੲੳੴ੶੷੸੹੺੻੼੽੾੿઀ઃ઄અઆઇઈઉઊઋઌઍ઎એઐઑ઒ઓઔકખગઘઙચછજઝઞટઠડઢણતથદધન઩પફબભમયર઱લળ઴વશષસહ઺઻ઽાિી૆ૉ૊ોૌ૎૏ૐ૑૒૓૔૕૖૗૘૙૚૛૜૝૞૟ૠૡ૤૥૦૧૨૩૪૫૬૭૮૯૰૲૳૴૵૶૷૸ૹૺૻૼ૽૾૿଀ଂଃ଄ଅଆଇଈଉଊଋଌ଍଎ଏଐ଑଒ଓଔକଖଗଘଙଚଛଜଝଞଟଠଡଢଣତଥଦଧନ଩ପଫବଭମଯର଱ଲଳ଴ଵଶଷସହ଺଻ଽାୀ୅୆େୈ୉୊ୋୌ୎୏୐୑୒୓୔୕ୗ୘୙୚୛ଡ଼ଢ଼୞ୟୠୡ୤୥୦୧୨୩୪୫୬୭୮୯୰ୱ୲୳୴୵୶୷୸୹୺୻୼୽୾୿஀஁ஃ஄அஆஇஈஉஊ஋஌஍எஏஐ஑ஒஓஔக஖஗஘ஙச஛ஜ஝ஞட஠஡஢ணத஥஦஧நனப஫஬஭மயரறலளழவஶஷஸஹ஺஻஼஽ாிுூ௃௄௅ெேை௉ொோௌ௎௏ௐ௑௒௓௔௕௖ௗ௘௙௚௛௜௝௞௟௠௡௢௣௤௥௦௧௨௩௪௫௬௭௮௯௰௱௲௻௼௽௾௿ఀఁంఃఄఅఆఇఈఉఊఋఌ఍ఎఏఐ఑ఒఓఔకఖగఘఙచఛజఝఞటఠడఢణతథదధన఩పఫబభమయరఱలళఴవశషసహ఺఻఼ఽుూృౄ౅౉౎౏౐౑౒౓౔౗ౘౙౚ౛౜ౝ౞౟ౠౡ౤౥౦౧౨౩౪౫౬౭౮౯౰౱౲౳౴౵౶౷౿ಀಁಂಃ಄ಅಆಇಈಉಊಋಌ಍ಎಏಐ಑ಒಓಔಕಖಗಘಙಚಛಜಝಞಟಠಡಢಣತಥದಧನ಩ಪಫಬಭಮಯರಱಲಳ಴ವಶಷಸಹ಺಻ಽಾಿೀುೂೃೄ೅ೆೇೈ೉ೊೋ೎೏೐೑೒೓೔ೕೖ೗೘೙೚೛೜ೝೞ೟ೠೡ೤೥೦೧೨೩೪೫೬೭೮೯೰ೳ೴೵೶೷೸೹೺೻೼೽೾೿ഀഁംഃഄഅആഇഈഉഊഋഌ഍എഏഐ഑ഒഓഔകഖഗഘങചഛജഝഞടഠഡഢണതഥദധനഩപഫബഭമയരറലളഴവശഷസഹഺ഻഼ഽാിീ൅െേൈ൉ൊോൌൎ൏൐൑൒൓ൔൕൖൗ൘൙൚൛൜൝൞ൟൠൡ൤൥൦൧൨൩൪൫൬൭൮൯൰൱൲൳൴൵൶൷൸൹ൺൻർൽൾൿ඀ඁංඃ඄අආඇඈඉඊඋඌඍඎඏඐඑඒඓඔඕඖ඗඘඙කඛගඝඞඟචඡජඣඤඥඦටඨඩඪණඬතථදධන඲ඳපඵබභමඹයර඼ල඾඿වශෂසහළෆ෇෈෉෋෌෍෎ාැෑ෕෗ෘෙේෛොෝෞෟ෠෡෢෣෤෥෦෧෨෩෪෫෬෭෮෯෰෱ෲෳ෴෵෶෷෸෹෺෻෼෽෾෿฀กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะาำ฻฼฽฾เแโใไๅๆ๏๐๑๒๓๔๕๖๗๘๙๚๛๜๝๞๟๠๡๢๣๤๥๦๧๨๩๪๫๬๭๮๯๰๱๲๳๴๵๶๷๸๹๺๻๼๽๾๿຀ກຂ຃ຄ຅ຆງຈຉຊ຋ຌຍຎຏຐຑຒຓດຕຖທຘນບປຜຝພຟຠມຢຣ຤ລ຦ວຨຩສຫຬອຮຯະາຳ຺ຽ຾຿ເແໂໃໄ໅ໆ໇໎໏໐໑໒໓໔໕໖໗໘໙໚໛ໜໝໞໟ໠໡໢໣໤໥໦໧໨໩໪໫໬໭໮໯໰໱໲໳໴໵໶໷໸໹໺໻໼໽໾໿ༀ༁༂༃༄༅༆༇༈༉༊་༌།༎༏༐༑༒༓༔༕༖༗༚༛༜༝༞༟༠༡༢༣༤༥༦༧༨༩༪༫༬༭༮༯༰༱༲༳༴༶༸༾༿ཀཁགགྷངཅཆཇ཈ཉཊཋཌཌྷཎཏཐདདྷནཔཕབབྷམཙཚཛཛྷཝཞཟའཡརལཤཥསཧཨཀྵཪཫཬ཭཮཯཰ཿ྅ྈྉྊྋྌྍྎྏ྘྽྾྿࿀࿁࿂࿃࿄࿅࿇࿈࿉࿊࿋࿌࿍࿎࿏࿐࿑࿒࿓࿔࿕࿖࿗࿘࿙࿚࿛࿜࿝࿞࿟࿠࿡࿢࿣࿤࿥࿦࿧࿨࿩࿪࿫࿬࿭࿮࿯࿰࿱࿲࿳࿴࿵࿶࿷࿸࿹࿺࿻࿼࿽࿾࿿ကခဂဃငစဆဇဈဉညဋဌဍဎဏတထဒဓနပဖဗဘမယရလဝသဟဠအဢဣဤဥဦဧဨဩဪါာေဳဴဵး်ျြွှဿ၀၁၂၃၄၅၆၇၈၉၊။၌၍၎၏ၐၑၒၓၔၕၖၗၚၛၜၝၞၟၠၡၢၣၤၥၦၧၨၩၪၫၬၭၮၯၰၱၲၳၴၵၶၷၸၹၺၻၼၽၾၿႀႁႂႃႄႅႆႇႈႉႊႋႌႍႎႏ႐႑႒႓႔႕႖႗႘႙ႚႛႜႝ႞႟ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾႿჀჁჂჃჄჅ჆Ⴧ჈჉჊჋჌Ⴭ჎჏აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶჷჸჹჺ჻ჼჽჾჿᄀᄁᄂᄃᄄᄅᄆᄇᄈᄉᄊᄋᄌᄍᄎᄏᄐᄑᄒᄓᄔᄕᄖᄗᄘᄙᄚᄛᄜᄝᄞᄟᄠᄡᄢᄣᄤᄥᄦᄧᄨᄩᄪᄫᄬᄭᄮᄯᄰᄱᄲᄳᄴᄵᄶᄷᄸᄹᄺᄻᄼᄽᄾᄿᅀᅁᅂᅃᅄᅅᅆᅇᅈᅉᅊᅋᅌᅍᅎᅏᅐᅑᅒᅓᅔᅕᅖᅗᅘᅙᅚᅛᅜᅝᅞᅟᅠᅡᅢᅣᅤᅥᅦᅧᅨᅩᅪᅫᅬᅭᅮᅯᅰᅱᅲᅳᅴᅵᅶᅷᅸᅹᅺᅻᅼᅽᅾᅿᆀᆁᆂᆃᆄᆅᆆᆇᆈᆉᆊᆋᆌᆍᆎᆏᆐᆑᆒᆓᆔᆕᆖᆗᆘᆙᆚᆛᆜᆝᆞᆟᆠᆡᆢᆣᆤᆥᆦᆧᆨᆩᆪᆫᆬᆭᆮᆯᆰᆱᆲᆳᆴᆵᆶᆷᆸᆹᆺᆻᆼᆽᆾᆿᇀᇁᇂᇃᇄᇅᇆᇇᇈᇉᇊᇋᇌᇍᇎᇏᇐᇑᇒᇓᇔᇕᇖᇗᇘᇙᇚᇛᇜᇝᇞᇟᇠᇡᇢᇣᇤᇥᇦᇧᇨᇩᇪᇫᇬᇭᇮᇯᇰᇱᇲᇳᇴᇵᇶᇷᇸᇹᇺᇻᇼᇽᇾᇿሀሁሂሃሄህሆሇለሉሊላሌልሎሏሐሑሒሓሔሕሖሗመሙሚማሜምሞሟሠሡሢሣሤሥሦሧረሩሪራሬርሮሯሰሱሲሳሴስሶሷሸሹሺሻሼሽሾሿቀቁቂቃቄቅቆቇቈ቉ቊቋቌቍ቎቏ቐቑቒቓቔቕቖ቗ቘ቙ቚቛቜቝ቞቟በቡቢባቤብቦቧቨቩቪቫቬቭቮቯተቱቲታቴትቶቷቸቹቺቻቼችቾቿኀኁኂኃኄኅኆኇኈ኉ኊኋኌኍ኎኏ነኑኒናኔንኖኗኘኙኚኛኜኝኞኟአኡኢኣኤእኦኧከኩኪካኬክኮኯኰ኱ኲኳኴኵ኶኷ኸኹኺኻኼኽኾ኿ዀ዁ዂዃዄዅ዆዇ወዉዊዋዌውዎዏዐዑዒዓዔዕዖ዗ዘዙዚዛዜዝዞዟዠዡዢዣዤዥዦዧየዩዪያዬይዮዯደዱዲዳዴድዶዷዸዹዺዻዼዽዾዿጀጁጂጃጄጅጆጇገጉጊጋጌግጎጏጐ጑ጒጓጔጕ጖጗ጘጙጚጛጜጝጞጟጠጡጢጣጤጥጦጧጨጩጪጫጬጭጮጯጰጱጲጳጴጵጶጷጸጹጺጻጼጽጾጿፀፁፂፃፄፅፆፇፈፉፊፋፌፍፎፏፐፑፒፓፔፕፖፗፘፙፚ፛፜፝፞፟፠፡።፣፤፥፦፧፨፩፪፫፬፭፮፯፰፱፲፳፴፵፶፷፸፹፺፻፼፽፾፿ᎀᎁᎂᎃᎄᎅᎆᎇᎈᎉᎊᎋᎌᎍᎎᎏ᎐᎑᎒᎓᎔᎕᎖᎗᎘᎙᎚᎛᎜᎝᎞᎟ᎠᎡᎢᎣᎤᎥᎦᎧᎨᎩᎪᎫᎬᎭᎮᎯᎰᎱᎲᎳᎴᎵᎶᎷᎸᎹᎺᎻᎼᎽᎾᎿᏀᏁᏂᏃᏄᏅᏆᏇᏈᏉᏊᏋᏌᏍᏎᏏᏐᏑᏒᏓᏔᏕᏖᏗᏘᏙᏚᏛᏜᏝᏞᏟᏠᏡᏢᏣᏤᏥᏦᏧᏨᏩᏪᏫᏬᏭᏮᏯᏰᏱᏲᏳᏴᏵ᏶᏷ᏸᏹᏺᏻᏼᏽ᏾᏿᐀ᐁᐂᐃᐄᐅᐆᐇᐈᐉᐊᐋᐌᐍᐎᐏᐐᐑᐒᐓᐔᐕᐖᐗᐘᐙᐚᐛᐜᐝᐞᐟᐠᐡᐢᐣᐤᐥᐦᐧᐨᐩᐪᐫᐬᐭᐮᐯᐰᐱᐲᐳᐴᐵᐶᐷᐸᐹᐺᐻᐼᐽᐾᐿᑀᑁᑂᑃᑄᑅᑆᑇᑈᑉᑊᑋᑌᑍᑎᑏᑐᑑᑒᑓᑔᑕᑖᑗᑘᑙᑚᑛᑜᑝᑞᑟᑠᑡᑢᑣᑤᑥᑦᑧᑨᑩᑪᑫᑬᑭᑮᑯᑰᑱᑲᑳᑴᑵᑶᑷᑸᑹᑺᑻᑼᑽᑾᑿᒀᒁᒂᒃᒄᒅᒆᒇᒈᒉᒊᒋᒌᒍᒎᒏᒐᒑᒒᒓᒔᒕᒖᒗᒘᒙᒚᒛᒜᒝᒞᒟᒠᒡᒢᒣᒤᒥᒦᒧᒨᒩᒪᒫᒬᒭᒮᒯᒰᒱᒲᒳᒴᒵᒶᒷᒸᒹᒺᒻᒼᒽᒾᒿᓀᓁᓂᓃᓄᓅᓆᓇᓈᓉᓊᓋᓌᓍᓎᓏᓐᓑᓒᓓᓔᓕᓖᓗᓘᓙᓚᓛᓜᓝᓞᓟᓠᓡᓢᓣᓤᓥᓦᓧᓨᓩᓪᓫᓬᓭᓮᓯᓰᓱᓲᓳᓴᓵᓶᓷᓸᓹᓺᓻᓼᓽᓾᓿᔀᔁᔂᔃᔄᔅᔆᔇᔈᔉᔊᔋᔌᔍᔎᔏᔐᔑᔒᔓᔔᔕᔖᔗᔘᔙᔚᔛᔜᔝᔞᔟᔠᔡᔢᔣᔤᔥᔦᔧᔨᔩᔪᔫᔬᔭᔮᔯᔰᔱᔲᔳᔴᔵᔶᔷᔸᔹᔺᔻᔼᔽᔾᔿᕀᕁᕂᕃᕄᕅᕆᕇᕈᕉᕊᕋᕌᕍᕎᕏᕐᕑᕒᕓᕔᕕᕖᕗᕘᕙᕚᕛᕜᕝᕞᕟᕠᕡᕢᕣᕤᕥᕦᕧᕨᕩᕪᕫᕬᕭᕮᕯᕰᕱᕲᕳᕴᕵᕶᕷᕸᕹᕺᕻᕼᕽᕾᕿᖀᖁᖂᖃᖄᖅᖆᖇᖈᖉᖊᖋᖌᖍᖎᖏᖐᖑᖒᖓᖔᖕᖖᖗᖘᖙᖚᖛᖜᖝᖞᖟᖠᖡᖢᖣᖤᖥᖦᖧᖨᖩᖪᖫᖬᖭᖮᖯᖰᖱᖲᖳᖴᖵᖶᖷᖸᖹᖺᖻᖼᖽᖾᖿᗀᗁᗂᗃᗄᗅᗆᗇᗈᗉᗊᗋᗌᗍᗎᗏᗐᗑᗒᗓᗔᗕᗖᗗᗘᗙᗚᗛᗜᗝᗞᗟᗠᗡᗢᗣᗤᗥᗦᗧᗨᗩᗪᗫᗬᗭᗮᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘁᘂᘃᘄᘅᘆᘇᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘥᘦᘧᘨᘩᘪᘫᘬᘭᘮᘯᘰᘱᘲᘳᘴᘵᘶᘷᘸᘹᘺᘻᘼᘽᘾᘿᙀᙁᙂᙃᙄᙅᙆᙇᙈᙉᙊᙋᙌᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ᙭᙮ᙯᙰᙱᙲᙳᙴᙵᙶᙷᙸᙹᙺᙻᙼᙽᙾᙿᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚋᚌᚍᚎᚏᚐᚑᚒᚓᚔᚕᚖᚗᚘᚙᚚ᚝᚞᚟ᚠᚡᚢᚣᚤᚥᚦᚧᚨᚩᚪᚫᚬᚭᚮᚯᚰᚱᚲᚳᚴᚵᚶᚷᚸᚹᚺᚻᚼᚽᚾᚿᛀᛁᛂᛃᛄᛅᛆᛇᛈᛉᛊᛋᛌᛍᛎᛏᛐᛑᛒᛓᛔᛕᛖᛗᛘᛙᛚᛛᛜᛝᛞᛟᛠᛡᛢᛣᛤᛥᛦᛧᛨᛩᛪ᛫᛬᛭ᛮᛯᛰᛱᛲᛳᛴᛵᛶᛷᛸ᛹᛺᛻᛼᛽᛾᛿ᜀᜁᜂᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜍᜎᜏᜐᜑ᜕᜖᜗᜘᜙᜚᜛᜜᜝᜞ᜟᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ᜵᜶᜷᜸᜹᜺᜻᜼᜽᜾᜿ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ᝔᝕᝖᝗᝘᝙᝚᝛᝜᝝᝞᝟ᝠᝡᝢᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬ᝭ᝮᝯᝰ᝱᝴᝵᝶᝷᝸᝹᝺᝻᝼᝽᝾᝿កខគឃងចឆជឈញដឋឌឍណតថទធនបផពភមយរលវឝឞសហឡអឣឤឥឦឧឨឩឪឫឬឭឮឯឰឱឲឳ឴឵ាើឿៀេែៃោៅះៈ។៕៖ៗ៘៙៚ៜ៞៟០១២៣៤៥៦៧៨៩៪៫៬៭៮៯៺៻៼៽៾៿᠏᠐᠑᠒᠓᠔᠕᠖᠗᠘᠙᠚᠛᠜᠝᠞᠟ᠠᠡᠢᠣᠤᠥᠦᠧᠨᠩᠪᠫᠬᠭᠮᠯᠰᠱᠲᠳᠴᠵᠶᠷᠸᠹᠺᠻᠼᠽᠾᠿᡀᡁᡂᡃᡄᡅᡆᡇᡈᡉᡊᡋᡌᡍᡎᡏᡐᡑᡒᡓᡔᡕᡖᡗᡘᡙᡚᡛᡜᡝᡞᡟᡠᡡᡢᡣᡤᡥᡦᡧᡨᡩᡪᡫᡬᡭᡮᡯᡰᡱᡲᡳᡴᡵᡶᡷᡸ᡹᡺᡻᡼᡽᡾᡿ᢀᢁᢂᢃᢄᢅᢆᢇᢈᢉᢊᢋᢌᢍᢎᢏᢐᢑᢒᢓᢔᢕᢖᢗᢘᢙᢚᢛᢜᢝᢞᢟᢠᢡᢢᢣᢤᢥᢦᢧᢨᢪ᢫᢬᢭᢮᢯ᢰᢱᢲᢳᢴᢵᢶᢷᢸᢹᢺᢻᢼᢽᢾᢿᣀᣁᣂᣃᣄᣅᣆᣇᣈᣉᣊᣋᣌᣍᣎᣏᣐᣑᣒᣓᣔᣕᣖᣗᣘᣙᣚᣛᣜᣝᣞᣟᣠᣡᣢᣣᣤᣥᣦᣧᣨᣩᣪᣫᣬᣭᣮᣯᣰᣱᣲᣳᣴᣵ᣶᣷᣸᣹᣺᣻᣼᣽᣾᣿ᤀᤁᤂᤃᤄᤅᤆᤇᤈᤉᤊᤋᤌᤍᤎᤏᤐᤑᤒᤓᤔᤕᤖᤗᤘᤙᤚᤛᤜᤝᤞ᤟ᤣᤤᤥᤦ᤬᤭᤮᤯ᤰᤱᤳᤴᤵᤶᤷᤸ᤼᤽᤾᤿᥁᥂᥃᥆᥇᥈᥉᥊᥋᥌᥍᥎᥏ᥐᥑᥒᥓᥔᥕᥖᥗᥘᥙᥚᥛᥜᥝᥞᥟᥠᥡᥢᥣᥤᥥᥦᥧᥨᥩᥪᥫᥬᥭ᥮᥯ᥰᥱᥲᥳᥴ᥵᥶᥷᥸᥹᥺᥻᥼᥽᥾᥿ᦀᦁᦂᦃᦄᦅᦆᦇᦈᦉᦊᦋᦌᦍᦎᦏᦐᦑᦒᦓᦔᦕᦖᦗᦘᦙᦚᦛᦜᦝᦞᦟᦠᦡᦢᦣᦤᦥᦦᦧᦨᦩᦪᦫ᦬᦭᦮᦯ᦰᦱᦲᦳᦴᦵᦶᦷᦸᦹᦺᦻᦼᦽᦾᦿᧀᧁᧂᧃᧄᧅᧆᧇᧈᧉ᧊᧋᧌᧍᧎᧏᧐᧑᧒᧓᧔᧕᧖᧗᧘᧙᧚᧛᧜᧝᧞᧟ᨀᨁᨂᨃᨄᨅᨆᨇᨈᨉᨊᨋᨌᨍᨎᨏᨐᨑᨒᨓᨔᨕᨖᨘᨗᨙᨚᨛ᨜᨝᨞᨟ᨠᨡᨢᨣᨤᨥᨦᨧᨨᨩᨪᨫᨬᨭᨮᨯᨰᨱᨲᨳᨴᨵᨶᨷᨸᨹᨺᨻᨼᨽᨾᨿᩀᩁᩂᩃᩄᩅᩆᩇᩈᩉᩊᩋᩌᩍᩎᩏᩐᩑᩒᩓᩔᩕᩖᩗᩘᩙᩚᩛᩜᩝᩞ᩟᩠ᩡᩢᩣᩤᩥᩦᩧᩨᩩᩪᩫᩬᩭᩮᩯᩰᩱᩲᩳᩴ᩵᩶᩷᩸᩹᩺᩻᩼᩽᩾᩿᪀᪁᪂᪃᪄᪅᪆᪇᪈᪉᪊᪋᪌᪍᪎᪏᪐᪑᪒᪓᪔᪕᪖᪗᪘᪙᪚᪛᪜᪝᪞᪟᪠᪡᪢᪣᪤᪥᪦ᪧ᪨᪩᪪᪫᪬᪭᪮᪯᪵᪶᪷᪸᪹᪺᪽᪰᪱᪲᪳᪴᪻᪼᪾ᪿᫀ᫃᫄᫊᫁᫂᫅᫆᫇᫈᫉᫋ᫌᫍᫎ᫏᫐᫑᫒᫓᫔᫕᫖᫗᫘᫙᫚᫛᫜᫝᫞᫟᫠᫡᫢᫣᫤᫥᫦᫧᫨᫩᫪᫫᫬᫭᫮᫯᫰᫱᫲᫳᫴᫵᫶᫷᫸᫹᫺᫻᫼᫽᫾᫿ᬀᬁᬂᬃᬄᬅᬆᬇᬈᬉᬊᬋᬌᬍᬎᬏᬐᬑᬒᬓᬔᬕᬖᬗᬘᬙᬚᬛᬜᬝᬞᬟᬠᬡᬢᬣᬤᬥᬦᬧᬨᬩᬪᬫᬬᬭᬮᬯᬰᬱᬲᬳ᬴ᬵᬶᬷᬸᬹᬺᬻᬼᬽᬾᬿᭀᭁᭂᭃ᭄ᭅᭆᭇᭈᭉᭊᭋᭌ᭍᭎᭏᭐᭑᭒᭓᭔᭕᭖᭗᭘᭙᭚᭛᭜᭝᭞᭟᭠᭡᭢᭣᭤᭥᭦᭧᭨᭩᭪᭬᭫᭭᭮᭯᭰᭱᭲᭳᭴᭵᭶᭷᭸᭹᭺᭻᭼᭽᭾᭿ᮀᮁᮂᮃᮄᮅᮆᮇᮈᮉᮊᮋᮌᮍᮎᮏᮐᮑᮒᮓᮔᮕᮖᮗᮘᮙᮚᮛᮜᮝᮞᮟᮠᮡᮢᮣᮤᮥᮦᮧᮨᮩ᮪᮫ᮬᮭᮮᮯ᮰᮱᮲᮳᮴᮵᮶᮷᮸᮹ᮺᮻᮼᮽᮾᮿᯀᯁᯂᯃᯄᯅᯆᯇᯈᯉᯊᯋᯌᯍᯎᯏᯐᯑᯒᯓᯔᯕᯖᯗᯘᯙᯚᯛᯜᯝᯞᯟᯠᯡᯢᯣᯤᯥ᯦ᯧᯨᯩᯪᯫᯬᯭᯮᯯᯰᯱ᯲᯳᯴᯵᯶᯷᯸᯹᯺᯻᯼᯽᯾᯿ᰀᰁᰂᰃᰄᰅᰆᰇᰈᰉᰊᰋᰌᰍᰎᰏᰐᰑᰒᰓᰔᰕᰖᰗᰘᰙᰚᰛᰜᰝᰞᰟᰠᰡᰢᰣᰤᰥᰦᰧᰨᰩᰪᰫᰬᰭᰮᰯᰰᰱᰲᰳᰴᰵᰶ᰷᰸᰹᰺᰻᰼᰽᰾᰿᱀᱁᱂᱃᱄᱅᱆᱇᱈᱉᱊᱋᱌ᱍᱎᱏ᱐᱑᱒᱓᱔᱕᱖᱗᱘᱙ᱚᱛᱜᱝᱞᱟᱠᱡᱢᱣᱤᱥᱦᱧᱨᱩᱪᱫᱬᱭᱮᱯᱰᱱᱲᱳᱴᱵᱶᱷᱸᱹᱺᱻᱼᱽ᱾᱿ᲀᲁᲂᲃᲄᲅᲆᲇᲈᲉᲊ᲋᲌᲍᲎᲏ᲐᲑᲒᲓᲔᲕᲖᲗᲘᲙᲚᲛᲜᲝᲞᲟᲠᲡᲢᲣᲤᲥᲦᲧᲨᲩᲪᲫᲬᲭᲮᲯᲰᲱᲲᲳᲴᲵᲶᲷᲸᲹᲺ᲻᲼ᲽᲾᲿ᳀᳁᳂᳃᳄᳅᳆᳇᳈᳉᳊᳋᳌᳍᳎᳏᳓᳡ᳩᳪᳫᳬᳮᳯᳰᳱᳲᳳ᳴ᳵᳶ᳷᳸᳹ᳺ᳻᳼᳽᳾᳿ᴀᴁᴂᴃᴄᴅᴆᴇᴈᴉᴊᴋᴌᴍᴎᴏᴐᴑᴒᴓᴔᴕᴖᴗᴘᴙᴚᴛᴜᴝᴞᴟᴠᴡᴢᴣᴤᴥᴦᴧᴨᴩᴪᴫᴬᴭᴮᴯᴰᴱᴲᴳᴴᴵᴶᴷᴸᴹᴺᴻᴼᴽᴾᴿᵀᵁᵂᵃᵄᵅᵆᵇᵈᵉᵊᵋᵌᵍᵎᵏᵐᵑᵒᵓᵔᵕᵖᵗᵘᵙᵚᵛᵜᵝᵞᵟᵠᵡᵢᵣᵤᵥᵦᵧᵨᵩᵪᵫᵬᵭᵮᵯᵰᵱᵲᵳᵴᵵᵶᵷᵸᵹᵺᵻᵼᵽᵾᵿᶀᶁᶂᶃᶄᶅᶆᶇᶈᶉᶊᶋᶌᶍᶎᶏᶐᶑᶒᶓᶔᶕᶖᶗᶘᶙᶚᶛᶜᶝᶞᶟᶠᶡᶢᶣᶤᶥᶦᶧᶨᶩᶪᶫᶬᶭᶮᶯᶰᶱᶲᶳᶴᶵᶶᶷᶸᶹᶺᶻᶼᶽᶾᶿ᷐᷎᷺᷂᷊᷏᷹᷽᷿᷷᷸᷀᷁᷃᷄᷅᷆᷇᷈᷉᷋᷌᷑᷒ᷓᷔᷕᷖᷗᷘᷙᷚᷛᷜᷝᷞᷟᷠᷡᷢᷣᷤᷥᷦᷧᷨᷩᷪᷫᷬᷭᷮᷯᷰᷱᷲᷳᷴ᷵᷻᷾᷶᷼᷍ḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕẖẗẘẙẚẛẜẝẞẟẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹỺỻỼỽỾỿἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕ἖἗ἘἙἚἛἜἝ἞἟ἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷἸἹἺἻἼἽἾἿὀὁὂὃὄὅ὆὇ὈὉὊὋὌὍ὎὏ὐὑὒὓὔὕὖὗ὘Ὑ὚Ὓ὜Ὕ὞ὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯὰάὲέὴήὶίὸόὺύὼώ὾὿ᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴ᾵ᾶᾷᾸᾹᾺΆᾼιῂῃῄ῅ῆῇῈΈῊΉῌῐῑῒΐ῔῕ῖῗῘῙῚΊ῜ῠῡῢΰῤῥῦῧῨῩῪΎῬ῰῱ῲῳῴ῵ῶῷῸΌῺΏῼ῿‎⁕⁖⁘⁙⁚⁛⁜⁝⁞⁤⁥⁦⁧⁨⁩ⁱ⁲⁳ⁿ₏ₐₑₒₓₔₕₖₗₘₙₚₛₜ₝₞₟₲₳₴₵₶₷₸₹₺₻₼₽₾₿⃀⃁⃂⃃⃄⃅⃆⃇⃈⃉⃊⃋⃌⃍⃎⃏⃫⃬⃭⃮⃯⃰⃱⃲⃳⃴⃵⃶⃷⃸⃹⃺⃻⃼⃽⃾⃿ℂℇℊℋℌℍℎℏℐℑℒℓℕℙℚℛℜℝℤΩℨKÅℬℭℯℰℱℳℴℵℶℷℸℹℼℽℾℿⅅⅆⅇⅈⅉ⅌⅍ⅎ⅏⅐⅑⅒ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿↀↁↂↃↄↅↆↇↈ↉↊↋↌↍↎↏⌶⌷⌸⌹⌺⌻⌼⌽⌾⌿⍀⍁⍂⍃⍄⍅⍆⍇⍈⍉⍊⍋⍌⍍⍎⍏⍐⍑⍒⍓⍔⍕⍖⍗⍘⍙⍚⍛⍜⍝⍞⍟⍠⍡⍢⍣⍤⍥⍦⍧⍨⍩⍪⍫⍬⍭⍮⍯⍰⍱⍲⍳⍴⍵⍶⍷⍸⍹⍺⎕⏑⏒⏓⏔⏕⏖⏗⏘⏙⏚⏛⏜⏝⏞⏟⏠⏡⏢⏣⏤⏥⏦⏧⏨⏩⏪⏫⏬⏭⏮⏯⏰⏱⏲⏳⏴⏵⏶⏷⏸⏹⏺⏻⏼⏽⏾⏿␧␨␩␪␫␬␭␮␯␰␱␲␳␴␵␶␷␸␹␺␻␼␽␾␿⑋⑌⑍⑎⑏⑐⑑⑒⑓⑔⑕⑖⑗⑘⑙⑚⑛⑜⑝⑞⑟⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uad" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+</idPkg:Fonts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u13e9" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Extra Bold" PointSize="10" StrokeWeight="4.738192590844011" Tracking="60" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" FillTint="100" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>End User Lounge </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">15</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>As an expansion of the End User Stories </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>program, we launched our End User Lounge Live Stream in April – a program offering exclusive live streams for end users to showcase how they navigate the cloud native ecosystem. This year, we featured unscripted conversations with eight cloud native end users at the top of their game, including CERN’s Ricardo Rocha, who explained how </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u152f" Name="Hyperlink 20" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>CERN manages 600+ Kubernetes clusters</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> and the challenges faced while building infrastructure at scale.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="8.5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>You can watch the End User  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="8.5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="unit">9</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>Lounge </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold Italic" PointSize="8.5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<Content>recordings on our </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semibold Italic" PointSize="8.5" AppliedLanguage="$ID/English: USA">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Source Serif Variable</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u142b" Name="Hyperlink 17" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>End User Community playlist. </Content>
+					<Br />
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

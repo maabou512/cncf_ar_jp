@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u38b1" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Co-located with KubeCon + CloudNativeCon Europe Virtual</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Rust Day | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>518 attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Security Day |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>  1,102+ attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Wasm Day |  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>340+ attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Crossplane Community Day |  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>293+ attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Data on Kubernetes Day hosted by CNCF | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>370+ attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>FluentCon: Cloud Native Logging day with Fluent Bit and Fluentd |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>  335+ attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Kubernetes AI Day | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>588+ attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Kubernetes on Edge Day |  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>624+ attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Magma Day | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>163 attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>PromCon Online 2021 |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 429 attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>ServiceMeshCon |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 783+ attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Co-located events with KubeCon + CloudNativeCon North America Hybrid:</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native DevX Day |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 43 in-person </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>attendees + 339 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native eBPF Day | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>76 in-person attendees + 501 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Security Conference | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>116 in-person attendees + 636 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Wasm Day | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>29 in-person attendees + 284 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>EnvoyCon | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>48 in-person attendees  + 424 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>FluentCon |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>14 in-person attendees  + 225 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>GitOpsCon | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>103 in-person attendees  + 608 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Kubernetes AI Day, co-hosted by LFAI + Data | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>52 in-person attendees  + 538 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Production Identity Day:  SPIFFE + SPIRE | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>28 in-person attendees + 283 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>PromCon | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>47 in-person attendees  + 474 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>ServiceMeshCon | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>65 in-person attendees + 636 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>SupplyChain SecurityCon, co-hosted by CDF | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>92 in-person attendees  + 474 virtual attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/AR Purple" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" Capitalization="AllCaps" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>CNCF Hosted – Co-located with KubeCon + CloudNativeCon:</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">17</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Security Day Europe | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>890 registered attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Serverless Practitioners Summit Europe | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>496 registered attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>ServiceMeshCon Europe |  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>891 registered attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Cloud Native Security Day North America | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>1,606 registered attendees</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>OpenTelemetry Community Day North America |</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 913 registered attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Production Identity Day: SPIFFE + SPIRE North America | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>515 registered attendees </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>ServiceMeshCon North America | </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" StrokeWeight="4.738192590844011" Tracking="19.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> 1,803 registered attendees</Content>
+				<Br />
+				<Content> </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

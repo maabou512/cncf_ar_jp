@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<Story Self="u581b" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" HyphenationZone="170.57493327038438" RuleAboveLineWeight="4.738192590844011" RuleBelowLineWeight="4.738192590844011" SingleWordJustification="LeftAlign" Justification="LeftAlign" SplitColumnInsideGutter="28.429155545064063" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" ParagraphBorderTopLeftCornerRadius="56.858311090128126" ParagraphBorderTopRightCornerRadius="56.858311090128126" ParagraphBorderBottomLeftCornerRadius="56.858311090128126" ParagraphBorderBottomRightCornerRadius="56.858311090128126" ParagraphShadingTopLeftCornerRadius="56.858311090128126" ParagraphShadingTopRightCornerRadius="56.858311090128126" ParagraphShadingBottomLeftCornerRadius="56.858311090128126" ParagraphShadingBottomRightCornerRadius="56.858311090128126" ParagraphBorderTopLineWeight="4.738192590844011" ParagraphBorderBottomLineWeight="4.738192590844011" ParagraphBorderLeftLineWeight="4.738192590844011" ParagraphBorderRightLineWeight="4.738192590844011" ParagraphDirection="LeftToRightDirection">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>Six CNCF hosted projects received security audits in 2021. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u58e4" Name="Hyperlink 317" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Contour,</Content>
+				</HyperlinkTextSource>
+				<Content> </Content>
+				<HyperlinkTextSource Self="u58f1" Name="Hyperlink 318" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>SPIRE/SPIFFE,</Content>
+				</HyperlinkTextSource>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>and </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u58fc" Name="Hyperlink 319" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Flux</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> received regular audits while </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u5907" Name="Hyperlink 320" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Linkerd,</Content>
+				</HyperlinkTextSource>
+				<Content> </Content>
+				<HyperlinkTextSource Self="u5912" Name="Hyperlink 321" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Envoy,</Content>
+				</HyperlinkTextSource>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>and </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u591d" Name="Hyperlink 322" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Vitess</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semi Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> all underwent fuzzing which was first piloted last year. The CNCF Bug Bounty program which rewards researchers who find security vulnerabilities in project codebase, as well as build and release processes also paid out over $10,000 for 19 bounties resolved. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Br />
+				<Content>In response to the executive order on software supply chain security, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u5928" Name="Hyperlink 323" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>The CNCF Security Technical Advisory Group</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> published </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u5933" Name="Hyperlink 324" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Software Supply Chain Security Best Practices,</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> to provide a holistic approach to supply chain security. They also hosted Cloud Native Security Day at KubeCon + CloudNativeCon </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u593e" Name="Hyperlink 325" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>NA</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> and </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u5949" Name="Hyperlink 326" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>EU</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content> and a SupplyChainSecurityCon at KubeCon + CloudNativeCon </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Links" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<HyperlinkTextSource Self="u5954" Name="Hyperlink 327" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>NA</Content>
+				</HyperlinkTextSource>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" StrokeWeight="4.738192590844011" Tracking="9.999999999999993" AppliedLanguage="$ID/English: USA" MiterLimit="18.952770363376043" RubyFontSize="-4.738192590844011" KentenFontSize="-4.738192590844011">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Clarity City</AppliedFont>
+				</Properties>
+				<Content>.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
