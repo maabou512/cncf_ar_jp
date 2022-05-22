@@ -1,0 +1,3322 @@
+> Cloud Native Computing Foundation Annual Report 2021
+
+<font color=green>Cloud Nativextend thanke Computing Foundation Annual Report 2021</font>
+
+Cloud Native Computing Foundation  アニュアルレポート 2021
+
+> /39
+
+<font color=green>/39</font>
+
+/39
+
+> CNCF 2021
+
+<font color=green>CNCF 2021</font>
+
+CNCF 2021
+
+> ANNUAL
+
+<font color=green>年1回</font>
+
+  
+
+> REPORT
+？
+<font color=green>報告</font>
+
+アニュアルレポート　 
+
+> THE
+
+<font color=green>の</font>
+
+ 
+
+> EVOLUTION
+
+<font color=green>進化</font>
+
+私たちの進化
+
+> OF US
+
+<font color=green>私たちの</font>
+
+　
+
+> Comments and feedback are welcome at info@cncf.io
+
+<font color=green>info@cncf.ioでコメントとフィードバックを歓迎します。</font>
+
+コメントやフィードバックはこちらへ：info@cncf.io
+
+> Click the buttons to jump to the section
+
+<font color=green>ボタンをクリックしてセクションにジャンプします。</font>
+
+上部ボタンクリックで各セクションにジャンプします。
+
+> WELCOME
+
+<font color=green>ようこそ</font>
+
+ようこそ
+
+> IT’S BEEN A YEAR
+
+<font color=green>もう一年になる</font>
+
+記憶すべき一年
+
+> TO REMEMBER
+
+<font color=green>覚えておく</font>
+
+（ここは削除、分割ぜず前の分節ですべてを記載）
+　　
+
+> When I look back at 2021, I’m amazed by what we have achieved together on our journey towards making cloud native ubiquitous.
+
+<font color=green>2021年を振り返ると、クラウドネイティブなユビキタスの実現に向けて私たちが共に成し遂げてきたことに驚いています。</font>
+
+2021年を振り返ってみると、クラウドネイティブ技術をユビキタスなものにしていく旅の中で私たちが共に成し遂げてたことに驚かされます。
+
+> I want to thank you, #TeamCloudNative, for your passion and commitment to this community. Despite all the challenges of the past 12 months, you’ve made 2021 a year to remember.
+
+<font color=green>#TeamCloudNative、このコミュニティへのあなたの情熱と献身に感謝したいと思います。過去12カ月間のすべての課題にもかかわらず、あなたは1年に2021人を記憶してきました。</font>
+
+#TeamCloudNative みなさんのこのコミュニティに対する情熱、コミットメントに感謝したいです。この12カ月間、たくさんのチャレンジがありましたが、みなさんが2021年を記憶に残る1年にしてくれました。
+
+> We’ve seen record growth across all areas; from projects, events and the cloud native ecosystem, to membership and community. Most importantly, this year the definition of “us” has evolved to encompass a truly global, welcoming community of doers, working collaboratively to fundamentally change how technology is built and delivered.
+
+<font color=green>プロジェクト、イベント、クラウドネイティブエコシステム、メンバーシップ、コミュニティなど、あらゆる分野で記録的な成長が見られました。最も重要なことは、今年の「私たち」の定義は、真にグローバルで歓迎すべき実践者のコミュニティを包含するように進化し、技術の構築と提供方法を根本的に変えるために協力して働いています。</font>
+
+各プロジェクト、開催イベント、クラウドネイティブのエコシステムからメンバーシップやコミュニティにいたる、あらゆる分野で記録的な成長を見てきました。一番大事なことは、2021年、技術開発やデリバリを根本的から変えていくべく、コラボレーションをしながら、「私たち」の定義を真にグローバルで親しみやすい実践者（Doer）のコミュニティを包み込むように進化してきたことなのです。
+
+> I hope you enjoy reading our Annual Report and reflecting back on the incredible progress we’ve achieved together.
+
+<font color=green>年次報告書をお読みいただき、共に成し遂げた素晴らしい進歩を振り返っていただきたいと思います。</font>
+
+アニュアルレポートをお読みいただき、みなさんとともに成し遂げてきた、信じられない進歩を振り返っていただきたいと思います。
+
+> The power of us is the power of our culture
+
+<font color=green>私たちの力は文化の力であり</font>
+
+私たちの力はカルチャーの力
+
+> Priyanka Sharma
+
+<font color=green>プリヤンカ・シャルマ</font>
+
+Priyanka Sharma
+
+> General Manager, CNCF
+
+<font color=green>当社CNCF部長</font>
+
+CNCF ジェネラルマネージャ
+
+> 740+ Members
+
+<font color=green>740名以上のメンバー</font>
+
+740名以上のメンバー
+
+> Across 6 continents
+
+<font color=green>6大陸を横断</font>
+
+6大陸にわたる
+
+> 120+ Projects
+
+<font color=green>120以上のプロジェクト</font>
+
+120以上のプロジェクト
+
+> Driving worldwide transformation
+
+<font color=green>世界的な変革の推進</font>
+
+世界規模のトランスフォーメーションを推進
+
+> 142,000+ Contributors
+
+<font color=green>142000名以上の寄稿者</font>
+
+142,000名以上のコントリビューターたち
+
+> Fundamentally changing computing
+
+<font color=green>根本的に変化するコンピューティング</font>
+
+コンピューティングを根本から変える
+
+> 2021
+
+<font color=green>2021</font>
+
+2021
+
+> MOMENTUM
+
+<font color=green>運動量</font>
+
+その勢い
+
+> CNCF is an open source software foundation dedicated to making cloud native computing ubiquitous
+
+<font color=green>CNCFは、クラウドネイティブコンピューティングをユビキタスにすることを目的としたオープンソースソフトウェア財団です。</font>
+
+CNCFは、クラウドネイティブ コンピューティングをユビキタスなものにすることを目的としたオープンソース ソフトウェアの財団です。
+
+> Since we were founded in 2015, we’ve pioneered cloud native technologies — hosting and growing some of the world’s most successful open source projects including Kubernetes, Prometheus, Envoy, ContainerD, and over 100 others.
+
+<font color=green>私たちは2015年に設立されて以来、クラウドネイティブ技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerDなど、世界で最も成功しているオープンソースプロジェクトをホストし、成長させてきました。</font>
+
+私たちは、 2015年に設立されて以来クラウドネイティブの技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD、その他100以上の世界で最も成功しているオープンソースプロジェクトのいくつかをホストし、成長させてきました。
+
+> Today we are a powerhouse for visionary projects and people. If cloud native was fast becoming mainstream before 2020, then the global pandemic pushed adoption into the stratosphere. Now, CNCF hosts 120+ projects with over 142,000 contributors representing 189 countries, and there are no signs of slowing down. In fact, IDC analyst Dave McCarthy states: “We have seen a significant rise in the adoption of cloud native technologies between 2020 and 2021. I predict that cloud native adoption will continue to grow in 2022 and become a foundational element in CIO’s cloud native strategies as they plan for the digital-first future.”
+
+<font color=green>今日、私たちはビジョンを持ったプロジェクトと人々のための強豪です。クラウドネイティブが2020年以前に急速に主流になりつつあったとすれば、世界的なパンデミックが成層圏への採用を後押ししたことになります。現在、CNCFは120以上のプロジェクトをホストしており、189カ国を代表する142000人以上の貢献者がいます。減速の兆候はありません。実際、IDCのアナリストであるDave McCarthy氏は次のように述べています。「2020年から2021年にかけて、クラウドネイティブ技術の採用が大幅に増加しました。クラウドネイティブの採用は2022年も引き続き増加し、デジタルファーストの将来を計画するCIOのクラウドネイティブ戦略の基本的な要素になると予測しています。」</font>
+
+今日、私たちはビジョンのあるプロジェクトと人々のための原動力です。クラウドネイティブが2020年以前、急速にメインストリームになろうとしていたとすれば、世界的なパンデミックはさらに高い領域への採用を後押ししたことになります。現在、CNCFは120以上のプロジェクトをホストしており、189カ国を代表する142,000人以上の貢献者がいます。減速の兆候は見られません。実際、IDCのアナリストであるDave McCarthy氏は次のように述べています。「2020年から2021年にかけて、クラウドネイティブ技術の採用が大幅に増加しました。我々は、クラウドネイティブ技術の採用が2022年も引き続き増加し、デジタルファーストの将来に向けて計画立案するCIOのクラウドネイティブな戦略においてこの技術が基本的要素になると予測しています。」
+
+> Relentless Momentum
+
+<font color=green>絶え間ない勢い</font>
+
+止まらぬ勢い
+
+> Projects 	 End Users
+
+<font color=green>プロジェクトエンドユーザー</font>
+
+プロジェクトエンドユーザー
+
+> 200
+
+<font color=green>200</font>
+
+200
+
+> 150
+
+<font color=green>150</font>
+
+150
+
+> 100
+
+<font color=green>100</font>
+
+100
+
+> 50
+
+<font color=green>50個</font>
+
+50
+
+> 2016 2017 2018 2019 2020 2021
+
+<font color=green>2016 2017 2018 2019 2020 2021</font>
+
+2016 2017 2018 2019 2020 2021
+
+> Relentless Momentum
+
+<font color=green>絶え間ない勢い</font>
+
+止まらぬ勢い
+
+> Contributors
+
+<font color=green>コントリビュータ</font>
+
+コントリビュータ
+
+> 150,000
+
+<font color=green>150000</font>
+
+150,000
+
+> 100,000
+
+<font color=green>100,000</font>
+
+100,000
+
+> 90,000
+
+<font color=green>90000</font>
+
+90,000
+
+> 60,000
+
+<font color=green>60000</font>
+
+60,000
+
+> 30,000
+
+<font color=green>30000</font>
+
+30,000
+
+> 2016 2017 2018 2019 2020 2021
+
+<font color=green>2016 2017 2018 2019 2020 2021</font>
+
+2016 2017 2018 2019 2020 2021
+
+> Members
+
+<font color=green>メンバー</font>
+
+メンバー
+
+> 800
+
+<font color=green>800</font>
+
+800
+
+> 600
+
+<font color=green>600</font>
+
+600
+
+> Remember when digital transformation used to be a buzzword? That time has gone
+
+<font color=green>デジタル・トランスフォーメーションが流行語だった時代を覚えているだろうか?</font>
+
+デジタル・トランスフォーメーションがバズワードだった頃を覚えてますか?もうその時は過ぎ去りました。
+
+> Priyanka Sharma
+
+<font color=green>プリヤンカ・シャルマ</font>
+
+Priyanka Sharma
+
+> General Manager, CNCF
+
+<font color=green>当社CNCF部長</font>
+
+CNCF ジェネラルマネージャ
+
+> 400
+
+<font color=green>400</font>
+
+400
+
+> 200
+
+<font color=green>200</font>
+
+200
+
+> 2016 2017 2018 2019 2020 2021
+
+<font color=green>2016 2017 2018 2019 2020 2021</font>
+
+2016 2017 2018 2019 2020 2021
+
+> Membership
+
+<font color=green>メンバーシップ</font>
+
+メンバーシップ
+
+> The CNCF ecosystem continues to grow across vendor and end user memberships, making CNCF one of the most successful open source foundations ever.
+
+<font color=green>CNCFエコシステムは、ベンダーやエンドユーザーのメンバーシップを超えて成長し続けており、CNCFはこれまでで最も成功したオープンソース基盤の1つとなっています。</font>
+
+CNCFのエコシステムは、CNCFをこれまで最も成功したオープンソースの財団の1つにたらしめながらベンダーやエンドユーザーのメンバーシップを超えた成長を続けています。　
+
+> Our global membership community is a cornerstone of CNCF. Members help CNCF and the Linux Foundation provide neutral governance, strong IP management, ecosystem building, training, events, developer marketing, rich tools to engage communities, and more to keep the wheels of innovation spinning for our project communities.
+
+<font color=green>メンバーは、CNCFとLinux Foundationが中立的なガバナンス、強力な知的財産管理、エコシステム構築、トレーニング、イベント、開発者マーケティング、コミュニティに参加するための豊富なツールなどを提供し、プロジェクトコミュニティのためにイノベーションの輪を回し続けることを支援しています。</font>
+
+私たちのグローバルなメンバーシップはCNCFの礎石（Cornerstone）です。メンバーたちの支えがあり、CNCFとThe Linux Foundationが中立的なガバナンス、強力な知財（IP）管理、エコシステム構築、トレーニング、イベント、開発者マーケティング、そしてコミュニティに関与するための豊富なツールといったものを提供することができ、「イノベーションの車輪」がプロジェクトコミュニティのために回り続けているのです。
+
+> In 2021, we added over 190 new members to CNCF, equating to a 23% increase in our growth from 2020.
+
+<font color=green>2021年には、CNCFに190人以上の新規メンバーを追加しました。これは、2020年から23%の成長に相当します。</font>
+
+2021年には、CNCFへ190人以上のメンバーが新たに参加しました。これは2020年から23%の成長に相当します。
+
+> Today, CNCF has over 740+ organizations participating, including the world’s largest public and private cloud companies, along with the world’s most innovative software companies and end user organizations. Investment from these leading organizations signifies a strong dedication to the advancement and sustainability of the cloud native ecosystem for years to come.
+
+<font color=green>現在、CNCFには世界最大のパブリッククラウド企業やプライベートクラウド企業、世界で最も革新的なソフトウェア会社やエンドユーザー組織など、740以上の組織が参加しています。これらの主要な組織からの投資は、今後数年間のクラウドネイティブエコシステムの発展と持続可能性に対する強力な献身を意味します。</font>
+
+現在、CNCFには世界最大規模のパブリッククラウドの企業、プライベートクラウドの企業、世界で最もイノベーティブなソフトウェア企業やエンドユーザー組織を含め、740以上が参加しています。こういった先進的な組織からの投資は、今後数年のクラウドネイティブなエコシステムの進展と持続可能性に対する強力な献身を意味します。
+
+> CNCF MEMBERSHIP GROWTH
+
+<font color=green>CNCF会員数の増加</font>
+
+CNCFメンバの増加
+
+> Member Movers and Shakers
+
+<font color=green>メンバームーバーとシェーカー</font>
+
+メンバーシップの躍進<font color=red>※保留</font>
+
+> New Gold members
+
+<font color=green>ニューゴールドのメンバー</font>
+
+新たなゴールドメンバー
+
+> Upgraded to Platinum
+
+<font color=green>プラチナにアップグレード</font>
+
+プラチナメンバへのアップグレード
+
+> 200+ new members
+
+<font color=green>200名以上の新規メンバー</font>
+
+200以上の新メンバー
+
+> 80 new members
+
+<font color=green>80名の新メンバー</font>
+
+うち80の新メンバー
+
+> from China
+
+<font color=green>中国から</font>
+
+は中国から
+
+> 740+ member organizations
+
+<font color=green>740以上の会員組織</font>
+
+740以上のメンバー組織・期間
+
+> 23% growth from 2020
+
+<font color=green>2020年比23%増</font>
+
+2020年比で23%成長
+
+> End users are not passive, they’re becoming leaders in open source projects.
+
+<font color=green>エンドユーザーは受動的ではなく、オープンソースプロジェクトのリーダーになりつつある。</font>
+
+エンドユーザーは受け身（Passive)ではなく、オープンソースプロジェクトのリーダーになりつつあります。
+
+> Cheryl Hung
+
+<font color=green>シェリル・フン</font>
+
+Cheryl Hung
+
+> Engineering Lead, Apple
+
+<font color=green>Apple(Apple)</font>
+
+Apple エンジニアリング リード
+
+> End User Community
+
+<font color=green>エンドユーザーコミュニティ</font>
+
+エンドユーザー コミュニティ
+
+> At our heart, CNCF is driven by a welcoming foundation of doers at the leading edge of cloud native.
+
+<font color=green>私たちの心では、CNCFはクラウドネイティブの最先端にいる実行者たちの歓迎すべき基盤によって推進されています。</font>
+
+クラウドネイティブの先頭を走る実行者（Doer）たちには人を受け入れる親しみやすさ(Welcoming)が根底にあり、CNCFを突き動かしてくれています。<font color=red>※要議論</font>
+
+> We’re committed to creating end user-driven open source and this year, more than ever, we’ve seen ==End Users== actively shape the ecosystem – driving huge-scale adoption and growth of CNCF projects.
+
+<font color=green>私たちはエンドユーザ主導のオープンソースを作ることにコミットしており、今年はこれまで以上に、エンドユーザがCNCFプロジェクトの大規模な採用と成長を推進するエコシステムを積極的に形成するのを見てきました。</font>
+
+私たちはエンドユーザドリブンのオープンソースを作ることにコミットしていますが、2021年については、これまで以上にエンドユーザーたちが -- CNCFプロジェクトの大規模採用と成長をドライブしていく -- エコシステムを活発に形成していくのを見てきました。
+
+> 100%
+
+<font color=green>100%</font>
+
+100%
+
+> would recommend CNCF to other companies
+
+<font color=green>CNCFを他の企業に推薦する</font>
+
+が、CNCFを他の企業に推薦すると回答
+
+> (2021 End User survey)
+
+<font color=green>(2021エンドユーザー調査)</font>
+
+(2021年　エンドユーザーサーベイから)
+
+> 164+
+
+<font color=green>164以上</font>
+
+164以上
+
+> End User Members
+
+<font color=green>エンドユーザメンバー</font>
+
+がエンドユーザー メンバー
+
+> CNCF MEMBERSHIP GROWTH
+
+<font color=green>CNCF会員数の増加</font>
+
+CNCFメンバーシップの増加
+
+> AWARD ANNOUNCEMENT
+
+<font color=green>受賞発表</font>
+
+受賞発表
+
+
+> 26,648
+
+<font color=green>26648</font>
+
+26,648
+
+> contributions
+
+<font color=green>コントリビューション</font>
+
+のコントリビューションを
+
+> to 13 different projects
+
+<font color=green>13のプロジェクトに</font>
+
+13のプロジェクトに対して
+
+> One example of this is Spotify, which donated Backstage to increase the velocity of its development and contribute learnings back to the broader community.
+
+<font color=green>その一例がSpotifyで、Backstageの開発速度を上げ、学習をより広いコミュニティに還元するために寄付した。</font>
+
+一つの例がSpotifyで、自社発Backstageプロジェクトを開発のスピードを上げ、学んだことを広くコミュニティへ還元するべく、これをCNCFへと寄贈しました。
+
+> We were thrilled to grant Spotify our Top End User Award this year, in recognition of its notable contributions to the cloud native ecosystem.
+
+<font color=green>Spotifyがクラウドネイティブエコシステムに大きく貢献したことを評価して、今年Top End User Awardを受賞したことを嬉しく思います。</font>
+
+Spotifyがクラウドネイティブのエコシステムに大きく貢献したことを評価し、2021年Top End User Awardを授与できることを大変嬉しく思います。
+
+> Contributed  Project
+
+<font color=green>投稿されたプロジェクト</font>
+
+貢献プロジェクト
+
+> It has been chaotic but amazing. Everything from the number of adopting companies to new contributors has increased exponentially since Backstage became a CNCF project. We’re figuring out the right ways to harness this chaos in order to scale and move the project forward in a way the community wants, but in a way that also serves adopters. Keeping an open conversation with the community is key to this.
+
+<font color=green>混乱していましたが、驚くべきことです。BackstageがCNCFプロジェクトになって以来、採用企業の数から新しい貢献者まで、すべてが指数関数的に増加しています。私たちは、コミュニティが望む方法で、しかし採用者にも役立つ方法でプロジェクトを拡大し、前進させるために、この混乱を利用する正しい方法を考えています。コミュニティとのオープンな会話を維持することが、このための鍵です。</font>
+
+混沌とはしていましたが、すばらしい体験でした。BackstageがCNCFプロジェクトになって以来、採用企業、新たなコントリビュータといった多くのことが指数関数的に増加しました。混沌を抑え込み、コミュニティが欲し、一方で採用者に報いるようにプロジェクトをスケールし前進させていくための正しいやり方がだんだんとわかってきました。コミュニティとオープンに対話しつけることがその鍵になります。
+
+> Austin Lamon
+
+<font color=green>オースティン・ラモン</font>
+
+Austin Lamon
+
+> director of product, Spotify
+
+<font color=green>スポティファイのディレクター</font>
+
+Spotify、プロダクト ダイレクター
+
+> End User Stories
+
+<font color=green>エンドユーザストーリー</font>
+
+エンドユーザー ストーリー
+
+> The CNCF End User Stories Program, formerly the CNCF Case Studies program, features real-world use cases and the impact CNCF projects and cloud native technologies are having on end users’ businesses.
+
+<font color=green>CNCF End User Stories Program(以前のCNCF Case Studies program)は、現実世界のユースケースと、CNCFプロジェクトとクラウドネイティブ技術がエンドユーザのビジネスに与える影響を特集している。</font>
+
+「CNCF Case Studies program」から名前を変えた「CNCF End User Stories Program」は、リアルな世界のユースケースと、CNCFプロジェクトやクラウドネイティブ技術がエンドユーザーのビジネスに与える影響を取り上げたものです。
+
+> These stories build narratives around specific metrics, acting as a valuable resource for organizations considering adopting cloud native technologies and showcasing participating organizations as leaders in their field.
+
+<font color=green>これらのストーリーは、クラウドネイティブ技術の採用を検討している組織にとって価値あるリソースとして機能し、参加組織をその分野のリーダーとして紹介する、特定のメトリクスを中心としたナラティヴを構築する。</font>
+
+これらの「ストーリー（Story）」は、特定のメトリックを元に「ナラティブ（Narrative）」を作り上げるのです。こうすることでクラウドネイティブ技術の採用を検討している組織に対し価値あるリソースとして機能し、また参加する組織をその分野のリーダーとして紹介することになります。
+
+> This year, we expanded our former Case Studies program to create the End User Stories beta program – empowering our fast-growing End User community to tell their stories through a self-service partnership model with editorial support and guidance provided by the CNCF. Through this new program, we discovered incredible stories from organizations like Entain Australia and Seagate.
+
+<font color=green>今年は、以前のケーススタディ・プログラムを拡張して、エンドユーザー・ストーリーズ・ベータ・プログラムを作成しました。これは、CNCFが提供する編集サポートとガイダンスを備えたセルフサービス・パートナーシップ・モデルを通じて、急成長中のエンドユーザー・コミュニティが自らのストーリーを伝えることができるようにするものです。この新しいプログラムを通して、私たちは、Entain AustraliaやSeagateのような組織から素晴らしいストーリーを発見しました。</font>
+
+2021年は、これまでのケーススタディ プログラムを拡張し、エンドユーザー ストーリーズとしてベータ・プログラム -- CNCFによって編集支援とガイダンスが提供される形のセルフサービス型のパートナシップを通じ急速に成長するエンドユーザー コミュニティが自らのストーリーを話せるようにする -- を作りました。この新しいプログラムを通じ、Entain AustraliaやSeagateのような組織から驚くべきストーリーを見つけることができました。
+
+> Because of Linkerd, we’ve been able to easily increase the volume of requests by more than 10x, reduce operating costs, and better hit our availability targets – while continuing to iterate on our business differentiators.
+
+<font color=green>Linkerdのおかげで、私たちはビジネス差別化要素を繰り返しながら、簡単にリクエストの数を10倍以上に増やし、運用コストを削減し、可用性の目標を達成することができました。</font>
+
+Linkerdのおかげで、 -- 私たちはビジネスでの差異化要素を繰り返し試しながら -- 容易にリクエストの数を10倍以上増やし、運用コストを削減し、可用性レベルを目標まで到達することができたのです。
+
+> Steve Gray
+
+<font color=green>スティーヴ・グレイ</font>
+
+Steve Gray
+
+> Head Of Trading Solutions, Entain Australia
+
+<font color=green>貿易ソリューションの責任者、Entein Australia</font>
+
+トレーディング ソリューション部門長、Entein Australia
+
+> End User Lounge
+
+<font color=green>エンドユーザーラウンジ</font>
+
+エンドユーザーラウンジ
+
+> As an expansion of the End User Stories program, we launched our End User Lounge Live Stream in April – a program offering exclusive live streams for end users to showcase how they navigate the cloud native ecosystem. This year, we featured unscripted conversations with eight cloud native end users at the top of their game, including CERN’s Ricardo Rocha, who explained how CERN manages 600+ Kubernetes clusters and the challenges faced while building infrastructure at scale.
+
+<font color=green>End User Storiesプログラムの拡張として、私たちは4月にEnd User Lounge Live Streamを立ち上げました。これは、クラウドネイティブエコシステムをナビゲートする方法を紹介するために、エンドユーザー専用のライブストリームを提供するプログラムです。今年は、CERNのリカルド・セルジオ・ローシャ・アゼヴェードを含む8人のクラウドネイティブエンドユーザーとの台本なしの会話をゲームのトップに取り上げました。彼らは、CERNが600以上のKubernetesクラスタを管理する方法と、大規模なインフラストラクチャを構築する際に直面する課題について説明しました。</font>
+
+エンドユーザープログラムの拡張として、私たちは4月にエンドユーザーラウンジ・ライブストリーム ― クラウドネイティブのエコシステムの歩き方を紹介するエンドユーザ向け独占ライブストリームを提供するプログラム ― を立ち上げました。2021年は、最高に力を発揮していたCERNのRicardo Rochaを含めたクラウドネイティブのエンドユーザー8人による台本なしの語らいを取り上げました。ここでRicardo Rochaは、CERNがどのようにして600以上のKubernetesクラスタを管理しているか、大規模にインフラストラクチャを構築する際に直面した課題について説明しました。
+
+> You can watch the End User Lounge recordings on our End User Community playlist. 
+
+<font color=green>End User CommunityプレイリストでEnd User Loungeのレコーディングを見ることができます。</font>
+
+エンドユーザーラウンジのレコーディングはエンドユーザーコミュニティのプレイリストで視聴できます。
+
+> Case Studies
+
+<font color=green>導入事例</font>
+
+ケーススタディ
+
+> In 2021 we published 7 case studies showcasing a diverse group of end users from all across the world, in industries as varied as healthcare (Zambon), finance (Fidelity Investments), retail (Ekljop), and data storage (Seagate). 
+
+<font color=green>2021年には、医療(Zammon)、金融(フィデリティ・インベストメンツ)、小売(Ekljop)、データストレージ(Seagate)などさまざまな業界で、世界中のさまざまなエンドユーザーを対象とした7つの事例研究を発表しました。</font>
+
+2021年には、7つのケーススタディを公開しました。その内容は世界中の多様なグループのエンドユーザーがいることを示していて、ヘルスケア（Zammon）、金融（Fidelity Investments）、小売（Ekljop）、データストレージ（Seagate）などさまざまな業界にわたっています。
+
+> Get Involved
+
+<font color=green>参加する</font>
+
+参加する
+
+> Our Case Studies help accelerate the adoption of cloud native technologies around the world. Share how cloud native technologies have transformed your organization and amplify your brand with CNCF. 
+
+<font color=green>デルの導入事例は、世界中でクラウドネイティブテクノロジーの採用を促進するのに役立ちます。クラウドネイティブテクノロジーが組織をどのように変革したかを共有し、CNCFでブランドを強化してください。</font>
+
+私たちのケーススタディは、世界中でクラウドネイティブテクノロジーの採用が加速していくことに役立ちます。クラウドネイティブのテクノロジーが皆さんの組織をどのように変えていったか、ぜひ共有してください。そして、CNCFと一緒に皆さんの組織のブランドを強化していってください。
+
+> Get Started
+
+<font color=green>はじめに</font>
+
+はじめましょう
+
+> End User-driven Research
+
+<font color=green>エンドユーザー主導の調査</font>
+
+エンドユーザー起点の調査
+
+> This year we launched a new initiative – a series of microsurveys to highlight the diverse knowledge of our robust community. We conducted six microsurveys and published four reports – Kubernetes at the Edge, FinOps for Kubernetes, Diversity in Cloud Native, and Cloud Native Security. The final two reports on Cloud Native Observability and Service Mesh will be published in early 2022. 
+
+<font color=green>今年、私たちは新しいイニシアティブを立ち上げました。それは、私たちの強固なコミュニティの多様な知識を強調するための一連のmicrosurveysです。私たちは6つのmicrosurveysを実施し、4つのレポートを発行しました。Kubernetes at the Edge、FinOps for Kubernetes、Diversity in Cloud Native、Cloud Native Securityです。Cloud Native ObservabilityとService Meshに関する最後の2つのレポートは、2022年初めに発行される予定です。</font>
+
+2021年、私たちは新しいイニシアチブ ― 私たちのロバストなコミュニティの多彩な知識を際立たせる、一連のマイクロサーベイ ― を立ち上げました。一年で6つマイクロサーベイを実施し、4つのレポート ― 「Kubernetes at the Edge」、「FinOps for Kubernetes」、「Diversity in Cloud Native」、「Cloud Native Security」― を発行しました。最後の2つのサーベイのレポート、「Cloud Native Observability」と「Service Mesh」は2022年初めの公開予定です。
+
+> In addition, the End User Community delivered three End User Technology Radars in 2021 – quarterly reports focusing on a single topic in cloud native, aimed at a technical audience who want to understand what cloud native solutions end users use and recommend.
+
+<font color=green>さらに、End User Communityは2021年に3つのEnd User Technology Radarを提供しました。これは、クラウドネイティブの1つのトピックに焦点を当てた四半期ごとのレポートであり、エンドユーザーが使用して推奨するクラウドネイティブソリューションを理解したいと考えているテクニカルオーディエンスを対象としています。</font>
+
+さらに2021年、エンドユーザーコミュニティは3つの「エンドユーザーテクノロジーレーダー（End User Technology Radar）をお届けしました。これは、クラウドネイティブの一つのトピックにフォーカスした四半期レポートであり、エンドユーザーが採用し、推薦するクラウドネイティブソリューションがどんなものか理解したいと考えている技術系読者をターゲットとしています。
+
+
+> CNCF Technology Radar
+
+<font color=green>CNCF技術レーダ</font>
+
+CNCF テクノロジレーダー
+
+> This year, radars explored DevSecOps, Multicluster Management, and Secret Management, and received significant press and analyst coverage including DevClass, TechRadar Pro, InfoQ, and Container Journal.    
+
+<font color=green>今年、レーダーはDevSecOps、Multicluster Management、Secret Managementを調査し、DevClass、TechRadar Pro、InfoQ、Container Journalなどの重要な報道とアナリストの取材を受けました。</font>
+
+2021年、レーダーはDevSecOps、Multicluster Management、Secret Managementを調査し、DevClass、TechRadar Pro、InfoQ、Container Journalなどの著名な報道機関やアナリストたちに取り上げられました。
+
+> Technical Oversight Committee
+
+<font color=green>技術監視委員会</font>
+
+テクニカルオーバーサイトコミッティ（TOC）
+
+> In 2021, we welcomed six new members to the TOC – one of CNCF’s three main bodies, in addition to the Governing Board (GB), which is responsible for marketing, budget and other business oversight decisions, and the End User Community (EUC), which is responsible for providing feedback from companies and startups to improve the overall experience for the cloud native ecosystem.
+
+<font color=green>2021年には,マーケティング,予算,その他のビジネス監視の決定を担当する理事会(GB)と,クラウドネイティブエコシステムの全体的なエクスペリエンスを向上させるために企業やスタートアップからのフィードバックを提供するエンドユーザコミュニティ(EUC)に加えて,CNCFの3つの主要組織の1つであるTOCに新たに6名のメンバーが加わった。</font>
+
+2021年には、TOCへ新たに6メンバーを迎えました。TOCは3つあるCNCFの主要な活動体の一つであり、他の2つにはガバニングボード（GB）―マーケティング、予算、その他ビジネス管理の決定を担う―、エンドユーザコミュニティ（EUC）―クラウドネイティブエコシステムの全体的なエクスペリエンスを向上させるために企業やスタートアップからのフィードバックを提供する―があります。
+
+> New members appointed by the Governing Board: 
+
+<font color=green>理事会によって任命された新メンバー:</font>
+
+ガバニングボードから任命された新メンバー：
+
+> Erin Boyd, Engineer, Apple Cornelia Davis, Product Management, AmazonLei Zhang, Engineer, Alibaba and co-maintainer of Kubernetes community, and co-chair of CNCF App Delivery SIG 
+
+<font color=green>Erin Boyd、エンジニア、AppleコーネリアDavis、製品管理、AmazonLei Zhang、エンジニア、Alibaba、Kubernetesコミュニティの共同メンテナー、CNCF App Delivery SIGの共同議長</font>
+
+Erin Boyd、エンジニア、Apple Cornelia Davis、製品管理、Amazon Lei Zhang、エンジニア、Alibaba兼Kubernetesコミュニティの共同メンテナー、CNCF App Delivery SIGの共同チェア
+
+> New members appointedby the End User Board:Dave Zolotusky, Software Engineer, Spotify 
+
+<font color=green>新メンバー:Dave Zolotusky,Software Engineer,Spotify</font>
+
+エンドユーザーボードから任命された新メンバー：Dave Zolotusky、Software Engineer、Spotify
+
+> Ricardo Rocha, Computer Engineer, CERN 
+
+<font color=green>リカルド・セルジオ・ローシャ・アゼヴェード、コンピュータ・エンジニア、CERN</font>
+
+Ricardo Rocha、コンピュータエンジニア、CERN
+
+> New members appointed by the TOC:Davanum Srinivas, Staff Engineer, VMWare 
+
+<font color=green>TOCによって任命された新しいメンバー:Davanum・スリニバス、スタッフ・エンジニア、ヴイエムウェア</font>
+
+TOCから指名を受けた新メンバー：Davanum Srinivas、スタッフエンジニア、VMWare
+
+> They joined serving TOC members Alena Prokharchyk, Justin Cormack, Liz Rice (Chair), Saad Ali, and Sheng Liang.
+
+<font color=green>彼らは、アリーナ・Prokharchyk、ジャスティン・コーマック、リズ・ライス(議長)、サード・アリ、シャン・リャンのTOCメンバーに加わった。</font>
+
+彼らは、現職のTOCメンバー―Alena Prokharchyk、Justin Cormack、Liz Rice（チェア）、Saad Ali、Sheng Liang―に加わりました。
+
+> Thanks
+
+<font color=green>ありがとう</font>
+
+謝辞
+
+> We’d also love to extend a big thank you to our outgoing TOC members – Brendan Burns, Matt Klein, Xiang Li and Michelle Noorali – for their years of commitment to safeguarding CNCF’s technical vision and growing this community into a neutral home for the ecosystem’s most promising technologies!
+
+<font color=green>また、退任するTOCメンバーであるBrendan Burns氏、Matt Klein氏、Xiang Li氏、Michelle Noorali氏にも、CNCFの技術的ビジョンを守り、このコミュニティをエコシステムの最も有望な技術のための中立な場所に成長させることに長年取り組んできたことに対して、心から感謝いたします。</font>
+
+TOCメンバーを退任する Brendan Burns、Matt Klein、Xiang Li、Michelle Nooraliに多大なる感謝を捧げます。―CNCFの技術的ビジョンを守り、このコミュニティをエコシステムの最も有望な技術の「中立な家（Neutral home）」へ育ててることに当ててくれた、何年にもわたるコミットメントに対して！
+
+> CNCF in the Media
+
+<font color=green>メディアにおけるCNCF</font>
+
+メディアにおけるCNCF
+
+> Throughout2021 CNCF drove thought leadership across global media, exploring significant movements from diversity, equity, and inclusivity, to open source trends.
+
+<font color=green>2021年を通じて、CNCFは、多様性、公平性、包括性からオープンソースの傾向への重要な動きを探求しながら、世界のメディア全体に思想のリーダーシップを推進した。</font>
+
+2021年を通じて、CNCFは、多様性（Diversity）、公平性（Equity）、包括性（Inclusivity）からオープンソースのトレンドに至る顕著な動きを調査しながら、世界的メディアを股にかけたソートリーダーシップ（Thought Leadership）を発揮しました。
+
+> Press by the numbers
+
+<font color=green>数字で押す</font>
+
+数字で示すメディア露出
+
+> 10,393
+
+<font color=green>10393</font>
+
+10,393
+
+> articles about CNCF globally to-date
+
+<font color=green>世界的なCNCFに関する記事</font>
+
+CNCFについて世界中で取り上げられた、これまでの記事数
+
+> 29%
+
+<font color=green>29%</font>
+
+29%
+
+> YoY increase in press coverage to-date
+
+<font color=green>これまでの報道件数の前年同期比増加</font>
+
+これまでの報道件数の前年比増加率
+
+> Software’s Big Skill—Up, Learning The Way To Cloud—Native
+
+<font color=green>ソフトウェアの大きなスキルアップ,CloudNativeへの道を学ぶ（英語記事）</font>
+
+ソフトウェアの飛躍的スキルアップ、クラウドネイティブ手法を学ぶ（英語記事）
+
+> 4 ways the coder community can help fix its diversity problem
+
+<font color=green>プログラマー・コミュニティーが多様性問題の解決に役立つ4つの方法</font>
+
+プログラマーコミュニティーが多様性問題の解決へ導く4つの方法（英語記事）
+
+> The container incubator
+
+<font color=green>容器インキュベーター</font>
+
+「コンテナ インキュベーション（英語書籍）」
+
+> Why Cloud Native Open Source Is Critical for Twitter and Spotify
+
+<font color=green>TwitterとSpotifyにとってクラウドネイティブのオープンソースが重要な理由</font>
+
+TwitterとSpotifyにとってクラウドネイティブのオープンソースが重要な理由（英語記事）
+
+> How to bridge the gender gap in the tech sector
+
+<font color=green>技術部門のジェンダーギャップを埋める方法</font>
+
+Tech セクターのジェンダーギャップをどう埋めるか（英語動画）
+
+> Virtual & hybrid EVENTS
+
+<font color=green>仮想イベントとハイブリッドイベント</font>
+
+仮想イベント＆ハイブリッドイベント 
+
+> Despite all our hopes, the COVID-19 pandemic continued to shape 2021
+
+<font color=green>我々のすべての希望にもかかわらず、2021年もCOVID-19パンデミックにかたけ2021を形成し続けた</font>
+
+私たちの希望をよそに、COVID-19パンデミックはとどまることなく2021年に大きな影響を与えました。
+
+> To ensure the safety of our growing cloud native community, CNCF doubled down on digital last year, launching a suite of programs to bring #TeamCloudNative together – providing opportunities for collaboration, learning, and networking from every corner of the globe.
+
+<font color=green>成長を続けるクラウドネイティブコミュニティの安全を確保するために、CNCFは昨年、デジタルを2倍にして、#TeamCloudNativeを一緒にする一連のプログラムを立ち上げ、世界中のあらゆる場所からコラボレーション、学習、ネットワーキングの機会を提供した。</font>
+
+成長するクラウドネイティブコミュニティの安全性を確保するべく、CNCFは昨年、#TeamCloudNative が一同に介するプログラムスイート―世界中のあらゆる場所からコラボレーション、学習、ネットワーキングの機会を提供する―を立ち上げ、デジタル施策を倍増しました。
+
+> Highlights from KubeCon+CloudNativeCon North America
+
+<font color=green>KubeCon+CloudNativeCon North Americaからのハイライト</font>
+
+KubeCon+CloudNativeCon North Americaのハイライト
+
+> KubeCon + CloudNativeCon has always been a celebration of that community spirit, a place where contributors and users from across the world get to meet and share ideas face-to-face.
+
+<font color=green>KubeCon+CloudNativeConは、常にコミュニティの精神を称えるものであり、世界中の貢献者やユーザーが直接会ってアイデアを共有する場所です。</font>
+
+KubeCon+CloudNativeConは、これまでずっとコミュニティの精神を称えるものであり、世界中のコントリビューターやユーザーが直接会って、アイデアを分け合う場となってきました。
+
+> Betsy Amy-Vogt
+
+<font color=green>ベッツィ・アミー=フォークト</font>
+
+Betsy Amy-Vogt
+
+> SiliconANGLE
+
+<font color=green>SiliconANGLE</font>
+
+SiliconANGLE
+
+> Kubernetes Community Days
+
+<font color=green>Kubernetesコミュニティの日</font>
+
+Kubernetes Community Days
+
+> In response to the cloud native community’s evolving needs and geographies, CNCF relaunched the Kubernetes Community Days (KCD) program in 2021 – community-organized events that gather cloud native adopters and technologists to learn, collaborate, and network. The goal of the events is to further the growth and improvement of Kubernetes and cloud native technologies around the world.
+
+<font color=green>クラウドネイティブコミュニティのニーズと地域の変化に対応して、CNCFはKubernetes Community Days(KCD)プログラムを2021コミュニティ組織のイベントで再開しました。このイベントでは、クラウドネイティブの採用者と技術者を集めて、学び、協業し、ネットワークを構築します。イベントの目的は、世界中のKubernetesとクラウドネイティブ技術の成長と向上を促進することです。</font>
+
+クラウドネイティブ コミュニティのニーズと地理的情勢の進展に対応し、CNCFは2021年にKubernetes Community Days（KCD）プログラム ― クラウドネイティブの採用者と技術者が集まり、学び、コラボレーションし、ネットワーキングをするコミュニティ主催のイベント ― をリニューアルしました。このイベントの目的は、世界中のKubernetesとクラウドネイティブ技術の成長と改善を促進することです。
+
+
+> The program relaunched to massive demand. In just the first 8 months of the program, there have already been 12 KCDs in 12 different countries with over 7,500 attendees. The program has also expanded beyond just English to include talks in Chinese, Indonesian, Italian, Korean, and Spanish. While many of the events were virtual because of the pandemic, KCD China hosted the first two hybrid events in Beijing and Shanghai.
+
+<font color=green>このプログラムは再び大規模な需要に応えて開始されました。プログラムの最初の8カ月間だけでも、12の国に12のKCDsがあり、7500人以上が参加しています。また、このプログラムは英語だけでなく、中国語、インドネシア語、イタリア語、韓国語、スペイン語での講演も含まれています。パンデミックのためにイベントの多くは仮想的なものでしたが、KCD Chinaは北京と上海で最初の2つのハイブリッドイベントを主催しました。</font>
+
+本プログラムは大規模なデマンドに応える形で再開されることになりました。プログラムの最初の8カ月間だけでも、12の国で12のKCDを開催、7,500人以上の参加となりました。また、このプログラムには英語のみならず、中国語、インドネシア語、イタリア語、韓国語、スペイン語での講演も含まれます。パンデミックの影響でイベントの多くは仮想的なものとなりましたが、北京と上海では KCD China として最初の2つのハイブリッドイベントをホストしました。
+
+> program relaunched to massive demand
+
+<font color=green>需要が急増するように再開したプログラム</font>
+
+多くの要望に応え再開されたプログラム
+
+> 12 KCDs
+
+<font color=green>12 KCDs</font>
+
+12回のKCD
+
+> In-person, virtual & hybrid
+
+<font color=green>対面、仮想、およびハイブリッド</font>
+
+オンサイト、バーチャル、もしくはハイブリッドの開催
+
+> (2021 End User survey)
+
+<font color=green>(2021エンドユーザー調査)</font>
+
+（2021エンドユーザー サーベイ結果）
+
+> 7,500+ attendees
+
+<font color=green>7500名以上の参加者</font>
+
+7,500人以上の参加者
+
+> Adopters & technologists
+
+<font color=green>採用者と技術者</font>
+
+採用する人たちや技術者たち
+
+> Presentations
+
+<font color=green>プレゼンテーション</font>
+
+プレゼンテーション
+
+> in multiple languages
+
+<font color=green>複数で</font>
+
+多言語で
+
+> 12 Countries
+
+<font color=green>12か国</font>
+
+12か国
+
+> Across the globe
+
+<font color=green>世界中で</font>
+
+世界中で開催
+
+> Kubecon + cloudnativecon
+
+<font color=green>クベコン+クラウドネイティブコン</font>
+
+KUBECON + CLOUDNATIVECON
+
+> EUROPE 2021 (Virtual)
+
+<font color=green>欧州2021(仮想)</font>
+
+EUROPE 2021（VIRTUAL）
+
+
+> May saw KubeCon + CloudNativeCon EU Virtual once again set record-breaking registration and attendance, with 26,648 registrants (a 42.5% increase on 2020).
+
+<font color=green>KubeCon+CloudNativeCon EU Virtualは、26648人の登録者(2020年比42.5%増)を得て、記録的な登録者数と参加者数を記録した。</font>
+
+5月、KubeCon+CloudNativeCon EU Virtualの登録者数と参加者数は記録的で、その登録者は26,648人（2020年比42.5%増）となりました。
+
+> feature Keynote
+
+<font color=green>フィーチャキーノート</font>
+
+注目を集めたキーノート
+
+> How Cloud Native Tech Helped Peloton Ride to Exponential Growth
+
+<font color=green>クラウドネイティブ技術がPelotonの指数的成長を助けた理由</font>
+
+「Peloton Ride の指数的な成長をクラウドネイティブ技術がどう支えたか」（英語）
+
+> Jim Haughwout, VP, Peloton
+
+<font color=green>Jim Houghout(Peloton副社長)</font>
+
+Jim Houghout、VP、Peloton
+
+> DOWNLOAD EVEnt
+
+<font color=green>イベントのダウンロード</font>
+
+イベント トランスパレンシー
+
+> transparency report
+
+<font color=green>透明性報告書</font>
+
+レポートのダウンロード
+
+> The event in Numbers
+
+<font color=green>Numbersのイベント</font>
+
+数字で示すイベント
+
+> 624 Submissions
+
+<font color=green>624提出書類</font>
+
+624 の提案
+
+> 145 Speakers
+
+<font color=green>145スピーカー</font>
+
+145 のスピーカー
+
+> 26,648
+
+<font color=green>26648</font>
+
+26,648
+
+> Total RegistrationS
+
+<font color=green>合計登録数</font>
+
+の登録数合計
+
+> Breakdown of attendees by location
+
+<font color=green>出席者の地域別内訳</font>
+
+参加者の地域別内訳
+
+> Breakdown of particpating companies
+
+<font color=green>参加企業の内訳</font>
+
+参加企業の内訳
+
+> 168
+
+<font color=green>168</font>
+
+168
+
+> Countries
+
+<font color=green>国</font>
+
+の国々
+
+> 9,092
+
+<font color=green>9092</font>
+
+9,092
+
+> companies participated
+
+<font color=green>参加企業</font>
+
+の企業からの参加
+
+> Attendees from countries across six continents
+
+<font color=green>シックス・コンチネンツホテルズグループ各国からの出席者</font>
+
+6大陸にわたる国々からの参加
+
+> kubecon + cloudnativecon
+
+<font color=green>kubecon+cloudnativecon</font>
+
+KUBECON + CLOUDNATIVECON
+
+> North America 2021
+
+<font color=green>北米2021</font>
+
+NORTH AMERICA 2021
+
+> As a truly global community, gathering for our first Hybrid KubeCon + CloudNativeCon in Los Angeles in October was a special moment.
+
+<font color=green>真にグローバルなコミュニティとして、10月にロサンゼルスで開催された最初のハイブリッドKubeCon+CloudNativeConに参加することは、特別な瞬間でした。</font>
+
+10月ロサンゼルスで開催の、「グローバルな」コミュニティとして最初のハイブリッド形式となった KubeCon + CloudNativeCon は、特別な時間となりました。
+
+> We welcomed 3,531 attendees in-person, and 19,633 through our virtual event platform — setting a new standard in hybrid events.
+
+<font color=green>3531たちは、人の参加者を直接歓迎し、19633人が私たちの仮想イベントプラットフォームを通じて、ハイブリッドイベントの新しい基準を設定しました。</font>
+
+ハイブリッドイベントにおける新たな基準を作りながら、オンサイトでは3,531人に、バーチャルイベントのプラットフォームを通じて19,633人に参加いただくことができました。
+
+> Research from David Sally tells us that cooperation and collaboration increases 45% when meeting in person and having face-to-face interactions, so we’re committed to driving more future opportunities for #TeamCloudNative to collaborate and learn together in-person.
+
+<font color=green>David Sallyの調査によると、直接会ったり、顔を合わせたりしたときには、協力とコラボレーションが45%増加するので、私たちは、#TeamCloudNativeが直接一緒に協力し、学ぶためのより多くの将来の機会を促進することにコミットしている。</font>
+
+David Sallyの調査によると、オンサイトで直接顔を合わせたインタラクションは連携やコラボレーションを45%増加させるといいます。したがって私たちは、#TeamCloudNative の皆さんがオンサイトで集まり、ともに学ぶ多くの機会を将来生み出すことにコミットしているのです。
+
+> feature Keynote
+
+<font color=green>フィーチャキーノート</font>
+
+注目を集めたキーノート
+
+> Building support for your Cloud Native journey
+
+<font color=green>Cloud Nativeジャーニーのサポート構築</font>
+
+Cloud Nativeという旅のサポート構築
+
+> Robert Duffy, Expedia
+
+<font color=green>Robert Duffy(エクスペディア)</font>
+
+Robert Duffy、Expedia
+
+> DOWNLOAD EVEnt
+
+<font color=green>イベントのダウンロード</font>
+
+イベント トランスパレンシー
+
+> transparency report
+
+<font color=green>透明性報告書</font>
+
+レポートのダウンロード
+
+> The event in Numbers
+
+<font color=green>Numbersのイベント</font>
+
+数字で示すイベント
+
+> 154
+
+<font color=green>154</font>
+
+154
+
+> Countries
+
+<font color=green>国</font>
+
+の国々
+
+> 23,164
+
+<font color=green>23164</font>
+
+23,164
+
+> Total RegistrationS
+
+<font color=green>合計登録数</font>
+
+の登録数合計
+
+> Attendees from six continents
+
+<font color=green>シックス・コンチネンツホテルズグループからの参加者</font>
+
+6大陸にわたる国々からの参加
+
+> Breakdown of attendees by location
+
+<font color=green>出席者の地域別内訳</font>
+
+参加者の地域別内訳
+
+> Breakdown of attendees by location
+
+<font color=green>出席者の地域別内訳</font>
+
+参加者の地域別内訳
+
+> 3,531
+
+<font color=green>3531</font>
+
+3,531
+
+> IN-PERSON
+
+<font color=green>対面</font>
+
+人のオンサイト参加
+
+> 19,633
+
+<font color=green>19633</font>
+
+19,633
+
+> Virtual
+
+<font color=green>仮想</font>
+
+人のバーチャル参加
+
+> Most represented countries in attendance
+
+<font color=green>出席した代表国の大半</font>
+
+国別参加者での上位国
+
+> Most represented countries in attendance
+
+<font color=green>出席した代表国の大半</font>
+
+国別参加者での上位国
+
+> Breakdown of particpating companies
+
+<font color=green>参加企業の内訳</font>
+
+参加企業の内訳
+
+> Top 10
+
+<font color=green>トップ10</font>
+
+トップ10
+
+> End User companies by attendance
+
+<font color=green>参加別のエンドユーザー企業</font>
+
+エンドユーザー企業別参加者
+
+> JP Morgan Chase
+
+<font color=green>JPモルガン・チェース</font>
+
+JP Morgan Chase
+
+> Apple
+
+<font color=green>アップル</font>
+
+Apple
+
+> Visa
+
+<font color=green>ビザ</font>
+
+Visa
+
+> Fidelity
+
+<font color=green>フィデリティ</font>
+
+Fidelity
+
+> Intuit
+
+<font color=green>インテュイット</font>
+
+Intuit
+
+> Capital One
+
+<font color=green>キャピタル・ワン</font>
+
+Capital One
+
+> Bloomberg
+
+<font color=green>ブルームバーグ</font>
+
+Bloomberg
+
+> American Express
+
+<font color=green>アメリカン・エキスプレス</font>
+
+American Express
+
+> Twitter
+
+<font color=green>ツイッター</font>
+
+Twitter
+
+> Salesforce
+
+<font color=green>セールスフォース</font>
+
+Salesforce
+> 7,290
+
+<font color=green>7290</font>
+
+7,290
+
+> companies participated
+
+<font color=green>参加企業</font>
+
+企業が参加
+
+> Covid Response
+
+<font color=green>コロナ対応</font>
+
+コロナ対応
+
+
+> Our commitment to enabling collaboration also means we’re deeply committed to keeping #TeamCloudNative safe.
+
+<font color=green>協力を可能にするという我々のコミットメントはまた、我々が#TeamCloudNativeを安全に保つことに深くコミットしていることを意味する。</font>
+
+コラボレーションを可能にすることに対する私たちのコミットメントは #TeamCloudNative を安全に保つことに、私たちが深くコミットしていることも意味します。
+
+> CNCF has a long-standing relationship with Dr. Joel Selanikio, a physician, former CDC epidemiologist and outbreak investigator, and consultant epidemiologist to the DC Department of Health and to FEMA for the COVID-19 response over 2020-21.
+
+<font color=green>CNCFは、2020年から21年にかけてのCOVID-19への対応について、医師であり、元CDC疫学者であり、アウトブレイク調査員であり、DC保健省およびFEMAの顧問疫学者であるジョエル・セラニキオ博士と長年の関係がある。</font>
+
+CNCFは、医師、元CDC疫学者、アウトブレイク調査員であり、そして2020年から21年にかけてのCOVID-19への対応についてワシントンDC保健省およびFEMA（アメリカ合衆国連邦緊急事態管理庁）の顧問疫学者でもある Dr. Joel Selanikio　と長年の関係を築いています。
+
+> Thanks to Dr. Selanikio’s continuous council, we have been able to take educated and well-thought out steps to ensure the safety of our community members as we navigate COVID-19.
+
+<font color=green>Selanikio博士の継続的な評議会のおかげで、我々は、COVID-19をナビゲートする際に、我々のコミュニティメンバーの安全を確保するために、教育を受け、十分に考慮された措置をとることができた。</font>
+
+Dr. Selanikio の継続的な助言のおかげで、COVID-19禍を進んでいく中コミュニティメンバーたちの安全を確保するべく、学識に基づく十分に考慮されたステップをとることができました。<font color=red>　【council（評議会）が誤字の可能性あり。counsel（助言）と解釈した。要確認】</font>
+
+> kubecon + cloudnativecon
+
+<font color=green>kubecon+cloudnativecon</font>
+
+KUBECON + CLOUDNATIVECON
+
+> CHINA 2021
+
+<font color=green>中国2021</font>
+
+CHINA 2021
+
+> We don’t yet have all our statistics available from this virtual December 9+10 event, but we’ll share them as soon as they’re ready!
+
+<font color=green>12月9日から10日にかけてのこのバーチャル・イベントでは、まだ統計をすべて入手することはできませんが、準備ができ次第お知らせします!</font>
+
+12月9日から10日にかけて開催の本バーチャルイベントについての統計データについては、準備ができ次第お知らせします！
+
+> 7160
+
+<font color=green>7160</font>
+
+7,160
+
+> Total
+
+<font color=green>合計</font>
+
+総登録者数
+
+> RegistrationS
+
+<font color=green>登録</font>
+
+　
+
+> 161
+
+<font color=green>161</font>
+
+161
+
+> Speakers
+
+<font color=green>スピーカー</font>
+
+スピーカー数
+
+> TRAINING & Certification
+
+<font color=green>トレーニングと認定</font>
+
+トレーニングと認定
+
+> CNCF doubled down on our commitment to #TeamCloudNative in 2021 by expanding our globally recognized certifications, boosting employment opportunities, and helping more folx to upskill their practical application of cloud native technologies.
+
+<font color=green>CNCFは、グローバルに認められた認証を拡大し、雇用機会を増やし、クラウドネイティブ技術の実践的な応用を向上させるために、より多くのfolxを支援することによって、2021年の#TeamCloudNativeへのコミットメントを倍増させた。</font>
+
+2021年CNCFは、―グローバルに認知された認定（Certicication）をさらに展開し、雇用機会を増やし、より多くの人たちのクラウドネイティブ技術における実践的なスキル向上を支援することで― #TeamCloudNative へのコミットメントを倍増しました。
+
+> This year we launched the Kubernetes and Cloud Native Associate (KCNA) — a pre-professional certification designed for candidates interested in working with cloud native technologies. The KCNA underscores conceptual knowledge of the entire cloud native ecosystem, particularly focusing on Kubernetes, and is meant for more than just developers.
+
+<font color=green>今年、私たちはKubernetesとCloud Native Associate(KCNA)を立ち上げました-これはクラウドネイティブ技術の仕事に興味のある候補者のために設計されたプロフェッショナル前の認定です。KCNAは、クラウドネイティブエコシステム全体の概念的な知識を強調しており、特にKubernetesに焦点を当てており、開発者以上のものを対象としています。</font>
+
+2021年は「Kubernetes and Cloud Native Associate（KCNA）」認定―クラウドネイティブ技術を活かした仕事に興味をもつ人たちのためにデザインされた、プレ・プロフェッショナルの認定―を立ち上げました。KCNAは、クラウドネイティブ エコシステム全体の概念的な知識を強調しており、特にKubernetesに焦点を当てており、開発者のみではなくそれ以外の人たちにも向けられてた内容となっています。 
+
+> Alongside, we launched a new practical training course — Inclusive Strategies for Open Source (LFC103) — designed to provide specific strategies for creating inclusive open source communities and codebases, and advice on executing those in communities.
+
+<font color=green>これと並行して、私たちは、包括的なオープンソースコミュニティとコードベースを作るための具体的な戦略と、それらをコミュニティで実行するためのアドバイスを提供することを目的とした、新しい実践的なトレーニングコース「オープンソースのための包括的戦略(LFC103)」を開始しました。</font>
+
+並行して、包摂的な（Inclusiveな）オープンソース コミュニティとコードベースを生み出すための具体的な戦略の提供と、それらのコミュニティでの実践に向けた助言のためにデザインされた、新たな実践的なトレーニングコース―「Inclusive Strategies for Open Source（オープンソースのための包摂的な戦略）」（LFC103）― の提供を始めました。
+
+> 2021 training courses
+
+<font color=green>2021研修コース</font>
+
+2021 トレーニングコース
+
+> CNCF strengthened our commitment to growing the cloud native ecosystem in 2021 – expanding our globally recognized certifications, boosting employment opportunities and helping more folx to upskill their practical application of cloud native technologies.
+
+<font color=green>CNCFは、2021年にクラウドネイティブエコシステムを成長させるという我々のコミットメントを強化し、世界的に認められた認証を拡大し、雇用機会を増やし、より多くのfolxがクラウドネイティブ技術の実践的な応用を向上させることを支援した。</font>
+
+2021年CNCFは、クラウドネイティブエコシステムを成長させていくことへのコミットメント―グローバルに認知された認定（Certicication）をさらに展開し、雇用機会を増やし、より多くの人たちのクラウドネイティブ技術における実践的なスキル向上を支援すること― を強めました。
+
+
+> This year, we launched the Kubernetes and Cloud Native Associate (KCNA)  – a pre-professional certification designed for candidates interested in working with cloud native technologies. The KCNA underscore’s conceptual knowledge of the entire cloud native ecosystem, particularly focusing on Kubernetes and is meant for more than just developers.
+
+<font color=green>今年、私たちはKubernetesとCloud Native Associate(KCNA)を立ち上げました-これはクラウドネイティブ技術の仕事に興味のある候補者のために設計されたプロフェッショナル前の認定です。KCNAは、クラウドネイティブエコシステム全体に関する概念的な知識を強調しており、特にKubernetesに焦点を当てており、開発者だけでなく多くの人を対象としています。</font>
+
+2021年は「Kubernetes and Cloud Native Associate（KCNA）」認定―クラウドネイティブ技術を活かした仕事に興味をもつ人たちのためにデザインされた、プレ・プロフェッショナルの認定―を立ち上げました。KCNAは、クラウドネイティブ エコシステム全体の概念的な知識を強調しており、特にKubernetesに焦点を当てており、開発者のみではなくそれ以外の人たちにも向けられてた内容となっています。 
+
+> Alongside, we launched a new practical training course – Inclusive Strategies for Open Source (LFC103) – designed to provide specific strategies for creating inclusive open source communities and codebases and advice on executing those in communities.
+
+<font color=green>これと並行して、私たちは、包括的なオープンソースコミュニティとコードベースを作成するための具体的な戦略と、それらをコミュニティで実行する上でのアドバイスを提供することを目的とした、オープンソースのための包括的戦略(LFC103)というlFC)」を開始しました。</font>
+
+並行して、包摂的な（Inclusiveな）オープンソース コミュニティとコードベースを生み出すための具体的な戦略の提供と、それらのコミュニティでの実践に向けた助言のためにデザインされた、新たな実践的なトレーニングコース―「Inclusive Strategies for Open Source（オープンソースのための包摂的な戦略）」（LFC103）― の提供を始めました。
+
+
+> CNCF’s training and certification program continued to grow. These training courses and exams received considerable interest:
+
+<font color=green>CNCFの研修・認定プログラムは引き続き拡大しており、これらの研修コースや試験は大きな関心を集めました。</font>
+
+CNCFのトレーニング・認定プログラムは成長し続け、これらのトレーニングコースや認定試験には大きな関心が集まりました。
+
+> 89%
+
+<font color=green>89%</font>
+
+89%
+
+> INCREASE
+
+<font color=green>増加</font>
+
+の増加
+
+> Certified Kubernetes Administrator (CKA) exam hit 70,000 enrollments.
+
+<font color=green>認定Kubernetes管理者(CKA)試験の登録者数は70000人に達しました。</font>
+
+「Certified Kubernetes Administrator（CKA）」試験の合格者数は70,000人に到達しました。
+
+> 39%
+
+<font color=green>39%</font>
+
+39%
+
+> INCREASE
+
+<font color=green>増加</font>
+
+の増加
+
+> Kubernetes Massively Open Online Course (MOOC) hit 229,000 enrollments.
+
+<font color=green>Kubernetes Massively Open Online Course(MOOC)の登録者数は229000人に達した。</font>
+
+「Kubernetes オンライントレーニング（MOOC）」の登録者数は22万9,000人に到達しました。
+
+> 86%
+
+<font color=green>86%</font>
+
+86%
+
+> INCREASE
+
+<font color=green>増加</font>
+
+の増加
+
+> Certified Kubernetes Application Developer (CKAD) hit 34,000 exam registrations.
+
+<font color=green>Certified Kubernetes Application Developer(CKAD)は34000件の試験登録を獲得しました。</font>
+
+「Certified Kubernetes Application Developer（CKAD）」認定試験は3万4,000件の受験登録者数に到達しました。
+
+> 8,450
+
+<font color=green>8450</font>
+
+8,450
+
+> Registrations
+
+<font color=green>登録</font>
+
+人の登録者
+
+> Certified Kubernetes Security Specialist (CKS) launched in November 2020.
+
+<font color=green>Certified Kubernetes Security Specialist(CKS)が2020年11月にローンチされました。</font>
+
+「Certified Kubernetes Security Specialist（CKS）」認定試験を2020年11月に開始しました。
+
+> Save $2,500 off your next Kubernetes Certification
+
+<font color=green>次回のKubernetes認定で2500ドルを節約</font>
+
+これからKubernetes認定試験を受ける人は2,500ドルお得にできます
+
+> Join the CNCF End User Community and take advantage of our training benefits
+
+<font color=green>CNCFエンドユーザーコミュニティに参加し、トレーニングのメリットを活用する</font>
+
+CNCF End User Communityに参加してトレーニングプログラムのベネフィットを活用しましょう 
+
+> Our End User Supporters receive five 100% off coupon codes – a value of up to $2,500 – for any eLearning class, certification exam, or eLearning + Certification exam “bundle” in the Training and Certification Catalog.
+
+<font color=green>エンド・ユーザー・サポーターは、トレーニング/認定カタログに含まれるEラーニング・クラス、認定試験、またはEラーニング+認定試験の「バンドル」に対して、5つの100%割引クーポン・コード(最大2500ドル)を受け取ります。</font>
+
+End User Supporter になると、カタログにあるすべてのeラーニングクラス、認定試験もしくはその両方のバンドルに対し5つの100%オフのクーポンコード―最大2,500ドル分―を受け取ります。
+
+> Our End User Members receive a year-long 15-Seat Starter Pack Subscription to eLearning and certification – a $7,500 value – for unlimited access to the entire eLearning catalog and one certification exam.
+
+<font color=green>EMCのエンド・ユーザー・メンバーは、Eラーニングと認定に対して1年間の15シートのStarter Packサブスクリプション(7500ドル相当)を受け取ります。これにより、Eラーニング・カタログ全体に無制限にアクセスでき、認定試験を1回受けることができます。</font>
+
+End User Memberになると、カタログにあるeラーニングコースすべてを受講でき、認定試験を1回分受験できる、1年間有効のスターターパック サブスクリプション―7,500ドル相当―を15シート分受け取ります。
+
+
+> 28%
+
+<font color=green>28%</font>
+
+28%
+
+> INCREASE
+
+<font color=green>増加</font>save
+
+の増加
+
+> Kubernetes Certified Service Provider (KCSP) program reached 230 certifications in 2021.
+
+<font color=green>Kubernetes Certified Service Provider(KCSP)プログラムは2021年に230件の認証を取得しました。</font>
+
+「Kubernetes Certified Service Provider（KCSP）」プログラムでの認証は2021年に230にまで達しました。
+
+> 14%
+
+<font color=green>14%</font>
+
+14%
+
+> INCREASE
+
+<font color=green>増加</font>
+
+の増加
+
+> Kubernetes Training Partner (KTP) program grew to 57 certified companies.
+
+<font color=green>Kubernetes Training Partner(KTP)プログラムは57の認定企業に成長しました。</font>
+
+「Kubernetes Training Partner（KTP）」プログラムによる認定企業は57社まで増加しました。
+
+> Courses that CNCF funded in 2021
+
+<font color=green>2021年にCNCFが資金提供したコース</font>
+
+2021年にCNCFがファンドしたトレーニングコース（いずれも英語）
+
+> • Introduction to Kubernetes on Edge with k3s
+
+<font color=green>•Kubernetes on Edge with k3s入門</font>
+
+• Introduction to Kubernetes on Edge with k3s
+
+> • Inclusive Strategies for Open Source (LFC103) 
+
+<font color=green>•オープンソースの包括的戦略(LFC103)</font>
+
+• Inclusive Strategies for Open Source (LFC103) 
+
+> • Intro to Kubernetes on the Edge with K3S 
+
+<font color=green>•Kubernetes on the Edge with K3Sの紹介</font>
+
+•Intro to Kubernetes on the Edge with K3S
+
+> • GitOps with Flux 
+
+<font color=green>•GitOpsとフラックス</font>
+
+• GitOps with Flux 
+
+> • Kubernetes and Cloud Native Associate (KCNA) certification
+
+<font color=green>•KubernetesとCloud Native Associate(KCNA)の認定</font>
+
+• Kubernetes and Cloud Native Associate (KCNA) 認定
+
+> • KCNA Prep Course
+
+<font color=green>・KCNA Prepコース</font>
+
+• KCNA Prep Course
+
+> • Advanced Service Mesh with Linkerd (inflight)
+
+<font color=green>•Linkerdによる高度なサービスメッシュ(実行中)</font>
+
+• Advanced Service Mesh with Linkerd (開発中)
+
+> • Ethics and Open Source (inflight)from 2020).
+
+<font color=green>•倫理およびオープンソース(2020年から飛行中)</font>
+
+• Ethics and Open Source（開発中）
+
+> PROJECT  Updates & Satisfaction
+
+<font color=green>プロジェクトの最新情報と満足度</font>
+
+プロジェクトアップデートと満足度
+
+> Throughout 2021, CNCF underscored our commitment to making cloud native ubiquitous by hosting 16 graduated projects, 26 incubating and 78 sandbox projects, driven by more than 142,000 contributors representing 189 countries.
+
+<font color=green>2021年を通じて、CNCFは189カ国を代表する142000人以上の貢献者によって推進された16の卒業プロジェクト、26のインキュベーションプロジェクト、78のサンドボックスプロジェクトをホストすることによって、クラウドをネイティブなユビキタスにするという我々のコミットメントを強調した。</font>
+
+2021年を通じて、CNCFはクラウドネイティブをユビキタスなものにするというコミットメントを―189カ国を代表する14万2,000人以上のコントリビューターたちがドライブする、16の Graduated プロジェクト、26の Incubating プロジェクト、78の Sandbox プロジェクトをホストすることによって―明確に示すことができました。
+
+> Reflecting the evolution of cloud native, this was the year that solidified Kubernetes’ place as the de facto container orchestration tool. In fact, RedHat’s Kubernetes adoption, security, and market trends report 2021 noted that: “Kubernetes is used by nearly everyone… (and) is living up to its title as the de facto container orchestrator.”
+
+<font color=green>クラウドネイティブの進化を反映して、今年は事実上のコンテナオーケストレーションツールとしてのKubernetesの地位を確固たるものにした年でした。実際、RedHatのKubernetes採用、セキュリティ、および市場動向レポート2021では、「Kubernetesはほぼすべての人によって使用されており、事実上のコンテナオーケストレーションとしてのタイトルに従っている」と指摘されています。</font>
+
+クラウドネイティブ技術の進化を反映し、2021年はデファクトのコンテナオーケストレーションツールとしてのKubernetesの地位を確固たるものにした年でした。実際に RedHatのレポート「Kubernetes adoption, security, and market trends report 2021」（英語）では、「Kubernetesはほぼすべての人によって使われており、デファクトのコンテナオーケストレーションとしての肩書を裏切らないものになっている」と書かれています。
+
+> Complementing this maturation in CNCF’s graduated projects, in 2021 the Technical Oversight Committee — chaired by Liz Rice (pictured right)— continued to sharpen focus on app delivery and the ease of creating Kubernetes applications, as well as bolstering the range of increasingly-mature storage projects.
+
+<font color=green>CNCFの段階的なプロジェクトの成熟化を補完するものとして、2021年、Technical Oversight Committee(議長:Liz Rice(写真右))は引き続き、アプリケーションの提供とKubernetesアプリケーションの作成の容易さに焦点を当て、ますます成熟したストレージプロジェクトの範囲を強化した。</font>
+
+2021年Technical Oversight Committee―チェア：Liz Rice（写真右）―は、Kubernetes アプリケーションのデリバリの方法や、アプリケーションの作りやすさについて焦点を当てつづけることでCNCFの Graduated プロジェクトの成熟さを引き立たせ、同様に成熟さを増す各種ストレージ プロジェクトを強化しました。
+
+> Relentless Momentum
+
+<font color=green>絶え間ない勢い</font>
+
+止まらぬ勢い
+
+> CNCF  projects accepted
+
+<font color=green>CNCFプロジェクト受入れ</font>
+
+承認されたCNCFプロジェクト
+
+> Project Movers and Shakers
+
+<font color=green>プロジェクト・ムーバーとシェイカー</font>
+
+プロジェクトのムーバー＆シェイカー <font color=red>【要確認】</font>
+
+> The CNCF community has continued to push the boundaries of experimental technology and in 2021 projects exploring the bleeding edge of cloud native have stormed onto the scene.
+
+<font color=green>CNCFコミュニティは実験的技術の境界を押し続けており、2021年にはクラウドネイティブの最先端を探求するプロジェクトが登場した。</font>
+
+CNCFコミュニティが実験的な技術の境界を押し広げ続けてきた中、2021年はクラウドネイティブの最先端を切り開くプロジェクトたちが舞台に押し寄せることになりました。
+
+> wasmCloud was just one of 42 new sandbox projects accepted into CNCF last year, a 20% year-on-year increase in new projects. Meanwhile, we hosted our first eBPF day, bringing together leading eBPF practitioners to help drive technology evolving Linux networking, observability, and performance.
+
+<font color=green>wasmCloudは、昨年CNCFに承認された42の新しいサンドボックスプロジェクトのうちの1つでしかなく、新規プロジェクトは前年比20%増加しました。その一方で、私たちは最初のEBpFデーを主催し、Linuxのネットワーキング、可観測性、パフォーマンスを進化させる技術の推進を支援するために、主要なEBpF実践者を集めました。</font>
+
+
+2021年CNCFが承認した42の新規サンドボックスプロジェクトがあり、新規プロジェクトが前年比で20%も増加したのですが、wasmCloudはそのうちの1つでしかありませんでした。また、一方で私たちはeBPF Day ― eBPFに携わるリーダー的技術者が一同に介する場 ― を初めて開催し、Linuxにおけるネットワークや、可観測性（Observability）、パフォーマンスの側面から進化をもたらす技術を推進していけるようサポートしました。<font color=red>背景含め内容を確認すること</font>
+
+> Projects increase their maturity level by demonstrating to the TOC that they have attained end user and vendor adoption, established a healthy rate of code commits and codebase changes, and attracted committers from multiple organizations.
+
+<font color=green>プロジェクトは、エンドユーザーとベンダーの採用を達成し、コードコミットとコードベースの変更の健全な割合を確立し、複数の組織からコミッターを集めたことをTOCに示すことによって、成熟度レベルを高めている。</font>
+
+プロジェクトは、エンドユーザーやベンダーによって活用されていること、コードコミットとコードベースの変更の割合を健全なレベルで定着させていること、そして多彩な組織からのコミッターを惹きつけていることをTOCに示すことで、成熟のレベルを高めています。
+
+> Graduations
+
+<font color=green>目盛</font>
+
+Graduated プロジェクト
+
+> Incubation level
+
+<font color=green>インキュベーションレベル</font>
+
+インキュベーション レベルのプロジェクト
+
+> Maintainer Survey Summary 2021 H2
+
+<font color=green>メンテナー調査概要2021 H2</font>
+
+2021年下期メンテナーサーベイサマリ
+
+> CNCF Project Maintainer Survey Results
+
+<font color=green>CNCFプロジェクトメンテナー調査結果</font>
+
+CNCFプロジェクトメンテナーサーベイ結果
+
+> CNCF conducts a survey of our project maintainers twice a year. Overall satisfaction with CNCF increased in 2021, with an improved rating on staff responsiveness. We saw 98% maintainer project representation, and 89% of maintainers recommended CNCF as a place to host an open source project.
+
+<font color=green>CNCFは年に2回、プロジェクトのメンテナーに対して調査を行っています。2021年にはCNCFに対する全体的な満足度が向上し、スタッフの対応力が向上しました。98%のメンテナーがプロジェクトを代表しており、89%のメンテナーがオープンソースプロジェクトをホストする場所としてCNCFを推薦しています。</font>
+
+CNCFは年に2回、プロジェクトのメンテナーに対して調査を行っています。2021年にはCNCFに対する全体的な満足度が向上し、スタッフ対応における評価も上がりました。98%のメンテナーがプロジェクトを代表しており、89%のメンテナーがオープンソースプロジェクトをホストする場所としてCNCFを推薦しています。<font color=red>※要確認※We saw 98% maintainer project representation</font>
+
+> 84%
+
+<font color=green>84%</font>
+
+84%
+
+> Maintainer Satisfaction; 91 projects reporting in
+
+<font color=green>メンテナンス担当者の満足度;91件のプロジェクトが報告</font>
+
+のメンテナーが満足している。91プロジェクトによる報告
+
+> > 2020 (from 83%)
+
+<font color=green>>2020(83%から)</font>
+
+>2020年（83%から増加）
+
+> > 2019 (from 80%)
+
+<font color=green>>2019(80%から)</font>
+
+>2019年（80%から増加）
+
+> 93%
+
+<font color=green>93%</font>
+
+93%
+
+> Maintainers are satisfied with CNCF staff response time
+
+<font color=green>メンテナンス担当者はCNCFスタッフの応答時間に満足している</font>
+
+のメンテナーがCNCFスタッフの対応時間に満足
+
+> > 2020 (from 92%)
+
+<font color=green>>2020(92%から)</font>
+
+>2020年（92%から増加）
+
+> > 2019 (from 84%)
+
+<font color=green>>2019(84%から)</font>
+
+>2019年（84%から増加）
+
+> 89%
+
+<font color=green>89%</font>
+
+89%
+
+> A large majority of maintainers would recommend CNCF for other projects
+
+<font color=green>大多数のメンテナーは、他のプロジェクトにCNCFを推奨します。</font>
+
+メンテナーの大多数が他プロジェクトへCNCFを推奨
+
+> > 2020 (from 88%)
+
+<font color=green>>2020(88%から)</font>
+
+>2020年（88%から増加）
+
+> > 2019 (from 84%)
+
+<font color=green>>2019(84%から)</font>
+
+>2019年（84%から増加）
+
+> Services and Assistance for Projects
+
+<font color=green>プロジェクトに対するサービスと援助</font>
+
+プロジェクトへのサービスと支援
+
+> CNCF provides a variety of services to our projects to help make them more successful and sustainable.
+
+<font color=green>CNCFは、プロジェクトをより成功させ、持続可能なものにするために、さまざまなサービスを提供しています。</font>
+
+CNCFでは、プロジェクトがより成功し、より持続可能なものとなるようにさまざまなサービスを提供しています。
+
+> Events
+
+<font color=green>イベント</font>
+
+イベント
+
+> CNCF continues to invest in CNCF-hosted projects by assisting with their own specialized events. In 2021, these were in conjunction with KubeCon + CloudNativeCon.
+
+<font color=green>CNCFは、自らの専門的なイベントを支援することにより、CNCFが主催するプロジェクトへの投資を継続しており、2021年には、CloudNativeConと協力して行われた。</font>
+
+CNCFは、ホストプロジェクトへの投資を―特化型イベントを支援する形で―し続けています。2021年は、KubeCon+CloudNativeConと連携した形で開催されました。
+
+> Co-located with KubeCon + CloudNativeCon Europe Virtual
+
+<font color=green>KubeCon+CloudNativeCon Europe Virtualと併設</font>
+
+KubeCon+CloudNativeCon Europe Virtualと併設のイベント：
+
+> Cloud Native Rust Day | 518 attendees
+
+<font color=green>Cloud Native Rust Day 518参加者</font>
+
+Cloud Native Rust Day | 518人の参加者
+
+> Cloud Native Security Day | 1,102+ attendees
+
+<font color=green>Cloud Native Security Day 1102+参加者</font>
+
+Cloud Native Security Day | 1,102人以上の参加者
+
+> Cloud Native Wasm Day | 340+ attendees
+
+<font color=green>Cloud Native Wasm Day | 340+参加者</font>
+
+Cloud Native Wasm Day | 340人以上の参加者
+
+> Crossplane Community Day | 293+ attendees
+
+<font color=green>クロスプレーンコミュニティデー293+参加者</font>
+
+Crossplane Community Day | 293人以上の参加者
+
+> Data on Kubernetes Day hosted by CNCF | 370+ attendees
+
+<font color=green>CNCF 370+参加者が主催するKubernetes Dayのデータ</font>
+
+Data on Kubernetes Day hosted by CNCF | 370人以上の参加者
+
+> FluentCon: Cloud Native Logging day with Fluent Bit and Fluentd | 335+ attendees
+
+<font color=green>FluentCon:Cloud Native Logging day with Fluent BitとFluentd 335+の参加者</font>
+
+FluentCon: Cloud Native Logging day with Fluent Bit and Fluentd | 335人以上の参加者
+
+> Kubernetes AI Day | 588+ attendees
+
+<font color=green>Kubernetes AI Day 588+参加者</font>
+
+Kubernetes AI Day | 588人以上の参加者
+
+> Kubernetes on Edge Day | 624+ attendees
+
+<font color=green>Kubernetes on Edge Day 624+参加者</font>
+
+Kubernetes on Edge Day | 624人以上の参加者
+
+> Magma Day | 163 attendees
+
+<font color=green>マグマの日163出席者</font>
+
+Magma Day | 163人の参加者
+
+> PromCon Online 2021 | 429 attendees
+
+<font color=green>Pro MCon Online 2021 429人の参加者</font>
+
+PromCon Online 2021 | 429人の参加者
+
+> ServiceMeshCon | 783+ attendees
+
+<font color=green>ServiceMeshCon 783名以上の参加者</font>
+
+ServiceMeshCon | 783人以上の参加者
+
+> Co-located events with KubeCon + CloudNativeCon North America Hybrid:
+
+<font color=green>KubeCon+CloudNativeCon North America Hybridとの併設イベント:</font>
+
+KubeCon + CloudNativeCon North America Hybridとの併設イベント：
+
+> Cloud Native DevX Day | 43 in-person attendees + 339 virtual attendees
+
+<font color=green>Cloud Native DevX Day直接参加者43名+仮想参加者339名</font>
+
+Cloud Native DevX Day | オンサイトで43人、バーチャルで339人の参加者
+
+> Cloud Native eBPF Day | 76 in-person attendees + 501 virtual attendees
+
+<font color=green>Cloud Native eBPF Day 76直接参加者+501仮想参加者</font>
+
+Cloud Native eBPF Day | オンサイトで76人、バーチャルで501人の参加者
+
+> Cloud Native Security Conference | 116 in-person attendees + 636 virtual attendees
+
+<font color=green>Cloud Native Security Conference 116直接参加者+636仮想参加者</font>
+
+Cloud Native Security Conference | オンサイトで116人、バーチャルで636人の参加者
+
+> Cloud Native Wasm Day | 29 in-person attendees + 284 virtual attendees
+
+<font color=green>Cloud Native Wasm Day 29の直接参加者+284人の仮想参加者</font>
+
+Cloud Native Wasm Day | オンサイトで29人、バーチャルで284人の参加者
+
+> EnvoyCon | 48 in-person attendees + 424 virtual attendees
+
+<font color=green>EnvoyCon直接参加者48名+バーチャル参加者424名</font>
+
+EnvoyCon | オンサイトで48人、バーチャルで424人の参加者
+
+> FluentCon |14 in-person attendees + 225 virtual attendees
+
+<font color=green>FluentCon直接参加者14名+バーチャル参加者225名</font>
+
+FluentCon |オンサイトで14人、バーチャルで225人の参加者
+
+> GitOpsCon | 103 in-person attendees + 608 virtual attendees
+
+<font color=green>GitOpsCon直接参加者103名+バーチャル参加者608名</font>
+
+GitOpsCon |オンサイトで103人、バーチャルで608人の参加者
+
+> Kubernetes AI Day, co-hosted by LFAI + Data | 52 in-person attendees + 538 virtual attendees
+
+<font color=green>Kubernetes AI Day(LFAI共催)+Data 52の直接参加者+538の仮想参加者</font>
+
+Kubernetes AI Day（LF AI & Data 共催）| オンサイトで52人、バーチャルで538人の参加者
+
+> Production Identity Day: SPIFFE + SPIRE | 28 in-person attendees + 283 virtual attendees
+
+<font color=green>Production Identity day:SPIFFE+SPIRE 28人の直接参加者+283人のバーチャル参加者</font>
+
+Production Identity Day: SPIFFE + SPIRE | オンサイトで28人、バーチャルで283人の参加者
+
+> PromCon | 47 in-person attendees + 474 virtual attendees
+
+<font color=green>Pro MCon直接参加者47名+バーチャル参加者474名</font>
+
+PromCon | オンサイトで47人、バーチャルで474人の参加者
+
+> ServiceMeshCon | 65 in-person attendees + 636 virtual attendees
+
+<font color=green>ServiceMeshCon直接参加者65名+バーチャル参加者636名</font>
+
+ServiceMeshCon | オンサイトで65人、バーチャルで636人の参加者
+
+> SupplyChain SecurityCon, co-hosted by CDF | 92 in-person attendees + 474 virtual attendees
+
+<font color=green>SupplyChain SecurityCon(CDF共催)92名の直接参加者+474名の仮想参加者</font>
+
+SupplyChain SecurityCon（CD.Foundation共催）| オンサイトで92人、バーチャルで474人の参加者
+
+> CNCF Hosted – Co-located with KubeCon + CloudNativeCon:
+
+<font color=green>CNCF Hosted-KubeCon+CloudNativeConとの共催:</font>
+
+CNCFがホストした KubeCon + CloudNativeConでの併設イベント：
+
+> Cloud Native Security Day Europe | 890 registered attendees
+
+<font color=green>Cloud Native Security Day Europe 890参加登録者数</font>
+
+Cloud Native Security Day Europe | 890人の登録参加者
+
+> Serverless Practitioners Summit Europe | 496 registered attendees
+
+<font color=green>Serverless Practitioners Summit Europe 496参加登録者数</font>
+
+Serverless Practitioners Summit Europe |  496人の登録参加者
+
+> ServiceMeshCon Europe | 891 registered attendees
+
+<font color=green>ServiceMeshCon欧州891登録参加者</font>
+
+ServiceMeshCon Europe |891人の登録参加者
+
+> Cloud Native Security Day North America | 1,606 registered attendees
+
+<font color=green>Cloud Native Security Day North America 1606登録参加者</font>
+
+Cloud Native Security Day North America |  1,606人の登録参加者
+
+> OpenTelemetry Community Day North America | 913 registered attendees
+
+<font color=green>North America Community Day OpenTelemetry 913参加者</font>
+
+OpenTelemetry Community Day North America | 913人の登録参加者
+
+> Production Identity Day: SPIFFE + SPIRE North America | 515 registered attendees
+
+<font color=green>Production Identity Day:SPIFFE+SPIRE North America 515登録参加者</font>
+
+Production Identity Day: SPIFFE + SPIRE North America | 515人の登録参加者
+
+> ServiceMeshCon North America | 1,803 registered attendees
+
+<font color=green>ServiceMeshCon北米1803名登録参加者</font>
+
+ServiceMeshCon North America | 1,803人の登録参加者
+
+> Documentation
+
+<font color=green>ドキュメント</font>
+
+ドキュメンテーション
+
+> This year the documentation team launched a new program, documentation assessments, providing structured, actionable feedback to projects across the ecosystem.
+
+<font color=green>今年、ドキュメントチームは新しいプログラムであるドキュメント評価を開始し、エコシステム全体のプロジェクトに構造化された実践的なフィードバックを提供しました。</font>
+
+2021年、ドキュメンテーションチームは新たに「ドキュメンテーションアセスメント」プログラム―エコシステム全体にわたり、プロジェクトに向けて構造化され、アクションが明確なフィードバックを提供する―を立ち上げました。
+
+> CNCF completed four documentation assessments:
+
+<font color=green>CNCFは次の4つのドキュメント評価を完了しました。</font>
+
+CNCFでは4つのドキュメンテーションアセスメントを完了しました：
+
+> Project Contour
+
+<font color=green>輪郭を投影</font>
+
+Project Contour
+
+> Notary
+
+<font color=green>公証人</font>
+
+Notary
+
+> Tremor
+
+<font color=green>振戦</font>
+
+Tremor
+
+> Krator
+
+<font color=green>クラッター</font>
+
+Krator
+
+> Phippy and Friends
+
+<font color=green>Phippy・アンド・フレンズ</font>
+
+Phippyと仲間たち
+
+> From a humble PHP app, Phippy has gone on to help thousands of folx take their first steps to understanding cloud native computing – from containerization to automation. Today, Phippy and Friends’ mission is to demystify cloud native computing and explain complicated concepts in a compelling, engaging and easy-to-understand manner.
+
+<font color=green>Phippy氏は、ささやかなPHPアプリから、何千人ものfolxたちがクラウドネイティブコンピューティングを理解するための第一歩-コンテナ化から自動化へ-を踏み出す手助けをしてきた。今日、PhippyとFriendsの使命は、クラウドネイティブコンピューティングの神秘を解き放ち、複雑な概念を説得力のある、魅力的な、理解しやすい方法で説明することである。</font>
+
+ささやかなPHPアプリである Phippy は、コンテナ化から自動化にいたる、クラウドネイティブコンピューティングを理解するために何千もの人たちが踏み出す最初の一歩を助けてくれます。今日、Phippyとその仲間たちの使命は、クラウドネイティブコンピューティングの神秘を解き明かし、そのわかりづらい概念を、納得感があり、おもしろく、そしてわかりやすい形で説明することにあるのです。
+
+> In 2021, three graduated projects donated characters
+
+<font color=green>2021年には3つの卒業プロジェクトが</font>
+
+2021年には3つの Graduated プロジェクトからキャラクターが寄贈されました。
+
+> Hazel
+
+<font color=green>ヘーゼル</font>
+
+ヘーゼル
+
+> the Hedgehog
+
+<font color=green>ハリネズミ</font>
+
+ハリネズミ
+
+> Linky
+
+<font color=green>リンキー</font>
+
+リンキー
+
+> the Lobster
+
+<font color=green>ロブスター</font>
+
+ロブスター
+
+> Tiago
+
+<font color=green>ティアゴ</font>
+
+ティアゴ
+
+> the Tiger
+
+<font color=green>トラ</font>
+
+トラ
+
+> We enjoyed new Phippy Adventures in three books
+
+<font color=green>私たちは3冊の本で新しいPhippy・アドベンチャーを楽しんだ</font>
+
+みんなで楽しめるPhippyの冒険本が新たに3冊リリースされました<font color=red>※意訳につき要議論</font>　
+
+> Admiral Bash’s
+
+<font color=green>バッシュ提督</font>
+
+バッシュ提督の
+
+> Island Adventure
+
+<font color=green>アイランドアドベンチャー</font>
+
+島の冒険
+
+> By the Cartografos Group
+
+<font color=green>Cartografosグループが</font>
+
+Cartografos グループ作成
+
+> From 00-K8s, with Love
+
+<font color=green>00-K8sから、愛を込めて</font>
+
+00-K8sから、愛を込めて
+
+> Donated by Microsoft Azure
+
+<font color=green>Microsoft Azureから寄贈</font>
+
+Microsoft Azureより寄贈
+
+> The Illustrated Children’s Guide to Kubernetes
+
+<font color=green>The Illustrated Children's Guide to Kubernetes</font>
+
+絵で学ぶ：こどもむけKubernetesガイド（伊）
+
+> In Italian, thanks to SparkFabrik
+
+<font color=green>イタリア語で、SparkFabrikのおかげで</font>
+
+SparkFabrikのおかげでイタリア語リリース
+
+> Are you a maintainer on a graduated project? Do you want to help others better understand the concepts of cloud native computing? Donate a character
+
+<font color=green>あなたは卒業プロジェクトのメンテナーですか?クラウドネイティブコンピューティングの概念を他の人がよりよく理解できるようにしたいと思いますか?キャラクターを寄付する</font>
+
+あなたは Graduated プロジェクトのメンテナーですか? 多くの人がクラウドネイティブ コンピューティングのコンセプトを理解できるよう、その手助けをしてみませんか? ぜひキャラクターを寄贈ください
+
+> Blog Posts
+
+<font color=green>ブログの投稿</font>
+
+ブログ投稿
+
+> This year, we introduced the CNCF blog metrics tracker, to enable authors to track the number of views their blogs receive. We published 305 blog posts, and ticked over half a million unique views – increasing blog readership 12% from 2020.
+
+<font color=green>今年、私たちはCNCFブログメトリクストラッカーを導入して、著者たちが彼らのブログが受け取るビューの数を追跡できるようにしました。私たちは305のブログ投稿を公開し、50万以上のユニークなビューを数えました-ブログの読者数は2020から12%増加しました。</font>
+
+2021年、CNCFではブログメトリクストラッカーを導入し、ブロク執筆者たちがコンテンツの閲覧数を追跡できるようにしました。305のブログ投稿を公開し、50万以上のユニークビュー―2020年から読者数は12%の増加―を数えました。
+
+> Top blog posts for 2021
+
+<font color=green>2021年のトップブログ記事</font>
+
+2021年のトップブログ記事（リンク先は英語）
+
+> 504,243
+
+<font color=green>504243</font>
+
+504,243
+
+> Unique Blog Views
+
+<font color=green>固有のブログビュー</font>
+
+ユニークなブログビュー数
+
+> 12,249 views
+
+<font color=green>12249ビュー</font>
+
+12,249ビュー
+
+> gRPC, when you are arcThinkhitecting modern microservices! By Infosys
+
+<font color=green>あなたがarcThinkhitectingにいるときは、gRPC現代のマイクロサービス!Infosysによる</font>
+
+「gRPC, when you are arcThinkhitecting modern microservices!（モダンなマイクロサービスを設計では、gRPCを検討しよう！）」 ― Infosys
+
+> 10,115 views
+
+<font color=green>10115ビュー</font>
+
+10,115ビュー
+
+> Simplifying multi-clusters in Kubernetes By Equinix Metal & Polytechnic of Turin
+
+<font color=green>Simplifying multi-clusters in Kubernetes byエクイニクスMetal&Polytechnic of TurinによるKubernetesのマルチクラスタ化</font>
+
+「Simplifying multi-clusters in Kubernetes（Kubernetesのマルチクラスタをシンプルにする）」― Equinix Metalおよび Turin 工科大学
+
+> 9,238 views
+
+<font color=green>9238ビュー</font>
+
+92,38ビュー
+
+> Kubernetes Cluster API reaches production readiness with version 1.0  By Cluster API Maintainers
+
+<font color=green>Kubernetes Cluster APIがバージョン1.0で運用準備完了クラスタAPIメンテナー別</font>
+
+「Kubernetes Cluster API reaches production readiness with version 1.0（Kubernetes Cluster APIがバージョン1.0でプロダクションレディになりました）」―Cluster APIメンテナー 
+
+> 8,943 views
+
+<font color=green>8943ビュー</font>
+
+8,943ビュー
+
+> Advanced Kubernetes pod to node scheduling  By ARMO
+
+<font color=green>Advanced Kubernetes pod to node scheduling by ARMO</font>
+
+「Advanced Kubernetes pod to node scheduling（KubernetesのPodをNodeに割り当てるための高度なスケジューリング）」― ARMO
+
+> 7,435  views
+
+<font color=green>7435ビュー</font>
+
+7,435ビュー
+
+> Prometheus announces an Agent to address a new range of use cases By Prometheus Maintainers
+
+<font color=green>Prometheusが新しいユースケースに対応するAgentを発表Prometheus Maintainersによる</font>
+
+「Prometheus announces an Agent to address a new range of use cases（新たなユースケースに対処する Prometheus Agentを発表）」―Prometheus 
+
+> CNCF Service Desk
+
+<font color=green>CNCFサービスデスク</font>
+
+CNCF サービスデスク
+
+> CNCF SERVICE DESK REQUEST BURN UP CHART
+
+<font color=green>CNCFサービスデスク要求バーンアップチャート</font>
+
+CNCF サービスデスクへ寄せられたリクエストのバーンアップチャート
+
+
+> To improve access to activities and services that CNCF offers to its hosted projects, the CNCF Service Desk serves as a single access point for all CNCF services. If you’re a CNCF project  maintainer, all you have to do is visit
+
+<font color=green>CNCFがホストするプロジェクトに提供する活動とサービスへのアクセスを改善するために、CNCF Service DeskはすべてのCNCFサービスの単一のアクセスポイントとして機能します。CNCFプロジェクトのメンテナーの場合は</font>
+
+CNCFがホストするプロジェクトに向けたアクティビティやサービスへのアクセスを改善していくため、「CNCFサービスデスク」がすべてのCNCFサービスに対する一本化されたアクセスポイントとなります。もしあなたがプロジェクトメンテナーなのだとしたら、ぜひ一度
+
+> servicedesk.cncf.io to request support.
+
+<font color=green>servicedesk.cncf.ioがサポートを要求します。</font>
+
+servicedesk.cncf.io を訪問しサポートの相談をしてみてください。
+
+> 1000
+
+<font color=green>1000個</font>
+
+1000
+
+> 750
+
+<font color=green>750</font>
+
+750
+
+> 500
+
+<font color=green>500</font>
+
+500
+
+> 250
+
+<font color=green>250</font>
+
+250
+
+> jan 2021
+
+<font color=green>2021年1月</font>
+
+2021年1月
+
+> feb
+
+<font color=green>2月</font>
+
+2月
+
+> 2021
+
+<font color=green>2021</font>
+
+2021年
+
+> Mar 2021
+
+<font color=green>2021年3月</font>
+
+2021年3月
+
+> apr 2021
+
+<font color=green>2021年4月</font>
+
+2021年4月
+
+> may 2021
+
+<font color=green>2021年5月</font>
+
+2021年5月
+
+> jun 2021
+
+<font color=green>2021年6月</font>
+
+2021年6月
+
+> jul 2021
+
+<font color=green>2021年7月</font>
+
+2021年7月
+
+> Aug 2021
+
+<font color=green>2021年8月</font>
+
+2021年8月
+
+> sep 2021
+
+<font color=green>2021年9月</font>
+
+2021年9月
+
+> oct 2021
+
+<font color=green>2021年10月</font>
+
+2021年10月
+
+> nov 2021
+
+<font color=green>2021年11月</font>
+
+2021年11月
+> Community & Diversity Engagement
+
+<font color=green>コミュニティと多様性の取り組み</font>
+
+コミュニティとその多様性に向けた取り組み
+
+> The CNCF community spans the world, across our contributors, members, meetups, and ambassadors.
+
+<font color=green>CNCFのコミュニティは世界中に広がっており、私たちの貢献者、メンバー、ミートアップ、そして大使にも広がっています。</font>
+
+CNCFのコミュニティは、コントリビューター、メンバー、Meetupやアンバサダーといったさまざまな形で世界中に広がっています。
+
+
+> We strengthened our commitment to #TeamCloudNative in 2021, investing in community-driven initiatives to fuel sustained momentum, expansion, growth, and adoption. Importantly, we continued to sharpen focus on our DEI initiatives, ensuring that the ecosystem is a welcoming place where everybody can thrive.
+
+<font color=green>我々は、2021年に#TeamCloudNativeへのコミットメントを強化し、持続的な勢い、拡大、成長及び採用を促進するためのコミュニティ主導のイニシアティブに投資した。重要なことは、我々は、生態系が誰もが繁栄できる歓迎すべき場所であることを確保しつつ、DEIイニシアティブへの焦点を引き続き明確にしたことである。</font>
+
+2021年、私たちはコミュニティ主導でのイニシアティブに投資し、持続する勢い、広がり、成長、そして活用にさらに燃料を注いでいくべく、#TeamCloudNativeへのコミットメントを強めました。このエコシステムが誰でも成長できるような、人を受け入れ親しみやすい場所になるようにDEIイニシアティブへ焦点を当てつづけていることは重要な意味をもちます。
+
+> CNCF continues to support the development of this incredible cloud native community while also striving to ensure that everyone who participates feels welcome regardless of gender, gender identity, sexual orientation, disability, race, ethnicity, age, religion, or economic status. In 2021, women and gender non-conforming speakers made up 43% of the keynotes at KubeCon + CloudNativeCon EU Virtual and 46% at KubeCon + CloudNativeCon North America Hybrid. 
+
+<font color=green>CNCFは、この素晴らしいクラウドネイティブコミュニティの開発を引き続き支援するとともに、参加するすべての人が、性別、ジェンダーアイデンティティ、性的指向、障がい、人種、民族、年齢、宗教、経済的地位にかかわらず、歓迎されると感じることを確保するよう努力している。2021年には、女性とジェンダーに適合しない発言者が、KubeCon+CloudNativeCon EU Virtualでは基調講演の43%、KubeCon+CloudNativeCon North America Hybridでは46%を占めた。</font>
+
+CNCFは、この驚異的なクラウドネイティブコミュニティの発展を引き続き支援するとともに、参加するみなさんすべてが、性別、ジェンダーアイデンティティ、性的指向、障がい、人種、民族、年齢、宗教、経済的地位にかかわらず、受け入れられていると感じられるように努めています。2021年には、女性、およびジェンダーノンコンフォーミング（従来のジェンダーの固定概念に縛られない）スピーカーの割合が、KubeCon + CloudNativeCon EU Virtualのキーノートでは43%、KubeCon + CloudNativeCon North America Hybridのキーノートでは46%となりました。
+
+> DIVERSITY, EQUITY AND Inclusivity
+
+<font color=green>多様性、公平性、包括性</font>
+
+多様性（Diversity）、公平性（Equity）、包摂性（Inclusivity）<font color=red>※英語併記はスペースを見て</font>
+
+> women and gender non-conforming speakers
+
+<font color=green>女性やジェンダーに合わない発言者</font>
+
+女性、およびジェンダーノンコーフィミングなスピーカー
+
+> 43%
+
+<font color=green>43%</font>
+
+43%
+
+> of Keynotes at Kubecon EU
+
+<font color=green>Kubecon EUの基調講演</font>
+
+のKUBECON EU キーノート
+
+> 46%
+
+<font color=green>46%</font>
+
+46%
+
+> of Keynotes at Kubecon NA
+
+<font color=green>Kubecon NAの基調講演</font>
+
+のKUBECON NA　キーノート
+
+> scholarshipS
+
+<font color=green>スカラーシップ</font>
+
+スカラーシップ（奨学金制度）
+
+> We offered scholarships to 685 diversity applicants from traditionally underrepresented and/or marginalized groups and 807 need-based applicants in 2021 to attend KubeCon + CloudNativeCon and CNCF hosted co-located events. Scholarships were funded by sponsorships from Apple, Cisco, Cloud Native Computing Foundation, Cockroach Labs, Google Cloud, Iguazio, Meltwater, Salesforce, Scaleway, StackPulse and Styra.
+
+<font color=green>2021年には、KubeCon+CloudNativeConとCNCFが主催する共催イベントに参加するために、これまであまり代表されていなかったグループや社会から取り残されたグループからの685人の多様な応募者と、807人のニーズに基づいた応募者に奨学金を提供しました。奨学金は、Apple、Cisco、Cloud Native Computing Foundation、Cockroach Labs、Google Cloud、Iguazio、Meltwater、Salesforce、Scaleway、StackPulse、スティラの後援により提供されました。</font>
+
+2021年には、KubeCon + CloudNativeConやCNCFがホストした併設イベントへの参加にあたり、これまで不当な過小評価や疎外を受けていたグループからは685人の「Diversity」申請者と、807人の「Need-base」申請者に対し奨学金を提供しました。奨学金は、Apple、Cisco、Cloud Native Computing Foundation、Cockroach Labs、Google Cloud、Iguazio、Meltwater、Salesforce、Scaleway、StackPulse、Styraの各社・団体のスポンサーシップによってファンドされました。
+
+> We also funded 1600+ student scholarships for students to attend KubeCon + CloudNativeCon Europe, and 1,917 for KubeCon + CloudNativeCon North America.
+
+<font color=green>また、KubeCon+CloudNativeCon Europeに参加する学生のために1600人以上の学生奨学金に、KubeCon+CloudNativeCon North Americaに1917人の学生奨学金に資金を提供しました。</font>
+
+また、学生に対し、KubeCon + CloudNativeCon Europe参加の1,600人以上に、KubeCon + CloudNativeCon North America参加の1,917人に学生向け奨学金をファンドしました。
+
+> To date, CNCF has offered more than 3789 diversity and need–based scholarships to attend KubeCon + CloudNativeCon and other CNCF hosted events over the course of its life.
+
+<font color=green>これまでに、CNCFは、KubeCon+CloudNativeConやその他のCNCF主催のイベントに参加するために、3789以上の多様性と必要性に基づく奨学金を提供してきました。</font>
+
+CNCFでは、これまでKubeCon + CloudNativeConやその他CNCFホストのイベントで累計3,789以上の「Diversity」申請および「Need-base」申請をした参加者に奨学金を提供してきました。
+
+> 685
+
+<font color=green>685</font>
+
+685
+
+> diversity RECIPIENTS
+
+<font color=green>ダイバーシティ受信者</font>
+
+人が「Diersity」奨学金を受領
+
+> 807
+
+<font color=green>807</font>
+
+807
+
+> need-based RECIPIENTS
+
+<font color=green>ニーズベースの受信者</font>
+
+人が「Need-base」奨学金を受領
+
+> CloudNative.tv
+
+<font color=green>CloudNative.tv</font>
+
+CLOUDNATIVE.TV
+
+> CloudNative.tv launched as the beginning of CNCF’s live streaming efforts.
+
+<font color=green>CloudNative.tvは、CNCFのライブストリーミング活動の始まりとしてローンチされた。</font>
+
+CloudNative.tvは、CNCFのライブストリーミングの最初の活動としてローンチしました。
+
+> What originally began as a once weekly livestream, as a part of online programs for members, has now expanded to include community driven programming.
+
+<font color=green>当初は週1回のライブストリームとして始まったものが、メンバー向けのオンラインプログラムの一環として、今ではコミュニティ主導型のプログラミングにまで拡大されている。</font>
+
+当初は週1回のライブストリーム、メンバー向けのオンラインプログラムの一環として始まったものが、今ではコミュニティ主導の番組制作も含めた形へと広がってきました。
+
+> Each week on Cloud Native Live, Cloud Native Ambassadors stream with a member to talk about and demo the latest in cloud native. There are also a cast of shows run by the community for the community. They range from 101 project explainers, how to get started contributing, to a game show. The CNCF Twitch channel has grown to over 4,000 subscribers and we hope to continue expanding how we can teach and tell cloud native in the coming year.
+
+<font color=green>Cloud Native Liveでは毎週、Cloud Native Ambassadorsがメンバーと一緒にストリーミングし、最新のクラウドネイティブについて話したりデモしたりしている。コミュニティのためにコミュニティによって運営されている番組のキャストもあります。それらは101のプロジェクトの説明者から、どのようにしてコントリビューションを始めるか、ゲームショーまで多岐にわたります。CNCF Twitchチャンネルは4000人以上の加入者に成長しており、今後もクラウドネイティブを教えたり教えたりする方法を拡大していきたいと思っています。</font>
+
+Cloud Native Liveでは毎週、Cloud Native アンバサダーたちがメンバーたちと一緒に最新のクラウドネイティブ技術について話をしたりデモをしたりするのをストリーミングで配信します。コミュニティ向けにコミュニティ自身によって運営されているようなタイプの番組も―プロジェクトの初歩的な解説（いわゆる「101」）から、コントリビューションことはじめや、はたまたゲームショーのようなものまでいろいろ―あります。CNCF Twitchチャンネルは4,000以上のサブスクリプション数にまで成長しており、これからも引き続きクラウドネイティブを伝え、学べる手段を広げていきたいと考えています。
+
+> Community Awards
+
+<font color=green>コミュニティ賞</font>
+
+コミュニティアワード
+
+> Now in their fifth year, the CNCF Community Awards highlighted the most active ambassador and top contributor across all CNCF projects. The awards included:
+
+<font color=green>5年目を迎えたCNCFコミュニティ賞では、すべてのCNCFプロジェクトで最も活動的な大使と最高の貢献者が選出されました。賞には以下のものが含まれます。</font>
+
+5年目を迎えたCNCFコミュニティアワードでは、すべてのCNCFプロジェクトで最も活動的なアンバサダーとトップコントリビューターが選ばれました。以下を含めたアワードが授与されました。
+
+> “Chop Wood and Carry Water” 
+
+<font color=green>「木を刻んで水を運ぶ」</font>
+
+「木を切り、水を運ぶ」
+
+> To recognize contributors who spend countless hours completing often mundane tasks, CNCF created the “Chop Wood and Carry Water” awards. CNCF was proud to acknowledge the amazing efforts of five individuals for their outstanding contributions in 2021:
+
+<font color=green>CNCFは、日常的な仕事に数え切れないほどの時間を費やしている貢献者を表彰するために、「Chop Wood and Carry Water」賞を創設した。CNCFは、2021年に顕著な貢献をした5人の素晴らしい努力を誇りをもって認めた。</font>
+
+CNCFは、日常のありふれたタスクに数え切れないほどの時間をかけて貢献してくれているコントリビューターたちを称えるべく「木を切り、水を運ぶ（Chop Wood and Carry Water）」アワードを創設しました。CNCFは、2021年際立ったコントリビューションを行った5人の、その素晴らしい取り組みに対し感謝の意を伝えました。</font>
+
+> Emily Fox, Aeva Black,
+
+<font color=green>エミリー・フォックスアエヴァ・ブラック</font>
+
+Emily Fox、Aeva Black、
+
+> Tasha Drew, Carlos Panato, Carolyn Van Slyck
+
+<font color=green>ターシャ・ドリュー、カルロス・Panato、キャロリン・ヴァン・Slyck</font>
+
+Tasha Drew、Carlos Panato、Carolyn Van Slyck
+
+> Top Cloud Native Committer
+
+<font color=green>トップクラウドネイティブコミッター</font>
+
+トップ Cloud Native コミッター
+
+> An individual with incredible technical skills and notable technical achievements in one or multiple CNCF projects. The 2021 recipient was Nikhita Raghunath.
+
+<font color=green>1つ以上のCNCFプロジェクトにおいて、信じられない技術的スキルと顕著な技術的成果を上げた個人。2021年の受益者はNikhita・ラグフナスであった。</font>
+
+一つもしくはそれ以上のCNCFプロジェクトにおいて、驚くべき技術スキルと著しい技術的成果を上げた個人に対して授与されます。2021年は Nikhita Raghunath が選ばれました。
+
+> Top Cloud Native Ambassador
+
+<font color=green>トップクラウドネイティブアンバサダー</font>
+
+トップ Cloud Native アンバサダー
+
+> An individual with impressive community-oriented skills, focused on spreading the word and sharing knowledge with the entire cloud native community or within a specific project. The 2021 recipient was Anaïs Urlichs.
+
+<font color=green>クラウドネイティブコミュニティ全体または特定のプロジェクト内で、言葉を広め、知識を共有することに焦点を当てた、コミュニティ指向の優れたスキルを持つ個人。2021年の受賞者はアナイス・アーリクスだった。</font>
+
+クラウドネイティブコミュニティ全体、特定プロジェクトで、言葉を広げ知識を共有することに注力した、卓越したコミュニティスキルのある個人。2021年は Anaïs Urlichs に贈られました。
+
+> Top Documentarian (new in 2021)
+
+<font color=green>Top Documentarian(2021年新登場)</font>
+
+トップ　ドキュメンタリアン（2021年新設）
+
+> This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution. The 2021 recipient was Tim Bannister.
+
+<font color=green>この賞は、CNCFとそのプロジェクトに対する優れた文書化貢献を表彰するものであり、優れた技術文書技術文書は、プロジェクトが貢献の障壁を低くする最善の方法の1つである。2021年の受賞者はティム・バニスターであった。</font>
+
+この賞は、CNCFやそのプロジェクトに対する卓越した文書化への貢献を称するものです。優れた技術文書を整備することは、プロジェクトにおけるコントリビューションの障壁を低くする最良の方法の1つとなります。2021年は Tim Bannister に贈られました。
+
+> Top End User Award
+
+<font color=green>Top End User Award</font>
+
+トップ エンドユーザ　アワード
+
+> We also celebrate the contributions that end users make to our ecosystem, including providing upstream contributions to projects, creating and maintaining open source projects to expand the ecosystem, and providing significant insights into successes and failures.
+
+<font color=green>また、プロジェクトへの上流からの貢献、エコシステムを拡張するためのオープンソースプロジェクトの作成と維持、成功と失敗に関する重要な洞察の提供など、エンドユーザーが私たちのエコシステムに貢献していることを称賛します。</font>
+
+私たちはエンドユーザーによるエコシステムへの貢献 ― プロジェクト アップストリームへのコントリビューション、エコシステムを広げるためのオープンソース プロジェクトの創出や維持、試行錯誤における顕著な洞察の提供など ― を称え、これを祝います。
+
+> We were thrilled to grant our Top End User Award to Spotify this year, in recognition of its notable contributions to the cloud native ecosystem. See page 8
+
+<font color=green>今年はSpotifyがクラウドネイティブエコシステムに大きく貢献したことを評価して、Top End User Awardを授与することができて感激しました。8ページ参照</font>
+
+2021年はSpotify社がクラウドネイティブ エコシステムに多大なる貢献をしたことを評し、「トップ エンドユーザー　アワード」としてこれを授与できたことを大変うれしく思います（8ページを参照）。
+
+> CNCF Meetups become Community Groups
+
+<font color=green>CNCF Meetupがコミュニティグループになる</font>
+
+CNCF Meetupは「COMMUNITY GROUPS」に移行します。
+
+> 2021 saw the cloud native community switch from the Meetup platform to Cloud Native Community Groups and the new platform has taken off.
+
+<font color=green>2021年にはクラウドネイティブコミュニティがMeetupプラットフォームからCloud Native Community Groupsに移行し、新しいプラットフォームが離陸した。</font>
+
+2021年、クラウドネイティブコミュニティは Meetup のプラットフォームから「Cloud Native Community Groups」に移行し、新たなプラットフォームとして離陸しました。
+
+> It has become the singular place where meetups, online programs, project office hours, and community events are run. The platform now hosts over 29,000 members and we are excited to see this platform continue to grow
+
+<font color=green>ミートアップ、オンラインプログラム、プロジェクトのオフィス時間、コミュニティイベントなどが行われる場所としては、他に類を見ないものとなっている。このプラットフォームには現在29000人以上のメンバーがいて、このプラットフォームが今後も成長し続けることを期待しています。</font>
+
+新たなプラットフォームは、Meetup、オンラインプログラム、プロジェクトによる「Office hours」、コミュニティ イベントなどが行われる唯一の場となっています。私たちは、現在29,000人以上のメンバーがいるこのプラットフォームの、今後の継続的成長に熱視線を送っています。
+
+> Community Groups 2021
+
+<font color=green>コミュニティグループ2021</font>
+
+2021年の「COMMUNITY GROUPS」
+
+> 27,000+
+
+<font color=green>27000以上</font>
+
+27,000人以上
+
+> ATTENDEES
+
+<font color=green>出席者</font>
+
+の参加者
+
+> 922
+
+<font color=green>922</font>
+
+922
+
+> EVENTS
+
+<font color=green>イベント</font>
+
+のイベント
+
+> 356
+
+<font color=green>356</font>
+
+356
+
+> CHAPTERs
+
+<font color=green>章</font>
+
+のチャプター（支部）
+
+> CNCF MEETUP MEMBERS
+
+<font color=green>CNCF MEETUPメンバー</font>
+
+CNCF MEETUP メンバー数
+
+> CNCF Ambassador Program
+
+<font color=green>CNCFアンバサダー・プログラム</font>
+
+CNCF アンバサダー プログラム
+
+> Inclusive Naming Initiative
+
+<font color=green>包括的なネーミング・イニシアティブ</font>
+
+インクルーシブなネーミング イニシアティブ
+
+> Cloud Native Ambassadors (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise and willingness to help others learn about the framework and community. These individuals are bloggers, influencers, and evangelists. CNCF has 134 CNCF Ambassadors around the globe, educating the world on cloud native technologies and best practices.
+
+<font color=green>Cloud Native Ambassadors(CNA)は、Cloud Native Computing Foundationの技術とプロジェクトに情熱を持ち、その専門知識とフレームワークとコミュニティについて他者が学べるようにする意欲が認められた個人です。これらの個人はブロガー、インフルエンサー、エバンジェリストです。CNCFには世界中に134人のCNCF大使がいて、クラウドネイティブの技術とベストプラクティスについて世界を教育しています。</font>
+
+Cloud Native Ambassadors（CNA）は、Cloud Native Computing Foundationの技術やプロジェクトに情熱を持ち、その-人々にフレームワークやコミュニティについて学ぶことを支援する―専門的知識や意欲が評価された個人に対し与えられます。彼らはブロガーでありインフルエンサーであり、エバンジェリストです。世界で134人のCNCFのアンバサダーがいて、クラウドネイティブ技術やベストプラクティスを学ぶ機会を提供しています。
+
+> We accepted 19 new CNCF ambassadors and provided financial support for ambassador-run meetups in 2021. We are excited to have this worldwide group of people with diverse interests, experiences, and technical backgrounds help drive local and global cloud native communities.
+
+<font color=green>私たちは、2021年に新たに19人のCNCF大使を受け入れ、大使が運営するミートアップに資金援助を行いました。私たちは、この多様な関心、経験、技術的背景を持つ世界中の人々のグループが、地域およびグローバルなクラウドネイティブコミュニティの推進に役立つことを嬉しく思います。</font>
+
+私たちは、2021年に新たに19人のCNCFアンバサダーを迎え入れ、彼らが運営するMeetupに資金援助を提供しています。私たちは、興味、経験、技術的バックグラウンドにおいて多様性がある世界中にいるグループの人たちが、ローカル、グローバルなクラウドネイティブのコミュニティを牽引するサポートができることに、私たちは興奮を覚えています。
+
+> CNCF staff and leadership donated considerable time throughout 2021 to advancing the Inclusive Naming Initiative — a community aiming to remove harmful language from code and software documentation.
+
+<font color=green>CNCFのスタッフとリーダーシップは、コードやソフトウェアのドキュメントから有害な言語を排除することを目的としたコミュニティであるインクルーシブ・ネーミング・イニシアティブを推進するために、2021年を通じてかなりの時間を寄付しました。</font>
+
+CNCFのスタッフとリーダーシップは、「インクルーシブ ネーミング イニシアティブ」―コードやソフトウェアのドキュメントから有害な用語や言葉づかいを排除することを目的としたコミュニティ― を推進することに、2021年を通じて多くの時間を捧げました。
+
+
+
+
+> Mentoring & Ecosystem Resources
+
+<font color=green>指導とエコシステムのリソース</font>
+
+メンタリングとエコシステムのリソース
+
+> CNCF worked closely in partnership with individual contributors and community groups throughout 2021, developing tools to navigate and manage the fast-growing ecosystem – rising to meet the growing global demand for cloud native technologies.
+
+<font color=green>CNCFは2021年を通じて、個々の貢献者やコミュニティグループと緊密に協力しながら、急速に成長するエコシステムをナビゲートし管理するためのツールを開発しました。これは、クラウドネイティブテクノロジーに対する世界的な需要の増大に対応するために増加しています。</font>
+
+CNCFは2021年を通じ、急速に成長するエコシステム―クラウドネイティブ テクノロジーに対する世界的需要の増大に対応するために大きくなってきている―をナビゲートし運営するためのツールを開発をしながら、個人のコントリビューターやコミュニティグループとの連携を密にしました。
+
+> As part of our ongoing evolution, this year our community significantly advanced the wider understanding of cloud native projects through our mentoring program, the launch of the Cloud Native Glossary and Landscape Guide, driven by the Business Value Subcommittee, and the Cloud Native Maturity Model, spearheaded by the Cartografos Working Group. 
+
+<font color=green>私たちの継続的な進化の一環として、今年、私たちのコミュニティは、私たちのメンタリングプログラム、ビジネスバリュー小委員会が主導するクラウドネイティブ用語集とランドスケープガイドの立ち上げ、Cartografosワーキンググループが主導するクラウドネイティブ成熟度モデルを通じて、クラウドネイティブプロジェクトのより広い理解を大きく前進させました。</font>
+
+いまも起きているの進化の一つですが、2021年私たちのコミュニティはメンタリングプログラムを通じてクラウドネイティブプロジェクトに対する理解の幅を大きく広げています。「Cloud Native Glossary（用語集）」および「Landscape Guide」がビジネスバリュー サブコミッティによって、「クラウドネイティブ成熟モデル」がCartografosワーキンググループによって立ち上げられました。
+
+> Community Mentoring
+
+<font color=green>コミュニティの指導</font>
+
+コミュニティ メンタリング
+
+> CNCF proudly supported more than 100 individuals through various mentoring and internship opportunities in 2021.
+
+<font color=green>CNCFは、2021年に様々な指導やインターンシップの機会を通じて100人以上の個人を誇りをもって支援しました。</font>
+
+CNCFは、さまざまなメンタリング、インターンシップの機会を通じた支援をしています。手前味噌ではありますが、2021年には100人以上の個人に支援を提供することができました。
+
+> including the LFX mentorship platform (previously known as Community Bridge), Google Summer of Code (GSoC), Google Summer of Docs (GSoD) program, and Outreachy. These programs are important catalysts for internships to have an impact on future technologies that we all depend on.<font color=red>この前の文章が消えてるっぽい「メンタリングプログラムには様々なものがあります」的な</font>
+
+<font color=green>これには、LFXメンターシッププラットフォーム(以前はCommunity Bridgeとして知られていた)、Google Summer of Code(GSoC)、Google Summer of Docs(GSoD)プログラム、Outreachなどがあります。これらのプログラムは、インターンシップが私たち全員が依存する将来の技術に影響を与えるための重要な触媒となります。</font>
+
+メンタリングプログラムにはいくつかあり、「LFX Mentorship」プラットフォーム（旧称「コミュニティブリッジ」）、「Google Summer of Code（GSoC）」、「Google Summer of Docs（GSoD）プログラム」、「Outreachy」などがそれにあたります。これらのプログラムは、私たちが依存するであろう将来のテクノロジーに対しインターンシップに影響力を与える、重要な触媒なのです。　
+
+> We sponsored 104 students
+
+<font color=green>私たちは104人の学生に</font>
+
+104人の学生のスポンサーになりました。
+
+> 86
+
+<font color=green>八六</font>
+
+86
+
+> LFX Mentorship
+
+<font color=green>LFXメンターシップ</font>
+
+人がLFX　Mentorshipで
+
+> 16
+
+<font color=green>16個</font>
+
+16
+
+> GSoC
+
+<font color=green>GSoC</font>
+
+人がGSoCで
+
+> 1
+
+<font color=green>1個</font>
+
+1
+
+> GSoD
+
+<font color=green>GSoD</font>
+
+人がGSoDで
+
+> 1
+
+<font color=green>1個</font>
+
+1
+
+> Outreachy
+
+<font color=green>信頼できる</font>
+
+人がOutreachyで
+
+> I don’t have words to describe how amazing this program was for me. From getting an opportunity to be a Keynote guest speaker in KubeCon Europe with Priyanka Sharma (GM, CNCF) to getting involved with more cloud-native projects like Buildpacks and in fact, getting an internship as a Software Engineer at HackerRank – LFX Mentorship Program was like a watershed moment in my life!
+
+<font color=green>このプログラムが私にとってどれほど素晴らしいものだったかを説明する言葉はありません。Priyanka Sharma(GM、CNCF)と共にKubeCon Europeの基調講演者になる機会を得たことから、Buildpacksのようなよりクラウドネイティブなプロジェクトに参加したこと、そして実際、HackerRank-LFXメンターシッププログラムのソフトウェアエンジニアとしてのインターンシップを得たことは、私の人生における重要な瞬間のようなものでした!</font>
+
+このプログラムがどれだけ素晴らしいものだったかなんて、言葉にできないよ。 KubeCon Europe で Priyanka Sharma（GM、CNCF）と共にキーノートでゲストスピーカーになったことに始まり、「Buildpacks」のようなよりクラウドネイティブなプロジェクトに関わったことや実際に HackerRank でソフトウェアエンジニアとしてのインターンシップになったことに至るまで、LFX Mentorship プログラムは人生で「分水嶺」が変わるような時間だったよ!
+
+> Mentee Mritunjay SharmaMentor Jim Bugwadia
+
+<font color=green>メンティーMritunjay SharmaMentorジムBugwadia</font>
+
+メンティー Mritunjay Sharma　メンター Jim Bugwadia
+
+> The key focus was always on the learning rather than getting the work done. It was undoubtedly one of the most fruitful and learning experiences I have had and I wish to continue the contribution to community and project
+
+<font color=green>主な焦点は、作業を完了させることではなく、常に学習することでした。それは間違いなく、私がこれまでに経験した中で最も実りの多い学習経験の一つであり、コミュニティとプロジェクトへの貢献を継続したいと思います。</font>
+
+大事なのは、作業を終わらせるということではなく、学ぶということに意識を置くことね。間違いなくこれまでの学びの体験として最も実りのあったことの一つだし、コミュニティとプロジェクトへの貢献を続けていきたいわ。
+
+> Mentee Nupur AgrawalMentor Matthias Wahl, Anup Dhamala and Heinz Gies
+
+<font color=green>メンティー・Nupur・AgrawalMentor・マティアス・ワール、アナップ・Dhamala、ハインツ・ジーズ</font>
+
+メンティー Nupur Agrawal Mentor Matthias Wahl、Anup Dhamalaおよび、Heinz Gies
+
+> CNCF Landscape
+
+<font color=green>CNCFランドスケープ</font>
+
+CNCF　ランドスケープ
+
+> With more than 4.2M pageviews in 2021, the CNCF Cloud Native Landscape is the place where those looking to adopt cloud native technology begin their journey.
+
+<font color=green>2021年には4.2M以上のページビューがあり、CNCF Cloud Native Landscapeはクラウドネイティブ技術を採用しようとする人々が旅を始める場所である。</font>
+
+2021年には4.2M以上のページビューを誇るCNCFの「Cloud Native Landscape」は、クラウドネイティブの技術を採用しようとする人たちにとって、旅の出発点になっています。
+
+> Key stats
+
+<font color=green>キーの状態</font>
+
+主な統計データ
+> Many start with the landscape to get a picture of all of the cloud native options available in the ecosystem. The landscape started in November 2016 as a static image of fewer than 100 projects and products. In 2021, it has grown through the power of collaborative editing, to track more than 1,828 projects, products, and companies and includes a serverless landscape and the CNCF member landscape. The project has nearly 8,000 stars on GitHub.
+
+<font color=green>多くは、エコシステムで利用可能なクラウドネイティブオプションの全体像を把握するために、ランドスケープから始めます。ランドスケープは、2016年11月に100未満のプロジェクトと製品の静的イメージとして開始されました。2021年には、共同編集の力を通じて成長し、1828を超えるプロジェクト、製品および企業を追跡し、サーバーレス・ランドスケープとCNCFメンバー・ランドスケープが含まれています。このプロジェクトはGitHubに8000近いスターがいます。</font>
+
+エコシステムで利用できるクラウドネイティブ技術の選択肢の全体像をつかむために、多くの人たちはこのランドスケープから始めます。ランドスケープは、2016年11月、100も満たない数のプロジェクトやプロジェクトの静的な画像ファイルを使ったものから始まりました。2021年には、コラボレーション編集をテコに成長し、1,828を超えるプロジェクト、プロダクト、企業をトラッキングしています。また、ランドスケープの中には「Serverless Landscape」と「CNCF Member Landscape」が含まれています。GitHubではこのプロジェクトに8,000近いスターがついています。
+
+
+> 1,828
+
+<font color=green>1828</font>
+
+1,828
+
+> projects
+
+<font color=green>プロジェクトぷろじぇ</font>
+
+のプロジェクト
+
+> 8,000 
+
+<font color=green>8000</font>
+
+8,000
+
+> github stars
+
+<font color=green>githubスター</font>
+
+のGITHUBでのスター数
+
+> Cartografos Working Group
+
+<font color=green>Cartografos作業部会</font>
+
+CARTOGRAFOS ワーキンググループ
+
+> The Cartografos working group aims to provide effective, practical tools to help adopters and end users to navigate the ever – evolving CNCF landscape and the wider cloud native ecosystem.
+
+<font color=green>Cartografosの作業部会は、採用者とエンドユーザーが、絶えず進化するCNCFの風景とより広範なクラウドネイティブエコシステムをナビゲートするのを支援する効果的で実用的なツールを提供することを目指している。</font>
+
+「Cartografos」ワーキンググループは、効果的で実践的なツール―プロジェクトの採用者やエンドユーザーたちが、絶えず進化しているCNCFランドスケープ、それよりも広いクラウドネイティブのエコシステムを渡り歩けるようサポートする―の提供を目指しています。
+
+> The Cloud Native Maturity Model
+
+<font color=green>クラウドネイティブ成熟度モデル</font>
+
+クラウドネイティブ 成熟モデル
+
+> In October, the Cartografos Group released its first project – the Cloud Native Maturity Model, bringing together a number of separate maturity models around the journey to cloud native, and Kubernetes, to create an encompassing model spanning the entire cloud native ecosystem.
+
+<font color=green>10月に、Cartografosグループは最初のプロジェクトであるCloud Native Maturity Modelを発表し、クラウドネイティブとKubernetesへの旅に関連する多数の個別の成熟度モデルを集めて、クラウドネイティブエコシステム全体にわたる包括的なモデルを作成した。</font>
+
+10月、Cartografos グループは最初のプロジェクト「クラウドネイティブ 成熟モデル（Cloud Native Maturity Model）」―クラウドネイティブやKubernetes活用の道のりに偏在する多くの成熟モデルを一つに集め、クラウドネイティブのエコシステム全体をカバーする―をリリースしました。
+
+> As the maturity model was created, it became apparent quickly that the journey is not limited to technology, with clear themes around people, process and policy. This was illustrated in Admiral Bash’s Island Adventure – a fun children’s book, presented at KubeCon + CloudNativeCon North America, following Admiral Bash on a cloud native quest.
+
+<font color=green>成熟度モデルが作成されるにつれて、人々、プロセス、ポリシーを中心とした明確なテーマを持った旅が技術に限定されていないことがすぐに明らかになった。これは、KubeCon+CloudNativeCon North AmericaでAdmiral Bashに続いて発表されたAdmiral Bash's Island Adventure-楽しい子供向けの本である。</font>
+
+成熟度モデルが作成されてくるとすぐに、この活用の「旅」が、テクノロジーに限定された話ではなく、人やプロセスやポリシーをとりまく、はっきりとしたテーマがあることがわかってきました。このことは、絵本「Admiral Bash's Island Adventure」―バッシュ提督（Admiral Bash）のクラウドネイティブの冒険旅を子供向けに楽しく描いた、KubeCon + CloudNativeCon North Americaで発表された絵本です―に描かれています。
+
+> Cloud Native Landscape Guide
+
+<font color=green>クラウドネイティブランドスケープガイド</font>
+
+クラウドネイティブ ランドスケープガイド
+
+> If you’ve researched cloud native applications and technologies, you’ve probably come across the CNCF cloud native landscape. Unsurprisingly, the sheer scale of it can be overwhelming, with so many categories and so many technologies. In 2021, to help make sense of this important tool, we launched the Cloud Native Landscape Guide. This breaks down our mammoth landscape and provides a high-level overview of its layers, columns, and categories.
+
+<font color=green>クラウドネイティブアプリケーションと技術を調査したことがあれば、おそらくCNCFクラウドネイティブランドスケープに出くわしたことがあるでしょう。当然のことながら、その規模は膨大であり、非常に多くのカテゴリーと多くの技術が存在します。この重要なツールを理解するために、私たちは2021年にCloud Native Landscape Guideを立ち上げました。これは私たちの巨大なランドスケープを分類し、そのレイヤー、列、およびカテゴリーの概要を提供します。</font>
+
+クラウドネイティブのアプリケーションや技術を調査した経験があるとしたら、CNCFのクラウドネイティブ ランドスケープ（Cloud Native Landscape）にたどり着いたことがきっとあるでしょう。たくさんのカテゴリやテクノロジがあり、そのスケールは圧倒的とも言えそうですが、もはや驚くことではないかもしれません。この重要なツールの理解を促進を図るべく、私たちは2021年に「クラウドネイティブ ランドスケープガイド（Cloud Native Landscape Guide）」を立ち上げました。ここでは広大なランドスケープをブレークダウンし、そのレイヤーやカラム、およびカテゴリーそれぞれについて概要レベルの情報を提供しています。
+
+> A huge thank you to those who made the guide possible! The cloud native landscape guide was initiated by the CNCF Business Value Subcommittee and Cartografos group. It was authored by Jason Morgan and Catherine Paganini, edited and reviewed by Simon Forster and Ihor Dvoretskyi, and built by Jordi Noguera, with UX consultation from Andrea Velázquez.
+
+<font color=green>ガイドを可能にしてくれた方々には本当に感謝しています!クラウドネイティブランドスケープガイドは、CNCFビジネスバリュー小委員会とCartografosグループによって始められたものであり、ジェーソン・モーガンとCatherine Paganiniによって作成され、Simon ForsterとIhor Dvoretskyiによって編集・レビューされ、ジョルディNogueraによって作成され、Andrea VelázquezからのUXコンサルテーションを受けています。</font>
+
+立ち上げに尽力してくれた方々へ、大きな感謝を！この「クラウドネイティブ ランドスケープガイド」は、CNCF ビジネスバリュー サブコミッティとCartografosグループによって始められました。Jason Morgan と Catherine Paganini によって執筆され、Simon Forsterと Ihor Dvoretskyiによる編集・レビューを経て、 Andrea Velázquezからの UXコンサルテーションのもとで Jordi Noguera の手でサイトとして構築されました。
+
+> Business Values Subcommittee
+
+<font color=green>ビジネスバリュー分科会</font>
+
+ビジネスバリュー　サブコミッティ（BVS）
+
+> The BVS aims to create open source artifacts that educate executives, business leaders, and non-technical audiences on cloud native technologies and their business value.
+
+<font color=green>BVSの目的は、オープンソースの成果物を作成し、クラウドネイティブ技術とそのビジネス価値について、エグゼクティブ、ビジネスリーダー、および非技術的なオーディエンスを教育することである。</font>
+
+BVSでは、クラウドネイティブ技術とそのビジネス価値について、エグゼクティブ、ビジネスリーダー、および技術的職種でない人たちの教育につながるリソースを作り、オープンソースとして共有して行くことを目指しています。
+
+> CNCF Glossary
+
+<font color=green>CNCF用語集</font>
+
+CNCF Glossary（用語集）
+
+> In May, we introduced the new CNCF Cloud Native Glossary to provide anyone getting started with cloud native an introduction that is largely free of jargon and assumptions of pre-existing familiarity.
+
+<font color=green>5月には新しいCNCF Cloud Native Glossaryを導入して,クラウドネイティブを始めた人に対して,専門用語や既存の知識の前提条件がほとんどない紹介を提供しました。</font>
+
+5月には新たに「CNCF Cloud Native Glossary」として、クラウドネイティブに取り組み始めた人たちがジャーゴン（専門用語）や知識・経験の前提にできるかぎり縛られないように、手引きとなる用語集を公開しました。
+
+> It launched with 25 terms and more will be added with time. The project is spearheaded by the Business Value Subcommittee (BVS), whose primary goal is to provide tools to educate executives, business leaders, and non-technical audiences on cloud native technologies and their business value.
+
+<font color=green>25語でローンチされ、時間と共に追加される予定である。このプロジェクトはBusiness Value Subcommittee(BVS)が主導しており、彼らの主な目標は、クラウドネイティブ技術とそのビジネス価値について、エグゼクティブ、ビジネスリーダー、および非技術的なオーディエンスを教育するためのツールを提供することである。</font>
+
+開始時点で25の用語が登録されていますが、今後追加されていく予定です。このプロジェクトはビジネスバリューサブコミッティ（BVS）が先導しており、その主なゴールは、クラウドネイティブ技術とそのビジネス価値について、エグゼクティブ、ビジネスリーダー、および技術的職種でない人たちの教育につながるツールを提供することあります。
+
+> As technologists we have a moral obligation to ensure that business stakeholders understand the transformative change that cloud native allows, and that cloud native isn’t seen only as a set of technologies. I’m excited that the Cloud Native Glossary is a first step towards assisting the organizational change that cloud native makes possible.
+
+<font color=green>技術者として、私たちは、ビジネスの利害関係者がクラウドネイティブが可能にする変革的な変化を理解し、クラウドネイティブが一連の技術としてだけ見られるのではないことを保証する道徳的な義務を負っています。私は、クラウドネイティブ用語集が、クラウドネイティブが可能にする組織の変化を支援するための第一歩であることに興奮しています。</font>
+
+技術に携わるものとしてモラルの点からみた義務があると思うんだ。それは、まずビジネスにおけるステークホルダーたちにクラウドネイティブが可能にしてくれる革新的な変化を理解してもらうこと、そしてクラウドネイティブを単なる技術のセットとして捉えられないようにすること、この両方を確実にする、という義務だね。この用語集が、クラウドネイティブで実現される組織の変化を後押しする、最初の一歩になるのならワクワクするよ。
+
+> Daniel JonesManaging Director of EngineerBetter
+
+<font color=green>ダニエル・JonesManaging EngineerBetter部長</font>
+
+Daniel Jones Managing Director、 EngineerBetter社
+
+> The Glossary is a community-driven effort and everyone is welcome to contribute new terms, update current ones, or help translate into different languages.
+
+<font color=green>用語集はコミュニティ主導の取り組みであり、新しい用語が新しい用語を投稿したり、最新の用語を更新したり、異なる言語への翻訳を支援したりすることができます。</font>
+
+この用語集はコミュニティ主導の取り組みですので、新しい用語や既存の用語の更新を提案してくれたり、他言語への翻訳を手伝ってくれたりする方はどなたでも歓迎します。
+
+> Contribute
+
+<font color=green>投稿</font>
+
+コントリビュートする
+
+> Business Value Track
+
+<font color=green>ビジネス・バリュー・トラック</font>
+
+ビジネスバリュー トラック
+
+> At KubeCon + CloudNativeCon North America, we broaden the horizon of contributions by introducing the Business Value Track – sessions that focus on how cloud native technologies and/or open source provides value to a business’s bottom line or department outside IT.
+
+<font color=green>KubeCon+CloudNativeCon North Americaでは、クラウドネイティブテクノロジおよび/またはオープンソースが企業の収益やIT以外の部門に価値を提供する方法に焦点を当てたビジネスバリュートラックセッションを導入することで、貢献の範囲を広げています。</font>
+
+KubeCon + CloudNativeCon North Americaでは、クラウドネイティブ テクノロジやオープンソースが企業の収益やITの外にいる部署や部門に対しどのように価値をもたらすのか、という点にフォーカスしたセッションである「ビジネスバリュー トラック セッション」を導入し、貢献の範囲を広げています。<font color=red>※要議論：このセッションはこれから設けるのか？</font> 
+
+> CNCF Job Board
+
+<font color=green>CNCFジョブ・ボード</font>
+
+CNCF ジョブボード
+
+> 12%
+
+<font color=green>12%</font>
+
+12%
+
+> Increase in Job Seekers
+
+<font color=green>求職者数の増加</font>
+
+の求人数増
+
+> We launched the CNCF Job Board in 2019.
+
+<font color=green>2019年にCNCFジョブボードを発足させました。</font>
+
+私たちは2019年に「CNCFジョブボード（求人掲示板）」をローンチしました。
+
+> Since then, the job board has listed over 2,400 jobs. More than 4,800 job seekers to-date have applied for a job via email or on the site.
+
+<font color=green>それ以来、求人掲示板には2400人以上の求人が掲載され、これまでに4800人以上の求職者がメールやサイトで応募している。</font>
+
+それ以来、この掲示板には2,400以上が掲載されるようになり、これまでに4,800人以上の求職者の方々がメールやサイト経由で応募してきました。
+
+> The job board is a free service for both posters and applicants, and CNCF member job openings receive a featured listing. We invite you to post your job, search for candidates, or find your next employment opportunity through the CNCF Job Board.
+
+<font color=green>求人掲示板はポスターと応募者の両方を対象とした無料のサービスであり、CNCFメンバーの求人には特集リストが掲載されます。CNCF求人掲示板を通じて、求人の掲載、候補者の検索、または次の就職機会の検索をお願いします。</font>
+
+また、この求人掲示板は投函者、応募者両方を対象とした無料のサービスで、CNCFメンバーによる求人掲載の場合には特集リストとして掲載されます。この「CNCFジョブボード」で、求人情報を投函したり、採用候補者を検索したり、次の雇用機会を見つけたりするのに活用してみてください。
+
+> Job Applicants
+
+<font color=green>求職者</font>
+
+求人応募数
+
+> 2,800+
+
+<font color=green>2800以上</font>
+
+2,800以上
+
+> 2021
+
+<font color=green>2021</font>
+
+2021
+
+> 2,500+
+
+<font color=green>2500以上</font>
+
+2,500以上
+
+> 2021
+
+<font color=green>2021</font>
+
+2021
+
+> DevStats
+
+<font color=green>開発統計</font>
+
+DEVSTATS 
+
+> In 2017, CNCF developed DevStats, a tool to visualize various developer and community metrics for Kubernetes and other CNCF-hosted projects, as well as non-CNCF open source projects hosted on a public GitHub repository. DevStats organizes and displays CNCF-hosted project data using Grafana dashboards.
+
+<font color=green>2017年、CNCFはDevStatsを開発しました。これは、Kubernetesやその他のCNCFがホストするプロジェクト、および公開されたGitHubリポジトリでホストされる非CNCFオープンソースプロジェクトのさまざまな開発者とコミュニティのメトリクスを視覚化するためのツールです。DevStatsは、CNCFがホストするプロジェクトデータをGrafanaダッシュボードを使用して整理および表示します。</font>
+
+2017年、CNCFは「DevStats」―Kubernetesやその他のCNCFがホストしているプロジェクト、そしてパブリックのGitHubリポジトリにあるCNCFではないオープンソースプロジェクトの開発者やコミュニティに関するさまざまなメトリックを視覚化するためのツール―を開発しました。DevStatsでは、Grafanaのダッシュボードを用いCNCFがホストしているプロジェクトのデータをわかりやすく可視化していきます。
+
+> In 2021, we migrated DevStats to Golang modules and switched to Kubernetes v1.20 on bare metal Equinix Metal servers. We also added additional DevStats reports, new dashboards, and panels for some projects.
+
+<font color=green>2021年には、DevStatsをGolangモジュールに移行し、ベアメタルエクイニクスMetalサーバ上のKubernetes v1.20に切り替えました。また、いくつかのプロジェクトのために、DevStatsレポート、新しいダッシュボード、パネルを追加しました。</font>
+
+2021年には、DevStatsをGo言語のモジュールへと移行し、さらにベアメタルの「Eqiunix Metal server」上でKubernetes v1.20 を用いた運用に切り替えました。いくつかのプロジェクトではDevStatsレポート、新たなダッシュボードやパネルの追加も行いました。
+
+> We generate a number of reports from DevStats databases, which are available to the community. CNCF developer Lukasz Gryglicki, the primary developer on DevStats, is responsive to suggestions and pull requests that provide additional insights into the development of CNCF’s hosted projects.
+
+<font color=green>私たちはDevStatsデータベースからいくつかのレポートを生成し、をコミュニティが利用できるようにしています。CNCF開発者のLukasz Gryglicki氏は、DevStatsの主要開発者であり、CNCFがホストするプロジェクトの開発に関する追加的な洞察を提供する提案やプルリクエストに応えています。</font>
+
+DevStatsデータベース―コミュニティで利用可能です―からは多数のレポートが生成されます。CNCF開発者でかつ、DevStatsの主開発者もあるLukasz Gryglickiが、CNCFのプロジェクトの開発に対しより一層の洞察や提案を与えてくれる提案やプルリクエストに対応しています。
+
+> Security in Cloud Native
+
+<font color=green>クラウドネイティブのセキュリティ</font>
+
+クラウドネイティブにおけるセキュリティ
+
+> 2021 will be remembered as the year security became top of mind in cloud native. As hacks increased around the world and adoption of projects really hit the mainstream, the ecosystem sharpened focus on making sure our projects provide a secure foundation to the industry.
+
+<font color=green>2021年は、クラウドネイティブでセキュリティが最重要課題となった年として記憶されるだろう。世界中でハッキングが増加し、プロジェクトの採用が本当に主流になるにつれて、エコシステムは、私たちのプロジェクトが業界に安全な基盤を提供することを確実にすることに焦点を絞った。</font>
+
+2021年は、クラウドネイティブにおいてセキュリティがトップレベルの懸念事項になった年として記憶されることになるでしょう。世界中でハッキングが増加し、CNCFプロジェクトの採用が実際にメインストリームとなっていくなかで、エコシステムとして産業界に向けセキュアな基盤を確実に提供していくことに強くフォーカスしました。
+
+> Six CNCF hosted projects received security audits in 2021. Contour, SPIRE/SPIFFE, and Flux received regular audits while Linkerd, Envoy, and Vitess all underwent fuzzing which was first piloted last year. The CNCF Bug Bounty program which rewards researchers who find security vulnerabilities in project codebase, as well as build and release processes also paid out over $10,000 for 19 bounties resolved.
+
+<font color=green>CNCFがホストする6つのプロジェクトが2021年にセキュリティ監査を受けた。Contour、SPIRE/SPIFFE、Fluxは定期的な監査を受け、Linkerd、Envoy、Vitessはいずれも昨年最初に試験的に実施されたfuzzingを受けた。CNCF Bug Bountyプログラムは、プロジェクトコードベースのセキュリティ脆弱性を発見した研究者に報いるとともに、ビルドおよびリリースプロセスに対しても、解決された19の報奨金に対して10,000ドル以上を支払った。</font>
+
+CNCFの6プロジェクトが2021年にセキュリティ監査を受けました。Contour、SPIRE/SPIFFE およびFluxは定期的監査を、Linkerd、Envoy、Vitess についてはいずれも2020年に初めて導入された fuzzing テストを受けました。CNCF Bug Bountyプログラムは、プロジェクトのコードベース、ビルド、リリースプロセスにおけるセキュリティ脆弱性を発見した人たちへ報酬を与えるもので、解決された19件に対し10,000ドル以上の報奨金が支払われました。
+
+> In response to the executive order on software supply chain security, The CNCF Security Technical Advisory Group published Software Supply Chain Security Best Practices, to provide a holistic approach to supply chain security. They also hosted Cloud Native Security Day at KubeCon + CloudNativeCon NA and EU and a SupplyChainSecurityCon at KubeCon + CloudNativeCon NA.
+
+<font color=green>ソフトウェアサプライチェーンセキュリティに関する行政命令に応えて、CNCFセキュリティ技術諮問グループは、サプライチェーンセキュリティへの総合的なアプローチを提供するために、ソフトウェアサプライチェーンセキュリティベストプラクティスを発行しました。彼らはまた、KubeCon+CloudNativeCon NAとEUでクラウドネイティブセキュリティデーを主催し、KubeCon+CloudNativeCon NAでSupplyChainSecurityConを主催しました。</font>
+
+ソフトウェアサプライチェーンのセキュリティに関する行政命令に応え、CNCFセキュリティ テクニカルアドバイザリ グループ（CNCF Security Technical Advisory Group）は、サプライチェーンセキュリティへの全面的アプローチを提供するために、「ソフトウェア サプライチェーンセキュリティ ベストプラクティス(英語)」を発行しました。KubeCon + CloudNativeCon NA、EUではCloud Native Security Dayが、KubeCon + CloudNativeCon NAではSupplyChainSecurityConが彼らの主導で開催されました。
+
+> It’s exciting to see CNCF projects, like in-toto providing a key part of supply chain security.
+
+<font color=green>サプライチェーンセキュリティの重要な部分を提供するin-totoのようなCNCFプロジェクトを見るのは楽しみです。</font>
+
+「in-toto」みたいに、CNCFのプロジェクトがサプライチェーンのセキュリティで大事なところを提供してくれてるっていうのはすごいこと。
+
+> Sarah Allenco-chair of the CNCF Security TAG
+
+<font color=green>CNCF Security TAGの議長であるSarah Allenco氏</font>
+
+Sarah Allenco、CNCF Security TAG　チェア
+
+> CNCF is committed to continually improve the security of the cloud native ecosystem for adopters everywhere.
+
+<font color=green>CNCFは,クラウドネイティブエコシステムのセキュリティを継続的に改善することにコミットしている。</font>
+
+あらゆるところでクラウドネイティブ技術を採用する人たちに向けて、CNCFはエコシステムにおけるセキュリティの持続的改善をコミットしています。
+
+> Community-driven Initiatives
+
+<font color=green>コミュニティ主導のイニシアティブ</font>
+
+コミュニティ主導のイニシアティブ
+
+> Kubernetes API Endpoint Testing
+
+<font color=green>Kubernetes APIエンドポイントテスト</font>
+
+Kubernetes API エンドポイント
+
+> 2021 saw the update of APISnoop, a visual insight into Kubernetes test coverage, to run e2e tests on Kubernetes 1.23.0. APISnoop is a community-driven project spearheaded by long–time CNCF contributor and community leader Hippie Hacker, which tracks the testing and conformance coverage of Kubernetes by analyzing the audit logs created by e2e test runs.
+
+<font color=green>2021は、Kubernetesテストカバレッジの視覚的な洞察であるAPISnoopのアップデートを見て、Kubernetes 1.23.0でe2eテストを実行しました。APISnoopは、長期間のCNCFコントリビューターでありコミュニティリーダーであるHippie Hackerが主導するコミュニティ主導のプロジェクトであり、e2eテストの実行によって作成された監査ログを分析することによってKubernetesのテストと適合範囲を追跡します。</font>
+
+2021年は、Kubernetes 1.23.0リリースにおけるe2eテスト（End-to-Endテスト）を実行するために「APISnoop」―Kubernetesテストのカバレージをビジュアライズする―のアップデートがありました。APISnoopは、長年のCNCFコントリビューターでコミュニティリーダーでもある Hippie Hacker がリードするコミュニティ主導のプロジェクトで、e2eテストの実行で生成される監査ログを分析することで Kubernetes のテスト実行結果とAPI仕様との適合状況を追跡することができます。 
+
+> Telecom Advances
+
+<font color=green>テレコム・アドバンス</font>
+
+テレコムの進展
+
+> Cloud Credits
+
+<font color=green>クラウド クレジット（CLOUD CREDITS）</font>
+
+クラウド クレジット
+
+> This year, the Cloud Native Network Function (CNF) Working Group launched as the newest CNCF Telecom Initiative, with representatives from Telecom and cloud native communities. By the end 2021, the CNF Test Suite, maintained by CNCF’s strategic partner vulk.coop with contributions from 16 organizations, had more than 60 tests across many important categories.
+
+<font color=green>今年、Cloud Native Network Function(CNF)Working Groupが、最新のCNCF Telecom Initiativeとして、Telecomとクラウドネイティブコミュニティの代表者とともに発足しました。2021年末までに、CNF Test Suiteは、CNCFの戦略的パートナーであるvulk.coopが16の組織からの貢献を得て管理し、多くの重要なカテゴリーにわたって60以上のテストを行いました。</font>
+
+今年、CNCFの一番新しいテレコムイニシアティブとして テレコムおよびクラウドネイティブのコミュニティメンバーによる「Cloud Native Network Function（CNF）Working Group」が立ち上がりました。2021年末には、「CNF Test Suite」―16の組織からコントリビューションがあり、メンテナンスはCNCFの戦略パートナーである vulk.coop が実施―では多くの重要となるカテゴリに渡り、60以上のテストが揃っています。 
+
+> Many organizations sponsor CNCF projects for their business to succeed. In October, CNCF launched the Cloud Credits program to provide public, self-service, and automated access to Cloud Infrastructure for hosted projects.
+
+<font color=green>多くの組織が事業を成功させるためにCNCFプロジェクトを支援しています。10月、CNCFは、ホストされたプロジェクトに対してクラウドインフラストラクチャへのパブリックアクセス、セルフサービスアクセス、および自動アクセスを提供するクラウドクレジットプログラムを開始しました。</font>
+
+CNCFのプロジェクトには自社ビジネスを成功させるべく、多くの組織がスポンサリングしています。10月、CNCFでは、ホストするプロジェクトに対しパブリック、セルフサービス、およびオートメーテッドといった形態でクラウドインフラへのアクセスを提供する「Cloud Creditsプログラム」を開始しました。
+
+> Who We Are
+
+<font color=green>フー・ウィ・アー</font>
+
+WHO WE ARE（私たちについて）
+
+> The Cloud Native Computing Foundation (CNCF) is an open source software foundation dedicated to making cloud native computing universal and sustainable.
+
+<font color=green>Cloud Native Computing Foundation(CNCF)は、クラウドネイティブコンピューティングを普遍的かつ持続可能なものにすることを目的としたオープンソースソフトウェア財団です。</font>
+
+Cloud Native Computing Foundation（CNCF）は、クラウドネイティブ コンピューティングをユニバーサルかつ持続可能にすることを目的とした、オープンソースソフトウェアのファンデーションです。
+
+> Internally, we employ 38 people from various backgrounds and locations; 68% women, 32% men. CNCF’s Governance Leadership, comprising the Governing Board and Technical Oversight Committee, is 14% women and 86% men.
+
+<font color=green>社内では、さまざまな背景や場所から38人を雇用しています。68%が女性、32%が男性です。CNCFのガバナンス・リーダーシップは、理事会と技術監視委員会で構成され、女性が14%、男性が86%です。</font>
+
+内部では、さまざまなバックグラウンド、ロケーションから38人を雇用しています。68%が女性で32%が男性です。Governing Board と Technical Oversight Committee で構成されるCNCFのガバナンス リーダーシップについては女性14%、男性86%となっています。
+
+> Presently folx on our staff and governing board self-identify as she/her or he/him. We welcome all individuals and encourage applications for future opportunities on the CNCF Job board.
+
+<font color=green>現在、我々の職員及び理事会のfolxは、自らを自認している。我々は、全ての個人を歓迎し、CNCFジョブ・ボード上の将来の機会のための申請を奨励する。</font>
+
+現時点ではスタッフ、Governing Boardのメンバたちは、代名詞として「女性（she/her）」、「男性（he/him）」を用いた性自認をしています。CNCの求人掲示板上で、私たちは全ての個人を歓迎し、将来の機会を求める応募を奨励していきます。<font color=red>★ここ要注意★</font> 
+
+> STAFF
+
+<font color=green>スタッフ</font>
+
+スタッフ
+
+> EXECUTIVE LEADERSHIP
+
+<font color=green>経営陣のリーダーシップ</font>
+
+エグゼクティブのリーダーシップ
+
+> GOVERNANCE LEADERSHIP
+
+<font color=green>ガバナンスのリーダーシップ</font>
+
+ガバナンスのリーダーシップ
+
+> FUNDING
+
+<font color=green>資金調達</font>
+
+ファンディング
+
+> CNCF’s revenue is derived from four primary fundraising sources, including membership, event sponsorship, event registration, and training.
+
+<font color=green>CNCFの収益は、メンバーシップ、イベント・スポンサーシップ、イベント登録、トレーニングを含む4つの主要な資金調達源から得られます。</font>
+
+CNCFの収益は、メンバーシップ、イベントおよびスポンサーシップ、イベント登録、トレーニングの4つを主として資金調達をしています。
+
+> four funding sources
+
+<font color=green>4つの資金源</font>
+
+4つの資金調達先
+
+> A basic premise behind CNCF, our conferences (including KubeCon + CloudNativeCon), and open source, in general, is that interactions are positive–sum. There is no fixed amount of investment, mindshare, or development contribution allocated to specific projects. Equally important, a neutral home for a project and community fosters this type of positive–sum thinking and drives the growth and diversity that we believe are core elements of a successful open source project.
+
+<font color=green>CNCF、私たちの会議(KubeCon+CloudNativeConを含む)、およびオープンソースの背後にある基本的な前提は、一般的に、相互作用は肯定的なものであるということです。特定のプロジェクトに割り当てられる投資、マインドシェア、開発への貢献の固定額はありません。同様に重要なのは、プロジェクトとコミュニティの中立なホームが、この種の肯定的な考え方を促進し、成功するオープンソースプロジェクトの中核要素であると私たちが信じる成長と多様性を推進するということです。</font>
+
+CNCF、主催するカンファレンス（KubeCon + CloudNativeConなどの）、そしてオープンソースの背後には基本的前提として、総じてインタラクションは（「ゼロサム」ではなく）「ポジティブサム」なもの、ということです。投資、マインドシェア、開発へのコントリビューションの数量について固定的に特定のプロジェクトへ割り当てるということはしません。そして同様に重要なことは、プロジェクトとコミュニティに対する「中立な家（Neutral home）」が、この種のポジティブサム思考を育て、オープンソースプロジェクトが成功するためのコアだと私たちがと信じる成長と多様性を牽引していく、ということです。
+
+> Expenditures
+
+<font color=green>支出</font>
+
+支出
+
+> 50.5%
+
+<font color=green>50.5%</font>
+
+50.5%
+
+> Events
+
+<font color=green>イベント</font>
+
+イベント
+
+> 17.4%
+
+<font color=green>17.4%</font>
+
+17.4%
+
+> Developer Collaboration and IT
+
+<font color=green>開発者のコラボレーションとIT</font>
+
+開発者コラボレーションおよびIT
+
+> 1.2%
+
+<font color=green>1.2%</font>
+
+1.2%
+
+> Legal
+
+<font color=green>リーガル</font>
+
+リーガル
+
+> 1.0%
+
+<font color=green>1.0%</font>
+
+1.0%
+
+> Operations
+
+<font color=green>オペレーション</font>
+
+オペレーション
+
+> 4.8%
+
+<font color=green>4.8%</font>
+
+4.8%
+
+> Reserve
+
+<font color=green>予約</font>
+
+引当金
+
+> 6.6%
+
+<font color=green>6.6%</font>
+
+6.6%
+
+> Marketing, Communications & Bus Dev
+
+<font color=green>マーケティング、コミュニケーション、バス開発</font>
+
+マーケティング、コミュニケーション、Biz開発
+
+> 1.9%
+
+<font color=green>1.9%</font>
+
+1.9%
+
+> Training & Certification
+
+<font color=green>トレーニングと認定</font>
+
+トレーニングと認定
+
+> 10.8%
+
+<font color=green>10.8%</font>
+
+10.8%
+
+> Leadership & Coordination
+
+<font color=green>リーダーシップと調整</font>
+
+リーダーシップとコーディネート
+
+> 5.8%
+
+<font color=green>5.8%</font>
+
+5.8%
+
+> LF General and Administrative
+
+<font color=green>LF一般および管理</font>
+
+LFの一般管理費
+
+> THANK YOU
+
+<font color=green>ありがとう</font>
+
+ありがとう
+
+> We hope you enjoyed reflecting on all the great things we accomplished together in 2021.
+
+<font color=green>私たちが2021年に共に成し遂げたすべての偉大なことを思い起こしていただけたことを願っています。</font>
+
+2021年、みなさんとともに達成したすばらしい成果すべてが、皆さんの脳裏によみがえっていたとしたらうれしくおもいます。
+
+> Your comments and feedback are welcome at info@cncf.io
+
+<font color=green>ご意見・ご感想はinfo@cncf.ioまでお寄せください。</font>
+
+ご意見・ご感想は info@cncf.io までお寄せください（英語となります）。
+
+> We’re looking forward to seeing you in 2022!
+
+<font color=green>2022年にお会いできることを楽しみにしています!</font>
+
+2022年もお会いしましょう!
+
+> Check out our calendar for community events near you and don’t forget to register for KubeCon+CloudNativeCon Europe in Valencia, May 2022.
+
+<font color=green>2022年5月にバレンシアで開催されるKubeCon+CloudNativeCon Europeへの登録を忘れずにお願いします。</font>
+
+コミュニティのイベントカレンダーをチェックください。2022年5月、バレンシアで開催されるKubeCon + CloudNativeCon Europeへの登録もお忘れなく。
+
+
+
+

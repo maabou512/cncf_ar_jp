@@ -1,0 +1,551 @@
+Cloud Native Computing Foundation Annual Report 2021
+/39
+CNCF 2021
+ANNUAL
+REPORT
+THE
+EVOLUTION
+OF US
+Comments and feedback are welcome at info@cncf.io
+Click the buttons to jump to the section
+WELCOME
+IT’S BEEN A YEAR
+TO REMEMBER
+When I look back at 2021, I’m amazed by what we have achieved together on our journey towards making cloud native ubiquitous.
+I want to thank you, #TeamCloudNative, for your passion and commitment to this community. Despite all the challenges of the past 12 months, you’ve made 2021 a year to remember.
+We’ve seen record growth across all areas; from projects, events and the cloud native ecosystem, to membership and community. Most importantly, this year the definition of “us” has evolved to encompass a truly global, welcoming community of doers, working collaboratively to fundamentally change how technology is built and delivered.
+I hope you enjoy reading our Annual Report and reflecting back on the incredible progress we’ve achieved together.
+The power of us is the power of our culture
+Priyanka Sharma
+General Manager, CNCF
+740+ Members
+Across 6 continents
+120+ Projects
+Driving worldwide transformation
+142,000+ Contributors
+Fundamentally changing computing
+2021
+MOMENTUM
+CNCF is an open source software foundation dedicated to making cloud native computing ubiquitous
+Since we were founded in 2015, we’ve pioneered cloud native technologies — hosting and growing some of the world’s most successful open source projects including Kubernetes, Prometheus, Envoy, ContainerD, and over 100 others.
+Today we are a powerhouse for visionary projects and people. If cloud native was fast becoming mainstream before 2020, then the global pandemic pushed adoption into the stratosphere. Now, CNCF hosts 120+ projects with over 142,000 contributors representing 189 countries, and there are no signs of slowing down. In fact, IDC analyst Dave McCarthy states: “We have seen a significant rise in the adoption of cloud native technologies between 2020 and 2021. I predict that cloud native adoption will continue to grow in 2022 and become a foundational element in CIO’s cloud native strategies as they plan for the digital-first future.”
+Relentless Momentum
+Projects 	 End Users
+200
+150
+100
+50
+2016 2017 2018 2019 2020 2021
+Relentless Momentum
+Contributors
+150,000
+100,000
+90,000
+60,000
+30,000
+2016 2017 2018 2019 2020 2021
+Members
+800
+600
+Remember when digital transformation used to be a buzzword? That time has gone
+Priyanka Sharma
+General Manager, CNCF
+400
+200
+2016 2017 2018 2019 2020 2021
+Membership
+The CNCF ecosystem continues to grow across vendor and end user memberships, making CNCF one of the most successful open source foundations ever.
+Our global membership community is a cornerstone of CNCF. Members help CNCF and the Linux Foundation provide neutral governance, strong IP management, ecosystem building, training, events, developer marketing, rich tools to engage communities, and more to keep the wheels of innovation spinning for our project communities.
+In 2021, we added over 190 new members to CNCF, equating to a 23% increase in our growth from 2020.
+Today, CNCF has over 740+ organizations participating, including the world’s largest public and private cloud companies, along with the world’s most innovative software companies and end user organizations. Investment from these leading organizations signifies a strong dedication to the advancement and sustainability of the cloud native ecosystem for years to come.
+CNCF MEMBERSHIP GROWTH
+Member Movers and Shakers
+New Gold members
+Upgraded to Platinum
+200+ new members
+80 new members
+from China
+740+ member organizations
+23% growth from 2020
+End users are not passive, they’re becoming leaders in open source projects.
+Cheryl Hung
+Engineering Lead, Apple
+End User Community
+At our heart, CNCF is driven by a welcoming foundation of doers at the leading edge of cloud native.
+We’re committed to creating end user-driven open source and this year, more than ever, we’ve seen End Users actively shape the ecosystem – driving huge-scale adoption and growth of CNCF projects.
+100%
+would recommend CNCF to other companies
+(2021 End User survey)
+164+
+End User Members
+CNCF MEMBERSHIP GROWTH
+AWARD ANNOUNCEMENT
+26,648
+contributions
+to 13 different projects
+One example of this is Spotify, which donated Backstage to increase the velocity of its development and contribute learnings back to the broader community.
+We were thrilled to grant Spotify our Top End User Award this year, in recognition of its notable contributions to the cloud native ecosystem.
+Contributed  Project
+It has been chaotic but amazing. Everything from the number of adopting companies to new contributors has increased exponentially since Backstage became a CNCF project. We’re figuring out the right ways to harness this chaos in order to scale and move the project forward in a way the community wants, but in a way that also serves adopters. Keeping an open conversation with the community is key to this.
+Austin Lamon
+director of product, Spotify
+End User Stories
+The CNCF End User Stories Program, formerly the CNCF Case Studies program, features real-world use cases and the impact CNCF projects and cloud native technologies are having on end users’ businesses.
+These stories build narratives around specific metrics, acting as a valuable resource for organizations considering adopting cloud native technologies and showcasing participating organizations as leaders in their field.
+This year, we expanded our former Case Studies program to create the End User Stories beta program – empowering our fast-growing End User community to tell their stories through a self-service partnership model with editorial support and guidance provided by the CNCF. Through this new program, we discovered incredible stories from organizations like Entain Australia and Seagate.
+Because of Linkerd, we’ve been able to easily increase the volume of requests by more than 10x, reduce operating costs, and better hit our availability targets – while continuing to iterate on our business differentiators.
+Steve Gray
+Head Of Trading Solutions, Entain Australia
+End User Lounge
+As an expansion of the End User Stories program, we launched our End User Lounge Live Stream in April – a program offering exclusive live streams for end users to showcase how they navigate the cloud native ecosystem. This year, we featured unscripted conversations with eight cloud native end users at the top of their game, including CERN’s Ricardo Rocha, who explained how CERN manages 600+ Kubernetes clusters and the challenges faced while building infrastructure at scale.
+You can watch the End User Lounge recordings on our End User Community playlist. 
+Case Studies
+In 2021 we published 7 case studies showcasing a diverse group of end users from all across the world, in industries as varied as healthcare (Zambon), finance (Fidelity Investments), retail (Ekljop), and data storage (Seagate). 
+Get Involved
+Our Case Studies help accelerate the adoption of cloud native technologies around the world. Share how cloud native technologies have transformed your organization and amplify your brand with CNCF. 
+Get Started
+End User-driven Research
+This year we launched a new initiative – a series of microsurveys to highlight the diverse knowledge of our robust community. We conducted six microsurveys and published four reports – Kubernetes at the Edge, FinOps for Kubernetes, Diversity in Cloud Native, and Cloud Native Security. The final two reports on Cloud Native Observability and Service Mesh will be published in early 2022. 
+In addition, the End User Community delivered three End User Technology Radars in 2021 – quarterly reports focusing on a single topic in cloud native, aimed at a technical audience who want to understand what cloud native solutions end users use and recommend.
+CNCF Technology Radar
+This year, radars explored DevSecOps, Multicluster Management, and Secret Management, and received significant press and analyst coverage including DevClass, TechRadar Pro, InfoQ, and Container Journal.    
+Technical Oversight Committee
+In 2021, we welcomed six new members to the TOC – one of CNCF’s three main bodies, in addition to the Governing Board (GB), which is responsible for marketing, budget and other business oversight decisions, and the End User Community (EUC), which is responsible for providing feedback from companies and startups to improve the overall experience for the cloud native ecosystem.
+New members appointed by the Governing Board: 
+Erin Boyd, Engineer, Apple Cornelia Davis, Product Management, AmazonLei Zhang, Engineer, Alibaba and co-maintainer of Kubernetes community, and co-chair of CNCF App Delivery SIG 
+New members appointedby the End User Board:Dave Zolotusky, Software Engineer, Spotify 
+Ricardo Rocha, Computer Engineer, CERN 
+New members appointed by the TOC:Davanum Srinivas, Staff Engineer, VMWare 
+They joined serving TOC members Alena Prokharchyk, Justin Cormack, Liz Rice (Chair), Saad Ali, and Sheng Liang.
+Thanks
+We’d also love to extend a big thank you to our outgoing TOC members – Brendan Burns, Matt Klein, Xiang Li and Michelle Noorali – for their years of commitment to safeguarding CNCF’s technical vision and growing this community into a neutral home for the ecosystem’s most promising technologies!
+CNCF in the Media
+Throughout2021 CNCF drove thought leadership across global media, exploring significant movements from diversity, equity, and inclusivity, to open source trends.
+Press by the numbers
+10,393
+articles about CNCF globally to-date
+29%
+YoY increase in press coverage to-date
+Software’s Big Skill—Up, Learning The Way To Cloud—Native
+4 ways the coder community can help fix its diversity problem
+The container incubator
+Why Cloud Native Open Source Is Critical for Twitter and Spotify
+How to bridge the gender gap in the tech sector
+Virtual & hybrid EVENTS
+Despite all our hopes, the COVID-19 pandemic continued to shape 2021
+To ensure the safety of our growing cloud native community, CNCF doubled down on digital last year, launching a suite of programs to bring #TeamCloudNative together – providing opportunities for collaboration, learning, and networking from every corner of the globe.
+Highlights from KubeCon+CloudNativeCon North America
+KubeCon + CloudNativeCon has always been a celebration of that community spirit, a place where contributors and users from across the world get to meet and share ideas face-to-face.
+Betsy Amy-Vogt
+SiliconANGLE
+Kubernetes Community Days
+In response to the cloud native community’s evolving needs and geographies, CNCF relaunched the Kubernetes Community Days (KCD) program in 2021 – community-organized events that gather cloud native adopters and technologists to learn, collaborate, and network. The goal of the events is to further the growth and improvement of Kubernetes and cloud native technologies around the world.
+The program relaunched to massive demand. In just the first 8 months of the program, there have already been 12 KCDs in 12 different countries with over 7,500 attendees. The program has also expanded beyond just English to include talks in Chinese, Indonesian, Italian, Korean, and Spanish. While many of the events were virtual because of the pandemic, KCD China hosted the first two hybrid events in Beijing and Shanghai.
+program relaunched to massive demand
+12 KCDs
+In-person, virtual & hybrid
+(2021 End User survey)
+7,500+ attendees
+Adopters & technologists
+Presentations
+in multiple languages
+12 Countries
+Across the globe
+Kubecon + cloudnativecon
+EUROPE 2021 (Virtual)
+May saw KubeCon + CloudNativeCon EU Virtual once again set record-breaking registration and attendance, with 26,648 registrants (a 42.5% increase on 2020).
+feature Keynote
+How Cloud Native Tech Helped Peloton Ride to Exponential Growth
+Jim Haughwout, VP, Peloton
+DOWNLOAD EVEnt
+transparency report
+The event in Numbers
+624 Submissions
+145 Speakers
+26,648
+Total RegistrationS
+Breakdown of attendees by location
+Breakdown of particpating companies
+168
+Countries
+9,092
+companies participated
+Attendees from countries across six continents
+kubecon + cloudnativecon
+North America 2021
+As a truly global community, gathering for our first Hybrid KubeCon + CloudNativeCon in Los Angeles in October was a special moment.
+We welcomed 3,531 attendees in-person, and 19,633 through our virtual event platform — setting a new standard in hybrid events.
+Research from David Sally tells us that cooperation and collaboration increases 45% when meeting in person and having face-to-face interactions, so we’re committed to driving more future opportunities for #TeamCloudNative to collaborate and learn together in-person.
+feature Keynote
+Building support for your Cloud Native journey
+Robert Duffy, Expedia
+DOWNLOAD EVEnt
+transparency report
+The event in Numbers
+154
+Countries
+23,164
+Total RegistrationS
+Attendees from six continents
+Breakdown of attendees by location
+Breakdown of attendees by location
+3,531
+IN-PERSON
+19,633
+Virtual
+Most represented countries in attendance
+Most represented countries in attendance
+Breakdown of particpating companies
+Top 10
+End User companies by attendance
+JP Morgan Chase
+Apple
+Visa
+Fidelity
+Intuit
+Capital One
+Bloomberg
+American Express
+Twitter
+Salesforce
+7,290
+companies participated
+Covid Response
+Our commitment to enabling collaboration also means we’re deeply committed to keeping #TeamCloudNative safe.
+CNCF has a long-standing relationship with Dr. Joel Selanikio, a physician, former CDC epidemiologist and outbreak investigator, and consultant epidemiologist to the DC Department of Health and to FEMA for the COVID-19 response over 2020-21.
+Thanks to Dr. Selanikio’s continuous council, we have been able to take educated and well-thought out steps to ensure the safety of our community members as we navigate COVID-19.
+kubecon + cloudnativecon
+CHINA 2021
+We don’t yet have all our statistics available from this virtual December 9+10 event, but we’ll share them as soon as they’re ready!
+7160
+Total
+RegistrationS
+161
+Speakers
+TRAINING & Certification
+CNCF doubled down on our commitment to #TeamCloudNative in 2021 by expanding our globally recognized certifications, boosting employment opportunities, and helping more folx to upskill their practical application of cloud native technologies.
+This year we launched the Kubernetes and Cloud Native Associate (KCNA) — a pre-professional certification designed for candidates interested in working with cloud native technologies. The KCNA underscores conceptual knowledge of the entire cloud native ecosystem, particularly focusing on Kubernetes, and is meant for more than just developers.
+Alongside, we launched a new practical training course — Inclusive Strategies for Open Source (LFC103) — designed to provide specific strategies for creating inclusive open source communities and codebases, and advice on executing those in communities.
+2021 training courses
+CNCF strengthened our commitment to growing the cloud native ecosystem in 2021 – expanding our globally recognized certifications, boosting employment opportunities and helping more folx to upskill their practical application of cloud native technologies.
+This year, we launched the Kubernetes and Cloud Native Associate (KCNA)  – a pre-professional certification designed for candidates interested in working with cloud native technologies. The KCNA underscore’s conceptual knowledge of the entire cloud native ecosystem, particularly focusing on Kubernetes and is meant for more than just developers.
+Alongside, we launched a new practical training course – Inclusive Strategies for Open Source (LFC103) – designed to provide specific strategies for creating inclusive open source communities and codebases and advice on executing those in communities.
+CNCF’s training and certification program continued to grow. These training courses and exams received considerable interest:
+89%
+INCREASE
+Certified Kubernetes Administrator (CKA) exam hit 70,000 enrollments.
+39%
+INCREASE
+Kubernetes Massively Open Online Course (MOOC) hit 229,000 enrollments.
+86%
+INCREASE
+Certified Kubernetes Application Developer (CKAD) hit 34,000 exam registrations.
+8,450
+Registrations
+Certified Kubernetes Security Specialist (CKS) launched in November 2020.
+Save $2,500 off your next Kubernetes Certification
+Join the CNCF End User Community and take advantage of our training benefits
+Our End User Supporters receive five 100% off coupon codes – a value of up to $2,500 – for any eLearning class, certification exam, or eLearning + Certification exam “bundle” in the Training and Certification Catalog.
+Our End User Members receive a year-long 15-Seat Starter Pack Subscription to eLearning and certification – a $7,500 value – for unlimited access to the entire eLearning catalog and one certification exam.
+28%
+INCREASE
+Kubernetes Certified Service Provider (KCSP) program reached 230 certifications in 2021.
+14%
+INCREASE
+Kubernetes Training Partner (KTP) program grew to 57 certified companies.
+Courses that CNCF funded in 2021
+• Introduction to Kubernetes on Edge with k3s
+• Inclusive Strategies for Open Source (LFC103) 
+• Intro to Kubernetes on the Edge with K3S 
+• GitOps with Flux 
+• Kubernetes and Cloud Native Associate (KCNA) certification
+• KCNA Prep Course
+• Advanced Service Mesh with Linkerd (inflight)
+• Ethics and Open Source (inflight)from 2020).
+PROJECT  Updates & Satisfaction
+Throughout 2021, CNCF underscored our commitment to making cloud native ubiquitous by hosting 16 graduated projects, 26 incubating and 78 sandbox projects, driven by more than 142,000 contributors representing 189 countries.
+Reflecting the evolution of cloud native, this was the year that solidified Kubernetes’ place as the de facto container orchestration tool. In fact, RedHat’s Kubernetes adoption, security, and market trends report 2021 noted that: “Kubernetes is used by nearly everyone… (and) is living up to its title as the de facto container orchestrator.”
+Complementing this maturation in CNCF’s graduated projects, in 2021 the Technical Oversight Committee — chaired by Liz Rice (pictured right)— continued to sharpen focus on app delivery and the ease of creating Kubernetes applications, as well as bolstering the range of increasingly-mature storage projects.
+Relentless Momentum
+CNCF  projects accepted
+Project Movers and Shakers
+The CNCF community has continued to push the boundaries of experimental technology and in 2021 projects exploring the bleeding edge of cloud native have stormed onto the scene.
+wasmCloud was just one of 42 new sandbox projects accepted into CNCF last year, a 20% year-on-year increase in new projects. Meanwhile, we hosted our first eBPF day, bringing together leading eBPF practitioners to help drive technology evolving Linux networking, observability, and performance.
+Projects increase their maturity level by demonstrating to the TOC that they have attained end user and vendor adoption, established a healthy rate of code commits and codebase changes, and attracted committers from multiple organizations.
+Graduations
+Incubation level
+Maintainer Survey Summary 2021 H2
+CNCF Project Maintainer Survey Results
+CNCF conducts a survey of our project maintainers twice a year. Overall satisfaction with CNCF increased in 2021, with an improved rating on staff responsiveness. We saw 98% maintainer project representation, and 89% of maintainers recommended CNCF as a place to host an open source project.
+84%
+Maintainer Satisfaction; 91 projects reporting in
+> 2020 (from 83%)
+> 2019 (from 80%)
+93%
+Maintainers are satisfied with CNCF staff response time
+> 2020 (from 92%)
+> 2019 (from 84%)
+89%
+A large majority of maintainers would recommend CNCF for other projects
+> 2020 (from 88%)
+> 2019 (from 84%)
+Services and Assistance for Projects
+CNCF provides a variety of services to our projects to help make them more successful and sustainable.
+Events
+CNCF continues to invest in CNCF-hosted projects by assisting with their own specialized events. In 2021, these were in conjunction with KubeCon + CloudNativeCon.
+Co-located with KubeCon + CloudNativeCon Europe Virtual
+Cloud Native Rust Day | 518 attendees
+Cloud Native Security Day | 1,102+ attendees
+Cloud Native Wasm Day | 340+ attendees
+Crossplane Community Day | 293+ attendees
+Data on Kubernetes Day hosted by CNCF | 370+ attendees
+FluentCon: Cloud Native Logging day with Fluent Bit and Fluentd | 335+ attendees
+Kubernetes AI Day | 588+ attendees
+Kubernetes on Edge Day | 624+ attendees
+Magma Day | 163 attendees
+PromCon Online 2021 | 429 attendees
+ServiceMeshCon | 783+ attendees
+Co-located events with KubeCon + CloudNativeCon North America Hybrid:
+Cloud Native DevX Day | 43 in-person attendees + 339 virtual attendees
+Cloud Native eBPF Day | 76 in-person attendees + 501 virtual attendees
+Cloud Native Security Conference | 116 in-person attendees + 636 virtual attendees
+Cloud Native Wasm Day | 29 in-person attendees + 284 virtual attendees
+EnvoyCon | 48 in-person attendees + 424 virtual attendees
+FluentCon |14 in-person attendees + 225 virtual attendees
+GitOpsCon | 103 in-person attendees + 608 virtual attendees
+Kubernetes AI Day, co-hosted by LFAI + Data | 52 in-person attendees + 538 virtual attendees
+Production Identity Day: SPIFFE + SPIRE | 28 in-person attendees + 283 virtual attendees
+PromCon | 47 in-person attendees + 474 virtual attendees
+ServiceMeshCon | 65 in-person attendees + 636 virtual attendees
+SupplyChain SecurityCon, co-hosted by CDF | 92 in-person attendees + 474 virtual attendees
+CNCF Hosted – Co-located with KubeCon + CloudNativeCon:
+Cloud Native Security Day Europe | 890 registered attendees
+Serverless Practitioners Summit Europe | 496 registered attendees
+ServiceMeshCon Europe | 891 registered attendees
+Cloud Native Security Day North America | 1,606 registered attendees
+OpenTelemetry Community Day North America | 913 registered attendees
+Production Identity Day: SPIFFE + SPIRE North America | 515 registered attendees
+ServiceMeshCon North America | 1,803 registered attendees
+Documentation
+This year the documentation team launched a new program, documentation assessments, providing structured, actionable feedback to projects across the ecosystem.
+CNCF completed four documentation assessments:
+Project Contour
+Notary
+Tremor
+Krator
+Phippy and Friends
+From a humble PHP app, Phippy has gone on to help thousands of folx take their first steps to understanding cloud native computing – from containerization to automation. Today, Phippy and Friends’ mission is to demystify cloud native computing and explain complicated concepts in a compelling, engaging and easy-to-understand manner.
+In 2021, three graduated projects donated characters
+Hazel
+the Hedgehog
+Linky
+the Lobster
+Tiago
+the Tiger
+We enjoyed new Phippy Adventures in three books
+Admiral Bash’s
+Island Adventure
+By the Cartografos Group
+From 00-K8s, with Love
+Donated by Microsoft Azure
+The Illustrated Children’s Guide to Kubernetes
+In Italian, thanks to SparkFabrik
+Are you a maintainer on a graduated project? Do you want to help others better understand the concepts of cloud native computing? Donate a character
+Blog Posts
+This year, we introduced the CNCF blog metrics tracker, to enable authors to track the number of views their blogs receive. We published 305 blog posts, and ticked over half a million unique views – increasing blog readership 12% from 2020.
+Top blog posts for 2021
+504,243
+Unique Blog Views
+12,249 views
+gRPC, when you are arcThinkhitecting modern microservices! By Infosys
+10,115 views
+Simplifying multi-clusters in Kubernetes By Equinix Metal & Polytechnic of Turin
+9,238 views
+Kubernetes Cluster API reaches production readiness with version 1.0  By Cluster API Maintainers
+8,943 views
+Advanced Kubernetes pod to node scheduling  By ARMO
+7,435  views
+Prometheus announces an Agent to address a new range of use cases By Prometheus Maintainers
+CNCF Service Desk
+CNCF SERVICE DESK REQUEST BURN UP CHART
+To improve access to activities and services that CNCF offers to its hosted projects, the CNCF Service Desk serves as a single access point for all CNCF services. If you’re a CNCF project  maintainer, all you have to do is visit
+servicedesk.cncf.io to request support.
+1000
+750
+500
+250
+jan 2021
+feb
+2021
+Mar 2021
+apr 2021
+may 2021
+jun 2021
+jul 2021
+Aug 2021
+sep 2021
+oct 2021
+nov 2021
+Community & Diversity Engagement
+The CNCF community spans the world, across our contributors, members, meetups, and ambassadors.
+We strengthened our commitment to #TeamCloudNative in 2021, investing in community-driven initiatives to fuel sustained momentum, expansion, growth, and adoption. Importantly, we continued to sharpen focus on our DEI initiatives, ensuring that the ecosystem is a welcoming place where everybody can thrive.
+CNCF continues to support the development of this incredible cloud native community while also striving to ensure that everyone who participates feels welcome regardless of gender, gender identity, sexual orientation, disability, race, ethnicity, age, religion, or economic status. In 2021, women and gender non-conforming speakers made up 43% of the keynotes at KubeCon + CloudNativeCon EU Virtual and 46% at KubeCon + CloudNativeCon North America Hybrid. 
+DIVERSITY, EQUITY AND Inclusivity
+women and gender non-conforming speakers
+43%
+of Keynotes at Kubecon EU
+46%
+of Keynotes at Kubecon NA
+scholarshipS
+We offered scholarships to 685 diversity applicants from traditionally underrepresented and/or marginalized groups and 807 need-based applicants in 2021 to attend KubeCon + CloudNativeCon and CNCF hosted co-located events. Scholarships were funded by sponsorships from Apple, Cisco, Cloud Native Computing Foundation, Cockroach Labs, Google Cloud, Iguazio, Meltwater, Salesforce, Scaleway, StackPulse and Styra.
+We also funded 1600+ student scholarships for students to attend KubeCon + CloudNativeCon Europe, and 1,917 for KubeCon + CloudNativeCon North America.
+To date, CNCF has offered more than 3789 diversity and need–based scholarships to attend KubeCon + CloudNativeCon and other CNCF hosted events over the course of its life.
+685
+diversity RECIPIENTS
+807
+need-based RECIPIENTS
+CloudNative.tv
+CloudNative.tv launched as the beginning of CNCF’s live streaming efforts.
+What originally began as a once weekly livestream, as a part of online programs for members, has now expanded to include community driven programming.
+Each week on Cloud Native Live, Cloud Native Ambassadors stream with a member to talk about and demo the latest in cloud native. There are also a cast of shows run by the community for the community. They range from 101 project explainers, how to get started contributing, to a game show. The CNCF Twitch channel has grown to over 4,000 subscribers and we hope to continue expanding how we can teach and tell cloud native in the coming year.
+Community Awards
+Now in their fifth year, the CNCF Community Awards highlighted the most active ambassador and top contributor across all CNCF projects. The awards included:
+“Chop Wood and Carry Water” 
+To recognize contributors who spend countless hours completing often mundane tasks, CNCF created the “Chop Wood and Carry Water” awards. CNCF was proud to acknowledge the amazing efforts of five individuals for their outstanding contributions in 2021:
+Emily Fox, Aeva Black,
+Tasha Drew, Carlos Panato, Carolyn Van Slyck
+Top Cloud Native Committer
+An individual with incredible technical skills and notable technical achievements in one or multiple CNCF projects. The 2021 recipient was Nikhita Raghunath.
+Top Cloud Native Ambassador
+An individual with impressive community-oriented skills, focused on spreading the word and sharing knowledge with the entire cloud native community or within a specific project. The 2021 recipient was Anaïs Urlichs.
+Top Documentarian (new in 2021)
+This award recognizes excellence in documentation contributions to CNCF and its projects. Excellent technical documentation is one of the best ways projects can lower the barrier to contribution. The 2021 recipient was Tim Bannister.
+Top End User Award
+We also celebrate the contributions that end users make to our ecosystem, including providing upstream contributions to projects, creating and maintaining open source projects to expand the ecosystem, and providing significant insights into successes and failures.
+We were thrilled to grant our Top End User Award to Spotify this year, in recognition of its notable contributions to the cloud native ecosystem. See page 8
+CNCF Meetups become Community Groups
+2021 saw the cloud native community switch from the Meetup platform to Cloud Native Community Groups and the new platform has taken off.
+It has become the singular place where meetups, online programs, project office hours, and community events are run. The platform now hosts over 29,000 members and we are excited to see this platform continue to grow
+Community Groups 2021
+27,000+
+ATTENDEES
+922
+EVENTS
+356
+CHAPTERs
+CNCF MEETUP MEMBERS
+CNCF Ambassador Program
+Inclusive Naming Initiative
+Cloud Native Ambassadors (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise and willingness to help others learn about the framework and community. These individuals are bloggers, influencers, and evangelists. CNCF has 134 CNCF Ambassadors around the globe, educating the world on cloud native technologies and best practices.
+We accepted 19 new CNCF ambassadors and provided financial support for ambassador-run meetups in 2021. We are excited to have this worldwide group of people with diverse interests, experiences, and technical backgrounds help drive local and global cloud native communities.
+CNCF staff and leadership donated considerable time throughout 2021 to advancing the Inclusive Naming Initiative — a community aiming to remove harmful language from code and software documentation.
+Mentoring & Ecosystem Resources
+CNCF worked closely in partnership with individual contributors and community groups throughout 2021, developing tools to navigate and manage the fast-growing ecosystem – rising to meet the growing global demand for cloud native technologies.
+As part of our ongoing evolution, this year our community significantly advanced the wider understanding of cloud native projects through our mentoring program, the launch of the Cloud Native Glossary and Landscape Guide, driven by the Business Value Subcommittee, and the Cloud Native Maturity Model, spearheaded by the Cartografos Working Group. 
+Community Mentoring
+CNCF proudly supported more than 100 individuals through various mentoring and internship opportunities in 2021.
+including the LFX mentorship platform (previously known as Community Bridge), Google Summer of Code (GSoC), Google Summer of Docs (GSoD) program, and Outreachy. These programs are important catalysts for internships to have an impact on future technologies that we all depend on.
+We sponsored 104 students
+86
+LFX Mentorship
+16
+GSoC
+1
+GSoD
+1
+Outreachy
+I don’t have words to describe how amazing this program was for me. From getting an opportunity to be a Keynote guest speaker in KubeCon Europe with Priyanka Sharma (GM, CNCF) to getting involved with more cloud-native projects like Buildpacks and in fact, getting an internship as a Software Engineer at HackerRank – LFX Mentorship Program was like a watershed moment in my life!
+Mentee Mritunjay SharmaMentor Jim Bugwadia
+The key focus was always on the learning rather than getting the work done. It was undoubtedly one of the most fruitful and learning experiences I have had and I wish to continue the contribution to community and project
+Mentee Nupur AgrawalMentor Matthias Wahl, Anup Dhamala and Heinz Gies
+CNCF Landscape
+With more than 4.2M pageviews in 2021, the CNCF Cloud Native Landscape is the place where those looking to adopt cloud native technology begin their journey.
+Key stats
+Many start with the landscape to get a picture of all of the cloud native options available in the ecosystem. The landscape started in November 2016 as a static image of fewer than 100 projects and products. In 2021, it has grown through the power of collaborative editing, to track more than 1,828 projects, products, and companies and includes a serverless landscape and the CNCF member landscape. The project has nearly 8,000 stars on GitHub.
+1,828
+projects
+8,000 
+github stars
+Cartografos Working Group
+The Cartografos working group aims to provide effective, practical tools to help adopters and end users to navigate the ever – evolving CNCF landscape and the wider cloud native ecosystem.
+The Cloud Native Maturity Model
+In October, the Cartografos Group released its first project – the Cloud Native Maturity Model, bringing together a number of separate maturity models around the journey to cloud native, and Kubernetes, to create an encompassing model spanning the entire cloud native ecosystem.
+As the maturity model was created, it became apparent quickly that the journey is not limited to technology, with clear themes around people, process and policy. This was illustrated in Admiral Bash’s Island Adventure – a fun children’s book, presented at KubeCon + CloudNativeCon North America, following Admiral Bash on a cloud native quest.
+Cloud Native Landscape Guide
+If you’ve researched cloud native applications and technologies, you’ve probably come across the CNCF cloud native landscape. Unsurprisingly, the sheer scale of it can be overwhelming, with so many categories and so many technologies. In 2021, to help make sense of this important tool, we launched the Cloud Native Landscape Guide. This breaks down our mammoth landscape and provides a high-level overview of its layers, columns, and categories.
+A huge thank you to those who made the guide possible! The cloud native landscape guide was initiated by the CNCF Business Value Subcommittee and Cartografos group. It was authored by Jason Morgan and Catherine Paganini, edited and reviewed by Simon Forster and Ihor Dvoretskyi, and built by Jordi Noguera, with UX consultation from Andrea Velázquez.
+Business Values Subcommittee
+The BVS aims to create open source artifacts that educate executives, business leaders, and non-technical audiences on cloud native technologies and their business value.
+CNCF Glossary
+In May, we introduced the new CNCF Cloud Native Glossary to provide anyone getting started with cloud native an introduction that is largely free of jargon and assumptions of pre-existing familiarity.
+It launched with 25 terms and more will be added with time. The project is spearheaded by the Business Value Subcommittee (BVS), whose primary goal is to provide tools to educate executives, business leaders, and non-technical audiences on cloud native technologies and their business value.
+As technologists we have a moral obligation to ensure that business stakeholders understand the transformative change that cloud native allows, and that cloud native isn’t seen only as a set of technologies. I’m excited that the Cloud Native Glossary is a first step towards assisting the organizational change that cloud native makes possible.
+Daniel JonesManaging Director of EngineerBetter
+The Glossary is a community-driven effort and everyone is welcome to contribute new terms, update current ones, or help translate into different languages.
+Contribute
+Business Value Track
+At KubeCon + CloudNativeCon North America, we broaden the horizon of contributions by introducing the Business Value Track – sessions that focus on how cloud native technologies and/or open source provides value to a business’s bottom line or department outside IT.
+CNCF Job Board
+12%
+Increase in Job Seekers
+We launched the CNCF Job Board in 2019.
+Since then, the job board has listed over 2,400 jobs. More than 4,800 job seekers to-date have applied for a job via email or on the site.
+The job board is a free service for both posters and applicants, and CNCF member job openings receive a featured listing. We invite you to post your job, search for candidates, or find your next employment opportunity through the CNCF Job Board.
+Job Applicants
+2,800+
+2021
+2,500+
+2021
+DevStats
+In 2017, CNCF developed DevStats, a tool to visualize various developer and community metrics for Kubernetes and other CNCF-hosted projects, as well as non-CNCF open source projects hosted on a public GitHub repository. DevStats organizes and displays CNCF-hosted project data using Grafana dashboards.
+In 2021, we migrated DevStats to Golang modules and switched to Kubernetes v1.20 on bare metal Equinix Metal servers. We also added additional DevStats reports, new dashboards, and panels for some projects.
+We generate a number of reports from DevStats databases, which are available to the community. CNCF developer Lukasz Gryglicki, the primary developer on DevStats, is responsive to suggestions and pull requests that provide additional insights into the development of CNCF’s hosted projects.
+Security in Cloud Native
+2021 will be remembered as the year security became top of mind in cloud native. As hacks increased around the world and adoption of projects really hit the mainstream, the ecosystem sharpened focus on making sure our projects provide a secure foundation to the industry.
+Six CNCF hosted projects received security audits in 2021. Contour, SPIRE/SPIFFE, and Flux received regular audits while Linkerd, Envoy, and Vitess all underwent fuzzing which was first piloted last year. The CNCF Bug Bounty program which rewards researchers who find security vulnerabilities in project codebase, as well as build and release processes also paid out over $10,000 for 19 bounties resolved.
+In response to the executive order on software supply chain security, The CNCF Security Technical Advisory Group published Software Supply Chain Security Best Practices, to provide a holistic approach to supply chain security. They also hosted Cloud Native Security Day at KubeCon + CloudNativeCon NA and EU and a SupplyChainSecurityCon at KubeCon + CloudNativeCon NA.
+It’s exciting to see CNCF projects, like in-toto providing a key part of supply chain security.
+Sarah Allenco-chair of the CNCF Security TAG
+CNCF is committed to continually improve the security of the cloud native ecosystem for adopters everywhere.
+Community-driven Initiatives
+Kubernetes API Endpoint Testing
+2021 saw the update of APISnoop, a visual insight into Kubernetes test coverage, to run e2e tests on Kubernetes 1.23.0. APISnoop is a community-driven project spearheaded by long–time CNCF contributor and community leader Hippie Hacker, which tracks the testing and conformance coverage of Kubernetes by analyzing the audit logs created by e2e test runs.
+Telecom Advances
+Cloud Credits
+This year, the Cloud Native Network Function (CNF) Working Group launched as the newest CNCF Telecom Initiative, with representatives from Telecom and cloud native communities. By the end 2021, the CNF Test Suite, maintained by CNCF’s strategic partner vulk.coop with contributions from 16 organizations, had more than 60 tests across many important categories.
+Many organizations sponsor CNCF projects for their business to succeed. In October, CNCF launched the Cloud Credits program to provide public, self-service, and automated access to Cloud Infrastructure for hosted projects.
+Who We Are
+The Cloud Native Computing Foundation (CNCF) is an open source software foundation dedicated to making cloud native computing universal and sustainable.
+Internally, we employ 38 people from various backgrounds and locations; 68% women, 32% men. CNCF’s Governance Leadership, comprising the Governing Board and Technical Oversight Committee, is 14% women and 86% men.
+Presently folx on our staff and governing board self-identify as she/her or he/him. We welcome all individuals and encourage applications for future opportunities on the CNCF Job board.
+STAFF
+EXECUTIVE LEADERSHIP
+GOVERNANCE LEADERSHIP
+FUNDING
+CNCF’s revenue is derived from four primary fundraising sources, including membership, event sponsorship, event registration, and training.
+four funding sources
+A basic premise behind CNCF, our conferences (including KubeCon + CloudNativeCon), and open source, in general, is that interactions are positive–sum. There is no fixed amount of investment, mindshare, or development contribution allocated to specific projects. Equally important, a neutral home for a project and community fosters this type of positive–sum thinking and drives the growth and diversity that we believe are core elements of a successful open source project.
+Expenditures
+50.5%
+Events
+17.4%
+Developer Collaboration and IT
+1.2%
+Legal
+1.0%
+Operations
+4.8%
+Reserve
+6.6%
+Marketing, Communications & Bus Dev
+1.9%
+Training & Certification
+10.8%
+Leadership & Coordination
+5.8%
+LF General and Administrative
+THANK YOU
+We hope you enjoyed reflecting on all the great things we accomplished together in 2021.
+Your comments and feedback are welcome at info@cncf.io
+We’re looking forward to seeing you in 2022!
+Check out our calendar for community events near you and don’t forget to register for KubeCon+CloudNativeCon Europe in Valencia, May 2022.
