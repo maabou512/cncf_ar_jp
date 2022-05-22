@@ -19,7 +19,7 @@ The Linux Foundation Japan
 Original PDF publcly released by CNCF
 
 - **CNCF AR_01.indd**<br>
-Orinal InDesign File ( not to be edited) 
+Original InDesign File ( not to be edited) 
 
 - **CNCF AR_01_jp.indd**<br>
 InDesign Japanese Translation file (to be edited), which was generated from IDML file via Rainbow conversion and OmegaT translation. 
@@ -28,10 +28,10 @@ InDesign Japanese Translation file (to be edited), which was generated from IDML
 Final PDF file ( but released file is not this. see the note above) 
 
 - **omegaT_rainbow**<br>
-The folder in which omegaT translation memory, etc. and XLIFF files generated from Rainbow
+The folder in which omegaT translation memory related files, etc. and XLIFF files generated from Rainbow
 
 - **Out_of_scope**<br>
-Some sentences in the report are note text data,but image file(.ai/svg) . They cannot be translated directly, so we scoped out fo translation so far.
+Some sentences in the report are not "text data",but image data(.ai/.svg) . They cannot be translated directly, so we scoped out fo translation so far.
 
 ## About the LFJ Collaborative Translation Effort (CTE) 
 
